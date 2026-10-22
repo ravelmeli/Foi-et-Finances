@@ -1,0 +1,3 @@
+- `met-247144` — « Gold stater », Greek, ca. 323/2–315 BCE — https://www.metmuseum.org/art/collection/search/247144 — Gift of J. Pierpont Morgan, 1905 — Public Domain (CC0, Met Open Access)
+- `met-247146` — « Silver tetradrachm », Greek, 315–308 BCE — https://www.metmuseum.org/art/collection/search/247146 — Gift of J. Pierpont Morgan, 1905 — Public Domain (CC0, Met Open Access)
+- `met-255214` — « Terracotta lekythos (oil flask) », Greek, Attic, ca. 500–490 BCE — https://www.metmuseum.org/art/collection/search/255214 — Rogers Fund, 1966 — Public Domain (CC0, Met Open Access)
