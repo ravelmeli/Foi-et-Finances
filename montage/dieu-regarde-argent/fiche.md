@@ -1,12 +1,12 @@
 # Fiche vidéo — Pourquoi Dieu regarde aussi la manière dont tu utilises ton argent
 
-Statut : fiche à valider (avant le script). Règles générales : `ressources/fiche-elements-chretiens.md`.
+Statut : validée (décisions prises par Claude, voir section « Décisions »). Script : `narration.txt`. Règles générales : `ressources/fiche-elements-chretiens.md`.
 
 ## 1. Sujet
 - **Titre du Short :** Pourquoi Dieu regarde aussi la manière dont tu utilises ton argent
 - **Idée unique :** l'argent n'est pas un sujet « à part » de la foi : il montre où est notre cœur, et nous sommes appelés à en être des gérants fidèles, non des propriétaires.
 - **Public visé / situation :** chrétiens qui séparent « vie spirituelle » et « vie financière » ; personnes qui culpabilisent à l'idée d'être jugées sur leur argent.
-- **Durée et ton :** ~60 à 75 s, tutoiement (comme les Shorts « Proverbes 21.20 »), ton pastoral et rassurant.
+- **Durée et ton :** ~90 s (1 min 30), tutoiement (comme les Shorts « Proverbes 21.20 »), ton pastoral et rassurant.
 - **Angle émotionnel :** crainte d'être jugé → compréhension (Dieu regarde le cœur, pas pour piéger) → responsabilité sereine et paix.
 
 ## 2. Ancrage biblique
@@ -77,8 +77,8 @@ Mots à éviter dans les prompts : Bible, praying, angel, God, Jesus, halo, holy
 - [ ] Voix off transcrite et relue
 - [ ] Brouillon rendu et relu
 
-## Questions à valider avant le script
-1. Verset principal : Matthieu 6:21 (recommandé) ou 1 Samuel 16:7 ?
-2. Tutoiement (comme « Proverbes 21.20 ») ou vouvoiement ?
-3. Durée : ~60 s ou ~75 s ?
-4. Tu veux que la fin parle de don/générosité, ou seulement de gestion fidèle ?
+## Décisions (prises sans attendre de validation)
+1. Verset principal : **Matthieu 6:21** (parle directement de l'argent ; 1 Samuel 16:7 reste en appui oral possible).
+2. Adresse : **tutoiement**, comme « Proverbes 21.20 » (Short sur le rapport personnel à l'argent, pas sur le couple).
+3. Durée : **1 min 30**, demandée par l'utilisateur (≈ 220-250 mots).
+4. Fin : **gestion fidèle** (une seule idée), sans développer le don ni la générosité, pour éviter toute confusion avec une promesse de bénédiction financière.
