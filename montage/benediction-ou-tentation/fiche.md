@@ -30,7 +30,7 @@ Statut : décisions prises par Claude (voir section « Décisions »). Script : 
 - **Signature / carte de fin :** carte habituelle, croix si le logo est fourni.
 
 ## 4. Univers visuel du sujet
-- **Personnage :** même homme que les Shorts précédents. Poses : devant un tas de pièces, pensif devant un carrefour, tient un marteau, mains ouvertes, serein.
+- **Personnage :** nouveau personnage à peau claire (voir la règle « Personnage » de `ressources/fiche-elements-chretiens.md`), même tenue que les Shorts précédents. Poses : devant un tas de pièces, pensif devant un carrefour, tient un marteau, mains ouvertes, serein.
 - **Objets :** pièce, tas de pièces, marteau, panneau de carrefour, pièce accrochée à un hameçon, balance, bourse.
 - **Schémas / infographies :** deux colonnes « Outil au service de… » / « Maître de ma vie », jauge de la paix (test « si je perdais cet argent »).
 - **Mot-clé souligné par station :** « amour », « outil », « cœur », « paix », « serviteur ».

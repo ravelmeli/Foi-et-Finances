@@ -25,7 +25,7 @@ Emplacement : `montage/<nom-du-projet>/fiche.md`. Règles générales : `ressour
 - **Signature / carte de fin :** (croix du logo, variante éventuelle)
 
 ## 4. Univers visuel du sujet
-- **Personnages :** (qui, description fixe, expressions nécessaires)
+- **Personnages :** (qui, description fixe, expressions nécessaires). Personnage principal : homme à la peau claire, voir `ressources/fiche-elements-chretiens.md` section 8.
 - **Objets du quotidien :** (liste)
 - **Schémas / infographies :** (compteur, barres, schéma de décision, tableau…)
 - **Mot-clé souligné par station :**

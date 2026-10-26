@@ -79,3 +79,11 @@ Pour chercher d'autres photos : `python3 -I kit-style-02/outils/met_search.py ch
 - [ ] Aucun visage du Christ ni de saint en gros plan.
 - [ ] Crédits des photos notés dans `credits-brouillon.md`.
 - [ ] Croix du logo sur la carte de fin (quand le logo est fourni).
+
+## 8. Personnage récurrent (règle valable pour les nouvelles vidéos)
+
+À partir du Short « L'argent est-il une bénédiction ou une tentation ? », le personnage principal est **un homme à la peau claire** :
+`a man in his early thirties with short wavy light brown hair, fair light skin with a warm peach tone, a navy blue sweater with a green collar edge, beige trousers and white sneakers`.
+- Pour un couple : la femme est aussi à la peau claire (ex. `a woman in her early thirties with shoulder-length wavy chestnut hair, fair light skin, a terracotta sweater, dark blue jeans and white sneakers`).
+- Les vidéos déjà montées gardent leur personnage d'origine (peau brune) ; on ne mélange pas les deux dans une même vidéo.
+- Une fois ce personnage choisi, on ne change plus sa description d'une vidéo à l'autre.
