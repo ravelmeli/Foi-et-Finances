@@ -43,7 +43,7 @@ Mots à éviter dans les prompts : Bible, praying, angel, God, Jesus, halo, holy
 
 ## 7. Packaging
 - **Titre principal + 5 titres :**
-- **Description, tags :** voir `titre-description-tags.md`
+- **Description, tags :** voir `titre-description-tags.md`. **Le disclaimer de `ressources/disclaimer.md` est obligatoire dans chaque description.**
 - **Miniature (idée) :**
 
 ## 8. Liste de contrôle
@@ -52,5 +52,6 @@ Mots à éviter dans les prompts : Bible, praying, angel, God, Jesus, halo, holy
 - [ ] Pas de visage du Christ ni de saint en gros plan
 - [ ] Aucun texte dans les images générées
 - [ ] Crédits des photos notés
+- [ ] Disclaimer présent dans la description (`ressources/disclaimer.md`)
 - [ ] Voix off transcrite et relue
 - [ ] Brouillon rendu et relu

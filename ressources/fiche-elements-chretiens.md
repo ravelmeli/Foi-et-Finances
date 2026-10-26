@@ -78,6 +78,7 @@ Pour chercher d'autres photos : `python3 -I kit-style-02/outils/met_search.py ch
 - [ ] 1 à 2 éléments chrétiens seulement dans le reste de la vidéo, aucun dans les scènes de difficulté.
 - [ ] Aucun visage du Christ ni de saint en gros plan.
 - [ ] Crédits des photos notés dans `credits-brouillon.md`.
+- [ ] Disclaimer présent dans la description (`ressources/disclaimer.md`).
 - [ ] Croix du logo sur la carte de fin (quand le logo est fourni).
 
 ## 8. Personnage récurrent (règle valable pour les nouvelles vidéos)
