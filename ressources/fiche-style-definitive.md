@@ -89,3 +89,14 @@ Méthode du script :
 - **Fin en boucle** : la dernière phrase reprend la question d'ouverture et la caméra revient sur la première station (pas de carte de fin, pas de mode sombre).
 - **Silences** : `python3 -I kit-style-02/outils/couper_silences.py montage/<projet>` après la transcription (originaux conservés).
 - **Musique** : `python3 -I kit-style-02/outils/gen_musique_libre.py montage/<projet>/assets/audio/music.wav <durée>` — composition synthétisée, libre de droits ; mixée à 0,15 sous la voix.
+
+## 11. Vidéos longues (16:9)
+- **Format :** 1920 × 1080, `s.setup(..., fmt="16:9", cols=..., rows=...)`. Le moteur place la barre de chapitres en haut (y = 60) et les sous-titres à y = 880.
+- **Mise en page d'une station :** titre et texte à gauche (x 80–900), illustration à droite (x 1000–1840) ; zone de contenu y 300–820 ; rien d'important sous y = 860 (sous-titres) ni dans le coin bas droit (boutons YouTube).
+- **Nombre de stations :** une toutes les 5 à 8 s, soit environ 40 pour 5 minutes (toile 5 × 8 ou 6 × 7).
+- **Chapitres :** 6 dans la barre du haut, repris en chapitres YouTube horodatés dans la description.
+- **Séquence « Parole » :** une par verset (3 à 4 par vidéo), toujours identique : bandeau vert avec la référence, verset en grand à gauche, Bible ouverte à droite, son « spark », sous-titres coupés.
+- **Abonnement au milieu :** bandeau « Abonne-toi » animé au moment du CTA oral, sans couper la caméra.
+- **Fin :** carte de fin de 15 à 20 s (croix, « Foi et Finances », bouton) avec de l'espace libre pour les écrans de fin YouTube ; la musique continue.
+- **Images :** il en faut davantage qu'un Short (3 planches spécifiques par vidéo en plus du kit), réutilisées avec des cadrages et des tailles différents.
+- **Voix :** style « Narration » plutôt que « Promote » (plus posé sur la durée) ; voix générée en plusieurs morceaux, puis `couper_silences.py`.
