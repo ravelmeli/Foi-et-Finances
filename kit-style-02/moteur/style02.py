@@ -495,8 +495,8 @@ def build(chapters, suppress=(), endcard=None, endcard_t=None, music_volume=0.15
         caps.append(f'<p class="clip cap" id="cap{n}" data-start="{s:.3f}" data-duration="{e - s:.3f}"><span class="capin" id="ci{n}">{spans}</span></p>')
         tw.append(f'tl.fromTo("#ci{n}", {{ opacity: 0, y: 18, scale: 0.82 }}, {{ opacity: 1, y: 0, scale: 1, duration: 0.18, ease: "back.out(2.4)" }}, {at(s)});')
         for k, w in enumerate(ch):
-            tw.append(f'tl.fromTo("#w{n}_{k}", {{ color: "{INK}", scale: 1 }}, {{ color: "{ACC}", scale: 1.12, duration: 0.08 }}, {at(w["start"])});')
-            tw.append(f'tl.to("#w{n}_{k}", {{ color: "{INK}", scale: 1, duration: 0.12 }}, {at(max(w["end"], w["start"] + 0.16))});')
+            tw.append(f'tl.fromTo("#w{n}_{k}", {{ color: "{INK}" }}, {{ color: "{ACC}", duration: 0.08 }}, {at(w["start"])});')
+            tw.append(f'tl.to("#w{n}_{k}", {{ color: "{INK}", duration: 0.12 }}, {at(max(w["end"], w["start"] + 0.16))});')
 
     if music_volume and os.path.exists(os.path.join(HERE, "assets/audio/music.wav")):
         audio.insert(0, ("music", "assets/audio/music.wav", 0, DUR, music_volume))

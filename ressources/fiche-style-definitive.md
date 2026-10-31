@@ -70,3 +70,22 @@ Toujours : fond blanc pur, 2048 × 2048, éléments bien séparés pour la déco
 - [ ] Aucun texte dans les images générées
 - [ ] Un seul verset, traduction vérifiée
 - [ ] Disclaimer court dans la description
+
+## 10. Rétention (moteur et méthode, depuis « Besoin ou envie » v2)
+Automatique dans le moteur :
+- **Mouvement permanent** : chaque autocollant flotte et se balance jusqu'à la fin (`THEME["idle"]`).
+- **Zoom-impact** sur chaque temps fort `hit()` (`THEME["punch"]`).
+- **Sous-titres cinétiques** : 3 mots maximum, entrée en rebond, texte plus gros.
+- **Croix flottantes** et croix de signature.
+
+À utiliser dans chaque `build.py` :
+- `bigword("Envie", T("envie"))` : mot géant au moment exact où il est prononcé (2 à 5 par vidéo).
+- `bump(id, t)` : un élément déjà visible bat sur un mot-clé ; `shake(id, t)` : tremblement (stress).
+- `coins(station, x, y, t)` : pièces de style euro qui tombent et rebondissent.
+- Un changement visuel toutes les 1,5 à 2 s, jamais de station vide.
+
+Méthode du script :
+- **Accroche** dans les 2 premières secondes, puis **boucle ouverte** (« reste jusqu'au bout : la question n°3… ») refermée plus tard par un mot géant.
+- **Fin en boucle** : la dernière phrase reprend la question d'ouverture et la caméra revient sur la première station (pas de carte de fin, pas de mode sombre).
+- **Silences** : `python3 -I kit-style-02/outils/couper_silences.py montage/<projet>` après la transcription (originaux conservés).
+- **Musique** : `python3 -I kit-style-02/outils/gen_musique_libre.py montage/<projet>/assets/audio/music.wav <durée>` — composition synthétisée, libre de droits ; mixée à 0,15 sous la voix.

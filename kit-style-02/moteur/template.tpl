@@ -27,7 +27,6 @@
       #punch { position: absolute; inset: 0; transform-origin: 50% 45%; }
       .coin svg { filter: drop-shadow(0 8px 8px rgba({{INK_RGB}}, 0.25)); }
       .big { position: absolute; left: 0; right: 0; margin: 0; text-align: center; font-weight: 900; letter-spacing: -4px; line-height: 1; z-index: 55; text-transform: uppercase; }
-      .cw { display: inline-block; }
       #world {
         position: absolute;
         left: 0;
@@ -218,7 +217,6 @@
         border: 3px solid {{INK}};
         box-shadow: 6px 6px 0 rgba({{INK_RGB}}, 0.2);
       }
-      .cw { display: inline-block; }
 
       #endcard {
         position: absolute;
