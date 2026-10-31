@@ -31,10 +31,10 @@ Toujours : fond blanc pur, 2048 × 2048, éléments bien séparés pour la déco
 | --- | --- | --- | --- |
 | 1 | **Bible à la croix** | 3 à 4 stations : posée sur la table, tenue ouverte comme guide, sur un pupitre | autocollant de la planche « kit chrétien » ; jamais le mot « Bible » dans le prompt |
 | 2 | **Pupitre ou piédestal de la Parole** | station du choix, station verset | Bible ouverte sur pupitre en bois, petites croix vertes autour |
-| 3 | **Petites croix flottantes** | arrière-plan de chaque station | dessinées dans le montage (bleu clair ou vert pâle, semi-transparentes, légère dérive), jamais générées |
+| 3 | **Petites croix flottantes** | arrière-plan de chaque station | automatiques dans le moteur (`THEME["crosses"]`, couleur `THEME["cross"]`) : 6 croix vert pâle par station, semi-transparentes, lente dérive ; jamais générées |
 | 4 | **Geste de foi** | au moins une station par vidéo | bonhomme mains jointes yeux fermés, ou famille qui prie avant le repas, ou lecture |
 | 5 | **Cœur** | quand le sujet touche l'attachement | cœur réceptacle avec des pièces, cœur relié par un fil rouge au tas de pièces, cœur ligoté |
-| 6 | **Croix de signature** | haut d'écran et carte de fin | croix du logo (fichier à fournir) ou croix verte simple dessinée |
+| 6 | **Croix de signature** | haut d'écran et carte de fin | croix verte simple, automatique dans le moteur (signature et carte de fin) |
 
 ## 5. Codes couleur
 - **Vert** = Dieu, la Parole, la paix, la croissance (croix vertes, halo vert léger autour de la Bible, feuilles, plantes).

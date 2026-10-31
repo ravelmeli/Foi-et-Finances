@@ -19,6 +19,7 @@ dossier de ce fichier (template.tpl) sauf si le projet a son propre template.tpl
 """
 import json
 import os
+import random
 import re
 
 from PIL import Image
@@ -38,6 +39,8 @@ THEME_DEFAUT = {
     "line": "#AEB8C3",                # bordure des références, côtes de la carte
     "tile": "#CBD3DC",                # cases éteintes des grilles
     "land": "#D3DAE2",                # terres de la carte
+    "crosses": True,                  # petites croix flottantes en arrière-plan de chaque station (repère chrétien)
+    "cross": "#7FB89A",               # couleur des croix flottantes (vert pâle)
 }
 
 W, H, DUR = 1080, 1920, 60.0
@@ -315,6 +318,38 @@ def _camera():
     return cam_tw, route_html
 
 
+# ---------------------------------------------------------------- croix flottantes
+CROSS_PATH = "M40 0 h20 v30 h30 v20 h-30 v50 h-20 v-50 h-30 v-20 h30 z"   # croix latine, viewBox 0 0 100 100
+
+
+def cross_svg(size, color, opacity=1.0):
+    """Croix latine simple (signature, carte de fin, croix flottantes)."""
+    return (f'<svg width="{size}" height="{size}" viewBox="0 0 100 100" style="display:block">'
+            f'<path d="{CROSS_PATH}" fill="{color}" fill-opacity="{opacity}" rx="4" /></svg>')
+
+
+def _crosses(per_station=6, seed=7):
+    """Petites croix pâles, semi-transparentes, réparties dans chaque station, avec une lente dérive.
+    Elles sont posées derrière tout le contenu (début de la toile) et restent à l'écart des sous-titres."""
+    rnd = random.Random(seed)
+    nodes, moves = [], []
+    for c in range(COLS):
+        for rw in range(ROWS):
+            sx, sy = c * W, rw * H
+            for k in range(per_station):
+                size = rnd.choice([34, 42, 52, 64, 80])
+                x = rnd.randint(40, W - 40 - size)
+                y = rnd.choice([rnd.randint(470, 600), rnd.randint(600, 1400), rnd.randint(1560, H - 120)]) if H > W else rnd.randint(140, H - 140)
+                op = round(rnd.uniform(0.18, 0.34), 2)
+                rot = rnd.randint(-12, 12)
+                i = f"cx{c}{rw}{k}"
+                nodes.append(f'<div class="node xcross" id="{i}" style="left:{sx + x}px;top:{sy + y}px;transform:rotate({rot}deg)">'
+                             f'{cross_svg(size, THEME["cross"], op)}</div>')
+                dy = rnd.choice([-1, 1]) * rnd.randint(18, 40)
+                moves.append(f'tl.fromTo("#{i}", {{ y: 0 }}, {{ y: {dy}, duration: {DUR:.2f}, ease: "none" }}, 0);')
+    return nodes, moves
+
+
 # ---------------------------------------------------------------- carte de fin
 def _hl(text):
     return re.sub(r"\[(.+?)\]", r'<em class="hl"><span>\1</span><i></i></em>', text)
@@ -327,6 +362,7 @@ def _endcard(card, t):
         iw, ih = Image.open(os.path.join(HERE, "assets/stickers", name + ".png")).size
         imgs.append(f'        <img class="es" id="es{k + 1}" src="assets/stickers/{name}.png" style="left:{left}px;top:{top}px;width:{w}px;height:{round(ih * w / iw)}px;transform:rotate({rot}deg)" />')
     out = ('<div id="endcard">\n'
+           f'        <div class="ecross">{cross_svg(96, THEME["acc"])}</div>\n'
            f'        <div class="kick">{card["kicker"]}</div>\n'
            f'        <div class="h">{_hl(card["title"])}</div>\n'
            f'        <div class="sub2">{card["button"]}</div>\n' + "".join(i + "\n" for i in imgs) + "      </div>\n")
@@ -355,6 +391,10 @@ def build(chapters, suppress=(), endcard=None, endcard_t=None, music_volume=0.15
     chapters : [("01", "Libellé", début, fin), ...] ; suppress : intervalles sans sous-titres (citation affichée, fin) ;
     endcard / endcard_t : carte de fin et son instant d'apparition (voir _endcard)."""
     cam_tw, route_html = _camera()
+    if THEME.get("crosses", True):
+        cross_nodes, cross_moves = _crosses()
+        route_html = cross_nodes + route_html
+        cam_tw = cam_tw + cross_moves
     card_html = _endcard(endcard, endcard_t) if endcard else ""
 
     # Barre de chapitres, avec progression.
@@ -399,7 +439,7 @@ def build(chapters, suppress=(), endcard=None, endcard_t=None, music_volume=0.15
     for key, val in [("{{ACC_RGB}}", _rgb(th["acc"])), ("{{INK_RGB}}", _rgb(th["ink"])), ("{{ACC}}", th["acc"]), ("{{BG}}", th["bg"]),
                      ("{{INK}}", th["ink"]), ("{{GREY2}}", th["grey2"]), ("{{GREY}}", th["grey"]), ("{{LINE}}", th["line"]),
                      ("{{TILE}}", th["tile"]), ("{{LAND}}", th["land"]), ("{{LANG}}", th["lang"]), ("{{TITLE}}", th["title"]),
-                     ("{{BRAND}}", th["brand"])]:
+                     ("{{BRANDMARK}}", cross_svg(26, th["acc"])), ("{{BRAND}}", th["brand"])]:
         tpl = tpl.replace(key, val)
     if W != 1080:
         tpl = tpl.replace('content="width=1080, height=1920"', f'content="width={W}, height={H}"').replace(

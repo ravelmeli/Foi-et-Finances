@@ -185,6 +185,9 @@
       #chrome { position: absolute; left: 70px; top: 160px; width: 870px; z-index: 50; color: {{INK}}; }
       #brand { display: flex; align-items: center; gap: 12px; font-size: 24px; font-weight: 800; letter-spacing: 4px; text-transform: uppercase; }
       #brand i { display: block; width: 16px; height: 16px; background: {{ACC}}; }
+      #brand svg { display: block; width: 26px; height: 26px; }
+      .xcross { pointer-events: none; }
+      #endcard .ecross { margin-bottom: 22px; }
       #chapters { display: flex; gap: 16px; margin-top: 16px; }
       .ch { position: relative; flex: 1; padding-bottom: 10px; font-size: 20px; font-weight: 600; white-space: nowrap; }
       .ch b { font-weight: 800; color: inherit; }
@@ -248,7 +251,7 @@
       </div>
 
       <div id="chrome">
-        <div id="brand"><i></i>{{BRAND}}</div>
+        <div id="brand">{{BRANDMARK}}{{BRAND}}</div>
         <div id="chapters">{{CHAPTERS}}</div>
       </div>
 
