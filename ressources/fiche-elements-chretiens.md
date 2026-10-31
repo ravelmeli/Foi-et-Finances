@@ -81,7 +81,10 @@ Pour chercher d'autres photos : `python3 -I kit-style-02/outils/met_search.py ch
 - [ ] Disclaimer présent dans la description (`ressources/disclaimer.md`).
 - [ ] Croix du logo sur la carte de fin (quand le logo est fourni).
 
-## 8. Personnage récurrent (règle valable pour les nouvelles vidéos)
+## 8. Personnage récurrent (remplacé)
+
+> **Remplacé par `ressources/fiche-style-definitive.md` :** les nouvelles vidéos utilisent des bonhommes bâtons, la Bible à la croix et des euros. Le texte ci-dessous ne vaut plus que pour les vidéos déjà montées.
+
 
 À partir du Short « L'argent est-il une bénédiction ou une tentation ? », le personnage principal est **un homme à la peau claire** :
 `a man in his early thirties with short wavy light brown hair, fair light skin with a warm peach tone, a navy blue sweater with a green collar edge, beige trousers and white sneakers`.
