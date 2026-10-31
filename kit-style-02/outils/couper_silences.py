@@ -28,11 +28,22 @@ def main(proj, max_gap, keep):
     words = json.load(open(orig_tr))
     fade = int(0.012 * sr)
     cuts = []                                              # (début, fin) des morceaux de silence retirés, en secondes
+    mono = pcm.astype(np.float32).mean(axis=1)
+    ref = np.sqrt(np.mean(mono ** 2)) + 1e-6                # niveau moyen de la voix
+    skipped = 0
     for a, b in zip(words, words[1:]):
         gap = b["start"] - a["end"]
         if gap > max_gap:
-            mid = a["end"] + keep / 2
-            cuts.append((mid, b["start"] - keep / 2))
+            s, e = a["end"] + keep / 2, b["start"] - keep / 2
+            seg = mono[int(s * sr):int(e * sr)]
+            # Sécurité : on ne coupe que du vrai silence. Si la transcription a manqué des mots, le « trou » contient
+            # de la parole : on le garde intact.
+            win = int(0.05 * sr)
+            loud = [np.sqrt(np.mean(seg[i:i + win] ** 2)) for i in range(0, max(1, len(seg) - win), win)] if len(seg) > win else [0.0]
+            if max(loud) > 0.12 * ref:
+                skipped += 1
+                continue
+            cuts.append((s, e))
     pieces, pos = [], 0
     for s, e in cuts:
         i, j = int(s * sr), int(e * sr)
@@ -61,7 +72,8 @@ def main(proj, max_gap, keep):
     new = [dict(w, start=shift(w["start"]), end=shift(w["end"])) for w in words]
     json.dump(new, open(tr, "w"), ensure_ascii=False, indent=1)
     gained = sum(e - s for s, e in cuts)
-    print(f"{len(cuts)} pauses raccourcies, {gained:.1f} s gagnées : {len(pcm) / sr:.1f} s → {len(out) / sr:.1f} s")
+    print(f"{len(cuts)} pauses raccourcies, {gained:.1f} s gagnées : {len(pcm) / sr:.1f} s → {len(out) / sr:.1f} s"
+          + (f" ; {skipped} « pauses » non coupées car elles contiennent du son (mots manqués par la transcription ?)" if skipped else ""))
 
 
 if __name__ == "__main__":
