@@ -66,7 +66,7 @@ def setup(here, duration, cols=3, rows=5, fmt="9:16", theme=None, transcript="tr
     THEME = dict(THEME_DEFAUT, **(theme or {}))
     ACC, INK = THEME["acc"], THEME["ink"]
     words = json.load(open(os.path.join(here, transcript)))
-    del html[:], tw[:], audio[:], CAM[:]
+    del html[:], tw[:], audio[:], CAM[:], _big[:]
     _uid[0] = 0
     _dark[0] = None
 
@@ -119,6 +119,70 @@ def pop(i, t, rot=-3):
     tween(f"#{i}", f"opacity: 0, scale: 0.55, rotation: {rot - 8}", f'opacity: 1, scale: 1, rotation: {rot}, duration: 0.6, ease: "back.out(1.9)"', t)
 
 
+def idle(i, t):
+    """Mouvement au repos : l'élément flotte et se balance doucement jusqu'à la fin (jamais d'image figée)."""
+    seed = sum(ord(c) for c in i)
+    per = 1.5 + (seed % 7) * 0.12                       # période propre à chaque élément, pour éviter un mouvement synchrone
+    amp = 7 + seed % 5
+    rep = max(0, int((DUR - t) / per) - 1)
+    if rep:
+        tw.append(f'tl.to("#{i} img", {{ y: -{amp}, rotation: {1.2 if seed % 2 else -1.2}, duration: {per:.2f}, ease: "sine.inOut", yoyo: true, repeat: {rep}, immediateRender: false }}, {at(t)});')
+
+
+def shake(i, t, k=1.0):
+    """Petit tremblement (stress, hésitation)."""
+    tw.append(f'tl.fromTo("#{i}", {{ x: 0 }}, {{ x: {6 * k:.0f}, duration: 0.06, yoyo: true, repeat: 5, ease: "sine.inOut", immediateRender: false }}, {at(t)});')
+
+
+def bump(i, t, k=1.1):
+    """Battement d'un élément déjà visible au moment d'un mot-clé."""
+    tw.append(f'tl.fromTo("#{i}", {{ scale: 1 }}, {{ scale: {k}, duration: 0.16, yoyo: true, repeat: 1, ease: "power2.out", immediateRender: false }}, {at(t)});')
+
+
+def coin_svg(size=90):
+    """Pièce de style euro, bicolore (anneau argent, cœur doré), sans chiffre."""
+    return (f'<svg width="{size}" height="{size}" viewBox="0 0 100 100" style="display:block">'
+            '<circle cx="50" cy="50" r="46" fill="#C9CED6" stroke="#1B242E" stroke-width="5"/>'
+            '<circle cx="50" cy="50" r="30" fill="#F2C14E" stroke="#1B242E" stroke-width="4"/>'
+            '<circle cx="50" cy="50" r="18" fill="none" stroke="#C9962E" stroke-width="3"/></svg>')
+
+
+def coins(station, x, y, t, n=6, spread=220, size=80, gap=0.14, fall=420):
+    """Pièces qui tombent et rebondissent (épargne, dépense, argent qui s'accumule)."""
+    rnd = random.Random(int(t * 100) + n)
+    ids = []
+    for k in range(n):
+        cx = x + rnd.randint(0, spread)
+        cy = y - rnd.randint(0, 40)
+        i = put(station, cx, cy, coin_svg(size), "coin")
+        tween(f"#{i}", f"opacity: 0, y: -{fall}, rotation: {rnd.randint(-90, 90)}",
+              f'opacity: 1, y: 0, rotation: {rnd.randint(-20, 20)}, duration: 0.55, ease: "bounce.out"', t + k * gap)
+        if k % 2 == 0:
+            sfx("click", t + k * gap + 0.35, 0.5)
+        ids.append(i)
+    return ids
+
+
+_big = []
+
+
+def bigword(text, t, dur=1.0, y=1060, size=170, dark=False):
+    """Mot géant qui surgit au centre de l'écran (fixe, hors caméra) au moment exact où il est prononcé."""
+    i = f"big{len(_big)}"
+    color = THEME["acc"]
+    stroke = "#FFFFFF" if not dark else THEME["ink"]
+    _big.append(f'<div class="clip big" id="{i}" data-start="{t:.3f}" data-duration="{dur:.3f}" style="top:{y}px;font-size:{size}px;color:{color};'
+                f'-webkit-text-stroke:10px {stroke};paint-order:stroke fill">{text}</div>')
+    tw.append(f'tl.fromTo("#{i}", {{ opacity: 0, scale: 0.35, rotation: -6 }}, {{ opacity: 1, scale: 1, rotation: -2, duration: 0.32, ease: "back.out(2.2)" }}, {at(t)});')
+    tw.append(f'tl.to("#{i}", {{ opacity: 0, scale: 1.12, duration: 0.22, ease: "power2.in" }}, {at(t + dur - 0.22)});')
+    punch(t, 1.05)
+
+
+def punch(t, k=1.06):
+    """Zoom-impact de la caméra sur un mot fort (enveloppe #punch, sans toucher aux déplacements de caméra)."""
+    tw.append(f'tl.fromTo("#punch", {{ scale: 1 }}, {{ scale: {k}, duration: 0.14, yoyo: true, repeat: 1, ease: "power2.out", immediateRender: false }}, {at(t)});')
+
+
 def sticker(station, name, x, y, w, t, rot=-3, label=None, sub=None, lab_dx=0, lab_dy=0, side="right", instant=False):
     """Autocollant assets/stickers/<name>.png, largeur w px (hauteur calculée). instant=True : visible dès t (accroche)."""
     iw, ih = Image.open(os.path.join(HERE, "assets/stickers", name + ".png")).size
@@ -129,6 +193,8 @@ def sticker(station, name, x, y, w, t, rot=-3, label=None, sub=None, lab_dx=0, l
     else:
         pop(i, t, rot)
         sfx("pop", t, 0.32)
+    if THEME.get("idle", True):
+        idle(i, t + (0.2 if instant else 0.65))
     if label:
         lx = x + w + 30 if side == "right" else x - 330
         ly = y + h // 2 - 40 + lab_dy
@@ -267,6 +333,8 @@ def hit(t, k=1.0):
     """Temps fort : impact grave + « pop » par-dessus, pour rester audible sur un haut-parleur de téléphone."""
     sfx("bass", t, k)
     sfx("pop", t, 1.4 * k)
+    if THEME.get("punch", True):
+        punch(t, 1.0 + 0.045 * min(k, 1.2))
 
 
 # ---------------------------------------------------------------- caméra
@@ -386,7 +454,7 @@ def _rgb(hexa):
     return ", ".join(str(int(h[i:i + 2], 16)) for i in (0, 2, 4))
 
 
-def build(chapters, suppress=(), endcard=None, endcard_t=None, music_volume=0.15, max_words=4, out="index.html"):
+def build(chapters, suppress=(), endcard=None, endcard_t=None, music_volume=0.15, max_words=3, out="index.html"):
     """Assemble index.html.
     chapters : [("01", "Libellé", début, fin), ...] ; suppress : intervalles sans sous-titres (citation affichée, fin) ;
     endcard / endcard_t : carte de fin et son instant d'apparition (voir _endcard)."""
@@ -425,10 +493,10 @@ def build(chapters, suppress=(), endcard=None, endcard_t=None, music_volume=0.15
             continue
         spans = " ".join(f'<span class="cw" id="w{n}_{k}">{w["text"]}</span>' for k, w in enumerate(ch))
         caps.append(f'<p class="clip cap" id="cap{n}" data-start="{s:.3f}" data-duration="{e - s:.3f}"><span class="capin" id="ci{n}">{spans}</span></p>')
-        tw.append(f'tl.fromTo("#ci{n}", {{ opacity: 0, y: 14 }}, {{ opacity: 1, y: 0, duration: 0.12, ease: "power2.out" }}, {at(s)});')
+        tw.append(f'tl.fromTo("#ci{n}", {{ opacity: 0, y: 18, scale: 0.82 }}, {{ opacity: 1, y: 0, scale: 1, duration: 0.18, ease: "back.out(2.4)" }}, {at(s)});')
         for k, w in enumerate(ch):
-            tw.append(f'tl.fromTo("#w{n}_{k}", {{ color: "{INK}" }}, {{ color: "{ACC}", duration: 0.08 }}, {at(w["start"])});')
-            tw.append(f'tl.to("#w{n}_{k}", {{ color: "{INK}", duration: 0.12 }}, {at(max(w["end"], w["start"] + 0.16))});')
+            tw.append(f'tl.fromTo("#w{n}_{k}", {{ color: "{INK}", scale: 1 }}, {{ color: "{ACC}", scale: 1.12, duration: 0.08 }}, {at(w["start"])});')
+            tw.append(f'tl.to("#w{n}_{k}", {{ color: "{INK}", scale: 1, duration: 0.12 }}, {at(max(w["end"], w["start"] + 0.16))});')
 
     if music_volume and os.path.exists(os.path.join(HERE, "assets/audio/music.wav")):
         audio.insert(0, ("music", "assets/audio/music.wav", 0, DUR, music_volume))
@@ -448,7 +516,7 @@ def build(chapters, suppress=(), endcard=None, endcard_t=None, music_volume=0.15
         tpl = tpl.replace("left: 60px;\n        top: 1440px;\n        width: 820px;", "left: 260px;\n        top: 880px;\n        width: 1400px;")
         tpl = tpl.replace("top: 160px; width: 870px;", "top: 60px; width: 1200px;")
     page = (tpl.replace("{{WORLD}}", "\n        ".join(route_html + html)).replace("{{WORLD_W}}", str(WORLD_W)).replace("{{WORLD_H}}", str(WORLD_H))
-            .replace("{{CHAPTERS}}", chap_html).replace("{{CAPTIONS}}", "\n      ".join(caps)).replace("{{DURATION}}", str(DUR))
+            .replace("{{CHAPTERS}}", chap_html).replace("{{CAPTIONS}}", "\n      ".join(_big + caps)).replace("{{DURATION}}", str(DUR))
             .replace("      {{ENDCARD}}\n", "      " + card_html if card_html else "")
             .replace("{{AUDIO}}", f'<audio id="voix" src="assets/voix.wav" data-start="0" data-duration="{DUR}" data-volume="1"></audio>\n      ' + audio_html)
             .replace("{{TWEENS}}", "\n      ".join(cam_tw + tw)))

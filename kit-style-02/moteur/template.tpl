@@ -24,6 +24,10 @@
       }
       #darkbg { position: absolute; inset: 0; background: {{INK}}; opacity: 0; }
       #drift { position: absolute; inset: 0; transform-origin: 50% 50%; }
+      #punch { position: absolute; inset: 0; transform-origin: 50% 45%; }
+      .coin svg { filter: drop-shadow(0 8px 8px rgba({{INK_RGB}}, 0.25)); }
+      .big { position: absolute; left: 0; right: 0; margin: 0; text-align: center; font-weight: 900; letter-spacing: -4px; line-height: 1; z-index: 55; text-transform: uppercase; }
+      .cw { display: inline-block; }
       #world {
         position: absolute;
         left: 0;
@@ -202,7 +206,7 @@
         margin: 0;
         text-align: center;
         font-weight: 700;
-        font-size: 56px;
+        font-size: 66px;
         line-height: 1.15;
         z-index: 60;
       }
@@ -245,8 +249,10 @@
     <div id="root" data-composition-id="main" data-start="0" data-width="1080" data-height="1920" data-duration="{{DURATION}}">
       <div id="darkbg"></div>
       <div id="drift">
+        <div id="punch">
         <div id="world">
         {{WORLD}}
+        </div>
         </div>
       </div>
 
