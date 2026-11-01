@@ -1,0 +1,752 @@
+[
+ {
+  "text": "Un",
+  "start": 0.0,
+  "end": 0.28
+ },
+ {
+  "text": "exercice",
+  "start": 0.28,
+  "end": 0.82
+ },
+ {
+  "text": "simple.",
+  "start": 0.82,
+  "end": 1.1
+ },
+ {
+  "text": "Le",
+  "start": 1.28,
+  "end": 1.64
+ },
+ {
+  "text": "premier",
+  "start": 1.64,
+  "end": 1.98
+ },
+ {
+  "text": "jour",
+  "start": 1.98,
+  "end": 2.22
+ },
+ {
+  "text": "du",
+  "start": 2.22,
+  "end": 2.38
+ },
+ {
+  "text": "mois,",
+  "start": 2.38,
+  "end": 2.6
+ },
+ {
+  "text": "avant",
+  "start": 2.7,
+  "end": 3.1
+ },
+ {
+  "text": "toute",
+  "start": 3.1,
+  "end": 3.46
+ },
+ {
+  "text": "dépense,",
+  "start": 3.46,
+  "end": 4.08
+ },
+ {
+  "text": "prends",
+  "start": 4.14,
+  "end": 4.4
+ },
+ {
+  "text": "5",
+  "start": 4.4,
+  "end": 4.8
+ },
+ {
+  "text": "minutes",
+  "start": 4.8,
+  "end": 5.18
+ },
+ {
+  "text": "pour",
+  "start": 5.18,
+  "end": 5.44
+ },
+ {
+  "text": "prier",
+  "start": 5.44,
+  "end": 5.84
+ },
+ {
+  "text": "sur",
+  "start": 5.84,
+  "end": 5.96
+ },
+ {
+  "text": "ton",
+  "start": 5.96,
+  "end": 6.14
+ },
+ {
+  "text": "budget.",
+  "start": 6.14,
+  "end": 6.42
+ },
+ {
+  "text": "Demande",
+  "start": 7.0,
+  "end": 7.48
+ },
+ {
+  "text": "à",
+  "start": 7.48,
+  "end": 7.54
+ },
+ {
+  "text": "Dieu",
+  "start": 7.54,
+  "end": 7.74
+ },
+ {
+  "text": "de",
+  "start": 7.74,
+  "end": 7.9
+ },
+ {
+  "text": "t'aider",
+  "start": 7.9,
+  "end": 8.18
+ },
+ {
+  "text": "à",
+  "start": 8.18,
+  "end": 8.28
+ },
+ {
+  "text": "voir",
+  "start": 8.28,
+  "end": 8.4
+ },
+ {
+  "text": "clair,",
+  "start": 8.4,
+  "end": 8.72
+ },
+ {
+  "text": "à",
+  "start": 8.94,
+  "end": 9.18
+ },
+ {
+  "text": "distinguer",
+  "start": 9.18,
+  "end": 9.64
+ },
+ {
+  "text": "l'essentiel",
+  "start": 9.64,
+  "end": 10.22
+ },
+ {
+  "text": "du",
+  "start": 10.22,
+  "end": 10.42
+ },
+ {
+  "text": "superflu",
+  "start": 10.42,
+  "end": 10.92
+ },
+ {
+  "text": "et",
+  "start": 10.92,
+  "end": 11.18
+ },
+ {
+  "text": "à",
+  "start": 11.18,
+  "end": 11.66
+ },
+ {
+  "text": "rester",
+  "start": 11.66,
+  "end": 11.9
+ },
+ {
+  "text": "fidèle",
+  "start": 11.9,
+  "end": 12.38
+ },
+ {
+  "text": "tout",
+  "start": 12.38,
+  "end": 12.54
+ },
+ {
+  "text": "le",
+  "start": 12.54,
+  "end": 12.72
+ },
+ {
+  "text": "mois.",
+  "start": 12.72,
+  "end": 12.86
+ },
+ {
+  "text": "Ce",
+  "start": 13.18,
+  "end": 13.66
+ },
+ {
+  "text": "petit",
+  "start": 13.66,
+  "end": 13.86
+ },
+ {
+  "text": "rendez-vous",
+  "start": 13.86,
+  "end": 14.38
+ },
+ {
+  "text": "change",
+  "start": 14.38,
+  "end": 14.6
+ },
+ {
+  "text": "souvent",
+  "start": 14.6,
+  "end": 15.1
+ },
+ {
+  "text": "la",
+  "start": 15.1,
+  "end": 15.34
+ },
+ {
+  "text": "manière",
+  "start": 15.34,
+  "end": 15.56
+ },
+ {
+  "text": "dont",
+  "start": 15.56,
+  "end": 15.8
+ },
+ {
+  "text": "on",
+  "start": 15.8,
+  "end": 15.94
+ },
+ {
+  "text": "dépense",
+  "start": 15.94,
+  "end": 16.34
+ },
+ {
+  "text": "les",
+  "start": 16.34,
+  "end": 16.44
+ },
+ {
+  "text": "30",
+  "start": 16.44,
+  "end": 16.66
+ },
+ {
+  "text": "jours",
+  "start": 16.66,
+  "end": 16.86
+ },
+ {
+  "text": "suivants.",
+  "start": 16.86,
+  "end": 17.24
+ },
+ {
+  "text": "Deuxième",
+  "start": 17.94,
+  "end": 18.42
+ },
+ {
+  "text": "verset.",
+  "start": 18.42,
+  "end": 18.78
+ },
+ {
+  "text": "La",
+  "start": 19.0,
+  "end": 19.48
+ },
+ {
+  "text": "sagesse",
+  "start": 19.48,
+  "end": 19.94
+ },
+ {
+  "text": "de",
+  "start": 19.94,
+  "end": 20.04
+ },
+ {
+  "text": "la",
+  "start": 20.04,
+  "end": 20.16
+ },
+ {
+  "text": "planification.",
+  "start": 20.16,
+  "end": 20.58
+ },
+ {
+  "text": "Proverbe",
+  "start": 21.48,
+  "end": 21.96
+ },
+ {
+  "text": "21,",
+  "start": 21.96,
+  "end": 22.14
+ },
+ {
+  "text": "verset",
+  "start": 22.4,
+  "end": 22.7
+ },
+ {
+  "text": "5.",
+  "start": 22.7,
+  "end": 22.86
+ },
+ {
+  "text": "Les",
+  "start": 23.4,
+  "end": 23.88
+ },
+ {
+  "text": "projets",
+  "start": 23.88,
+  "end": 24.2
+ },
+ {
+  "text": "de",
+  "start": 24.2,
+  "end": 24.38
+ },
+ {
+  "text": "l'homme",
+  "start": 24.38,
+  "end": 24.56
+ },
+ {
+  "text": "diligent",
+  "start": 24.56,
+  "end": 24.82
+ },
+ {
+  "text": "ne",
+  "start": 24.82,
+  "end": 25.16
+ },
+ {
+  "text": "mènent",
+  "start": 25.16,
+  "end": 25.4
+ },
+ {
+  "text": "qu'à",
+  "start": 25.4,
+  "end": 25.64
+ },
+ {
+  "text": "l'abondance,",
+  "start": 25.64,
+  "end": 26.22
+ },
+ {
+  "text": "mais",
+  "start": 26.26,
+  "end": 26.64
+ },
+ {
+  "text": "celui",
+  "start": 26.64,
+  "end": 26.86
+ },
+ {
+  "text": "qui",
+  "start": 26.86,
+  "end": 27.08
+ },
+ {
+  "text": "agit",
+  "start": 27.08,
+  "end": 27.38
+ },
+ {
+  "text": "avec",
+  "start": 27.38,
+  "end": 27.52
+ },
+ {
+  "text": "précipitation",
+  "start": 27.52,
+  "end": 28.18
+ },
+ {
+  "text": "n'arrive",
+  "start": 28.18,
+  "end": 28.98
+ },
+ {
+  "text": "qu'à",
+  "start": 28.98,
+  "end": 29.3
+ },
+ {
+  "text": "la",
+  "start": 29.3,
+  "end": 29.38
+ },
+ {
+  "text": "dissate.",
+  "start": 29.38,
+  "end": 29.74
+ },
+ {
+  "text": "Ce",
+  "start": 30.34,
+  "end": 30.76
+ },
+ {
+  "text": "proverbe",
+  "start": 30.76,
+  "end": 31.18
+ },
+ {
+  "text": "oppose",
+  "start": 31.18,
+  "end": 31.38
+ },
+ {
+  "text": "deux",
+  "start": 31.38,
+  "end": 31.7
+ },
+ {
+  "text": "attitudes,",
+  "start": 31.7,
+  "end": 32.08
+ },
+ {
+  "text": "celui",
+  "start": 32.36,
+  "end": 32.8
+ },
+ {
+  "text": "qui",
+  "start": 32.8,
+  "end": 33.06
+ },
+ {
+  "text": "réfléchit",
+  "start": 33.06,
+  "end": 33.64
+ },
+ {
+  "text": "avant",
+  "start": 33.64,
+  "end": 33.84
+ },
+ {
+  "text": "d'agir",
+  "start": 33.84,
+  "end": 34.34
+ },
+ {
+  "text": "et",
+  "start": 34.34,
+  "end": 34.46
+ },
+ {
+  "text": "celui",
+  "start": 34.46,
+  "end": 35.0
+ },
+ {
+  "text": "qui",
+  "start": 35.0,
+  "end": 35.16
+ },
+ {
+  "text": "se",
+  "start": 35.16,
+  "end": 35.28
+ },
+ {
+  "text": "précipite.",
+  "start": 35.28,
+  "end": 35.84
+ },
+ {
+  "text": "L'abondance",
+  "start": 36.2,
+  "end": 37.08
+ },
+ {
+  "text": "dont",
+  "start": 37.08,
+  "end": 37.18
+ },
+ {
+  "text": "il",
+  "start": 37.18,
+  "end": 37.36
+ },
+ {
+  "text": "parle",
+  "start": 37.36,
+  "end": 37.6
+ },
+ {
+  "text": "n'est",
+  "start": 37.6,
+  "end": 37.96
+ },
+ {
+  "text": "pas",
+  "start": 37.96,
+  "end": 38.04
+ },
+ {
+  "text": "une",
+  "start": 38.04,
+  "end": 38.2
+ },
+ {
+  "text": "garantie",
+  "start": 38.2,
+  "end": 38.7
+ },
+ {
+  "text": "de",
+  "start": 38.7,
+  "end": 38.76
+ },
+ {
+  "text": "richesse,",
+  "start": 38.76,
+  "end": 39.14
+ },
+ {
+  "text": "c'est",
+  "start": 39.28,
+  "end": 39.8
+ },
+ {
+  "text": "le",
+  "start": 39.8,
+  "end": 39.82
+ },
+ {
+  "text": "fruit",
+  "start": 39.82,
+  "end": 40.1
+ },
+ {
+  "text": "naturel",
+  "start": 40.1,
+  "end": 40.8
+ },
+ {
+  "text": "d'une",
+  "start": 40.8,
+  "end": 40.92
+ },
+ {
+  "text": "vie",
+  "start": 40.92,
+  "end": 41.08
+ },
+ {
+  "text": "organisée.",
+  "start": 41.08,
+  "end": 41.72
+ },
+ {
+  "text": "La",
+  "start": 42.14,
+  "end": 42.56
+ },
+ {
+  "text": "précipitation,",
+  "start": 42.56,
+  "end": 43.26
+ },
+ {
+  "text": "à",
+  "start": 43.26,
+  "end": 43.5
+ },
+ {
+  "text": "l'inverse,",
+  "start": 43.5,
+  "end": 43.86
+ },
+ {
+  "text": "coûte",
+  "start": 43.9,
+  "end": 44.18
+ },
+ {
+  "text": "cher.",
+  "start": 44.18,
+  "end": 44.38
+ },
+ {
+  "text": "L'achat",
+  "start": 44.78,
+  "end": 45.5
+ },
+ {
+  "text": "sur",
+  "start": 45.5,
+  "end": 45.6
+ },
+ {
+  "text": "un",
+  "start": 45.6,
+  "end": 45.74
+ },
+ {
+  "text": "coup",
+  "start": 45.74,
+  "end": 45.86
+ },
+ {
+  "text": "de",
+  "start": 45.86,
+  "end": 45.94
+ },
+ {
+  "text": "tête,",
+  "start": 45.94,
+  "end": 46.16
+ },
+ {
+  "text": "le",
+  "start": 46.34,
+  "end": 46.9
+ },
+ {
+  "text": "crédit",
+  "start": 46.9,
+  "end": 47.34
+ },
+ {
+  "text": "signé",
+  "start": 47.34,
+  "end": 47.66
+ },
+ {
+  "text": "trop",
+  "start": 47.66,
+  "end": 47.78
+ },
+ {
+  "text": "vite,",
+  "start": 47.78,
+  "end": 48.06
+ },
+ {
+  "text": "la",
+  "start": 48.26,
+  "end": 48.46
+ },
+ {
+  "text": "dépense",
+  "start": 48.46,
+  "end": 48.88
+ },
+ {
+  "text": "qu'on",
+  "start": 48.88,
+  "end": 49.04
+ },
+ {
+  "text": "regrette",
+  "start": 49.04,
+  "end": 49.42
+ },
+ {
+  "text": "dès",
+  "start": 49.42,
+  "end": 49.5
+ },
+ {
+  "text": "le",
+  "start": 49.5,
+  "end": 49.56
+ },
+ {
+  "text": "lendemain.",
+  "start": 49.56,
+  "end": 49.98
+ },
+ {
+  "text": "Mais",
+  "start": 50.38,
+  "end": 50.8
+ },
+ {
+  "text": "c'est",
+  "start": 50.8,
+  "end": 51.0
+ },
+ {
+  "text": "ici",
+  "start": 51.0,
+  "end": 51.16
+ },
+ {
+  "text": "que",
+  "start": 51.16,
+  "end": 51.34
+ },
+ {
+  "text": "la",
+  "start": 51.34,
+  "end": 51.44
+ },
+ {
+  "text": "plupart",
+  "start": 51.44,
+  "end": 51.76
+ },
+ {
+  "text": "des",
+  "start": 51.76,
+  "end": 52.0
+ },
+ {
+  "text": "gens",
+  "start": 52.0,
+  "end": 52.16
+ },
+ {
+  "text": "commettent",
+  "start": 52.16,
+  "end": 52.66
+ },
+ {
+  "text": "leur",
+  "start": 52.66,
+  "end": 52.74
+ },
+ {
+  "text": "erreur.",
+  "start": 52.74,
+  "end": 53.14
+ }
+]
