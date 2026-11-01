@@ -1,0 +1,20 @@
+# Prompts Nano Banana — vidéo longue « Comment éviter l'inflation du mode de vie selon la Bible »
+
+Déjà disponibles et réutilisés : kit chrétien, couple (budget, épargne, don, prière/lecture, heureux), budget, enveloppes, épargne, carte coupée, calendrier, graphique, sablier, seau percé, téléphone, colis, enveloppe de salaire, vitrine…
+Il manque 2 planches. Même bloc de style et même bonhomme bâton.
+
+## PLANCHE I1 — le bonhomme, nouvelles poses (6 poses)
+Ordre de découpe : `baton-augmentation`, `baton-tapis-roulant`, `baton-reseaux`, `baton-content`, `baton-voiture-hesite`, `baton-vieille-voiture`.
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate poses of the SAME character, a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair, arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it: top left, standing and happily holding up a white pay envelope with a big green upward arrow above it, excited smile; top middle, running out of breath on a grey treadmill, reaching toward a few golden euro-style coins hanging on a string just in front of him, tired face; top right, standing and scrolling a smartphone with envious wide eyes, small floating heart and star bubbles above the phone; bottom left, sitting peacefully on a simple wooden chair with one hand on his heart and a warm cup in the other hand, gentle grateful smile, a tiny simple cross pendant on a thin black cord around the neck; bottom middle, standing next to a shiny brand new red car with a sparkle on it, hand on his chin, hesitating; bottom right, standing proudly next to a small simple older blue car, giving a thumbs up, smiling, a tiny simple cross pendant on a thin black cord around the neck. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+## PLANCHE I2 — objets et scènes (6 éléments)
+Ordre de découpe : `greniers`, `escalier-depenses`, `pieces-moitie`, `tresor-huile`, `famille-sortie`, `tapis-roulant-pieces`.
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it, seen from a slightly front-facing angle: top left, a small old wooden grain barn next to a much bigger new grain barn under construction with wooden scaffolding, golden wheat sheaves in front; top middle, a staircase of four steps going up from left to right, each step carrying a bigger object, a small phone, then a scooter, then a car, then a large house; top right, two equal piles of golden euro-style coins side by side, separated by a thin green vertical line, a small green leaf on the left pile and a small red heart on the right pile; bottom left, an ancient wooden treasure chest slightly open with golden coins inside, next to a tall clay oil jar, simple and warm; bottom middle, a stick figure family of four in the same stick figure style (round white heads, thin black bodies, the mother with a simple dark hair bun and a light blue dress, two small children) having a picnic on a green blanket with a basket, all smiling; bottom right, an empty grey treadmill with a few golden coins scattered on its belt. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer les 2 planches (PNG ou JPG, fond blanc opaque).
