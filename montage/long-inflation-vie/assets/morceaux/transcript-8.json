@@ -1,0 +1,617 @@
+[
+ {
+  "text": "C'est",
+  "start": 0.0,
+  "end": 0.44
+ },
+ {
+  "text": "en",
+  "start": 0.44,
+  "end": 0.56
+ },
+ {
+  "text": "effet",
+  "start": 0.56,
+  "end": 0.82
+ },
+ {
+  "text": "une",
+  "start": 0.82,
+  "end": 1.12
+ },
+ {
+  "text": "grande",
+  "start": 1.12,
+  "end": 1.46
+ },
+ {
+  "text": "source",
+  "start": 1.46,
+  "end": 1.78
+ },
+ {
+  "text": "de",
+  "start": 1.78,
+  "end": 2.08
+ },
+ {
+  "text": "gain",
+  "start": 2.08,
+  "end": 2.28
+ },
+ {
+  "text": "que",
+  "start": 2.28,
+  "end": 2.62
+ },
+ {
+  "text": "la",
+  "start": 2.62,
+  "end": 2.76
+ },
+ {
+  "text": "piété",
+  "start": 2.76,
+  "end": 3.12
+ },
+ {
+  "text": "avec",
+  "start": 3.12,
+  "end": 3.4
+ },
+ {
+  "text": "le",
+  "start": 3.4,
+  "end": 3.58
+ },
+ {
+  "text": "contentement.",
+  "start": 3.58,
+  "end": 4.14
+ },
+ {
+  "text": "Car",
+  "start": 4.48,
+  "end": 4.88
+ },
+ {
+  "text": "nous",
+  "start": 4.88,
+  "end": 5.06
+ },
+ {
+  "text": "n'avons",
+  "start": 5.06,
+  "end": 5.3
+ },
+ {
+  "text": "rien",
+  "start": 5.3,
+  "end": 5.54
+ },
+ {
+  "text": "à",
+  "start": 5.54,
+  "end": 5.7
+ },
+ {
+  "text": "porter",
+  "start": 5.7,
+  "end": 5.9
+ },
+ {
+  "text": "dans",
+  "start": 5.9,
+  "end": 6.08
+ },
+ {
+  "text": "le",
+  "start": 6.08,
+  "end": 6.16
+ },
+ {
+  "text": "monde,",
+  "start": 6.16,
+  "end": 6.48
+ },
+ {
+  "text": "et",
+  "start": 6.56,
+  "end": 6.88
+ },
+ {
+  "text": "il",
+  "start": 6.88,
+  "end": 6.98
+ },
+ {
+  "text": "est",
+  "start": 6.98,
+  "end": 7.12
+ },
+ {
+  "text": "évident",
+  "start": 7.12,
+  "end": 7.62
+ },
+ {
+  "text": "que",
+  "start": 7.62,
+  "end": 7.82
+ },
+ {
+  "text": "nous",
+  "start": 7.82,
+  "end": 7.96
+ },
+ {
+  "text": "n'en",
+  "start": 7.96,
+  "end": 8.12
+ },
+ {
+  "text": "pouvons",
+  "start": 8.12,
+  "end": 8.36
+ },
+ {
+  "text": "rien",
+  "start": 8.36,
+  "end": 8.58
+ },
+ {
+  "text": "en",
+  "start": 8.58,
+  "end": 8.76
+ },
+ {
+  "text": "porter.",
+  "start": 8.76,
+  "end": 9.0
+ },
+ {
+  "text": "Si",
+  "start": 9.38,
+  "end": 9.78
+ },
+ {
+  "text": "donc",
+  "start": 9.78,
+  "end": 10.0
+ },
+ {
+  "text": "nous",
+  "start": 10.0,
+  "end": 10.16
+ },
+ {
+  "text": "avons",
+  "start": 10.16,
+  "end": 10.36
+ },
+ {
+  "text": "la",
+  "start": 10.36,
+  "end": 10.52
+ },
+ {
+  "text": "nourriture",
+  "start": 10.52,
+  "end": 11.12
+ },
+ {
+  "text": "et",
+  "start": 11.12,
+  "end": 11.24
+ },
+ {
+  "text": "le",
+  "start": 11.24,
+  "end": 11.28
+ },
+ {
+  "text": "vêtement,",
+  "start": 11.28,
+  "end": 11.68
+ },
+ {
+  "text": "cela",
+  "start": 11.78,
+  "end": 12.36
+ },
+ {
+  "text": "nous",
+  "start": 12.36,
+  "end": 12.54
+ },
+ {
+  "text": "suffira.",
+  "start": 12.54,
+  "end": 12.98
+ },
+ {
+  "text": "Le",
+  "start": 13.78,
+  "end": 14.18
+ },
+ {
+  "text": "vrai",
+  "start": 14.18,
+  "end": 14.38
+ },
+ {
+  "text": "gain,",
+  "start": 14.38,
+  "end": 14.6
+ },
+ {
+  "text": "ce",
+  "start": 14.72,
+  "end": 14.98
+ },
+ {
+  "text": "n'est",
+  "start": 14.98,
+  "end": 15.14
+ },
+ {
+  "text": "pas",
+  "start": 15.14,
+  "end": 15.24
+ },
+ {
+  "text": "un",
+  "start": 15.24,
+  "end": 15.4
+ },
+ {
+  "text": "salaire",
+  "start": 15.4,
+  "end": 15.76
+ },
+ {
+  "text": "plus",
+  "start": 15.76,
+  "end": 15.88
+ },
+ {
+  "text": "élevé.",
+  "start": 15.88,
+  "end": 16.28
+ },
+ {
+  "text": "C'est",
+  "start": 16.62,
+  "end": 17.16
+ },
+ {
+  "text": "la",
+  "start": 17.16,
+  "end": 17.22
+ },
+ {
+  "text": "piété",
+  "start": 17.22,
+  "end": 17.56
+ },
+ {
+  "text": "avec",
+  "start": 17.56,
+  "end": 18.18
+ },
+ {
+  "text": "le",
+  "start": 18.18,
+  "end": 18.44
+ },
+ {
+  "text": "contentement.",
+  "start": 18.44,
+  "end": 18.92
+ },
+ {
+  "text": "Attention,",
+  "start": 19.56,
+  "end": 19.96
+ },
+ {
+  "text": "cela",
+  "start": 20.14,
+  "end": 20.5
+ },
+ {
+  "text": "ne",
+  "start": 20.5,
+  "end": 20.6
+ },
+ {
+  "text": "veut",
+  "start": 20.6,
+  "end": 20.72
+ },
+ {
+  "text": "pas",
+  "start": 20.72,
+  "end": 20.84
+ },
+ {
+  "text": "dire",
+  "start": 20.84,
+  "end": 21.0
+ },
+ {
+  "text": "que",
+  "start": 21.0,
+  "end": 21.16
+ },
+ {
+  "text": "Dieu",
+  "start": 21.16,
+  "end": 21.36
+ },
+ {
+  "text": "est",
+  "start": 21.36,
+  "end": 21.48
+ },
+ {
+  "text": "contre",
+  "start": 21.48,
+  "end": 21.8
+ },
+ {
+  "text": "ton",
+  "start": 21.8,
+  "end": 22.0
+ },
+ {
+  "text": "confort.",
+  "start": 22.0,
+  "end": 22.32
+ },
+ {
+  "text": "Dans",
+  "start": 22.96,
+  "end": 23.36
+ },
+ {
+  "text": "ce",
+  "start": 23.36,
+  "end": 23.5
+ },
+ {
+  "text": "même",
+  "start": 23.5,
+  "end": 23.68
+ },
+ {
+  "text": "chapitre,",
+  "start": 23.68,
+  "end": 24.16
+ },
+ {
+  "text": "Paul",
+  "start": 24.2,
+  "end": 24.58
+ },
+ {
+  "text": "rappelle",
+  "start": 24.58,
+  "end": 24.86
+ },
+ {
+  "text": "que",
+  "start": 24.86,
+  "end": 25.06
+ },
+ {
+  "text": "Dieu",
+  "start": 25.06,
+  "end": 25.26
+ },
+ {
+  "text": "nous",
+  "start": 25.26,
+  "end": 25.36
+ },
+ {
+  "text": "donne",
+  "start": 25.36,
+  "end": 25.62
+ },
+ {
+  "text": "avec",
+  "start": 25.62,
+  "end": 25.74
+ },
+ {
+  "text": "abondance",
+  "start": 25.74,
+  "end": 26.26
+ },
+ {
+  "text": "toute",
+  "start": 26.26,
+  "end": 26.5
+ },
+ {
+  "text": "chose",
+  "start": 26.5,
+  "end": 26.76
+ },
+ {
+  "text": "pour",
+  "start": 26.76,
+  "end": 27.02
+ },
+ {
+  "text": "que",
+  "start": 27.02,
+  "end": 27.12
+ },
+ {
+  "text": "nous",
+  "start": 27.12,
+  "end": 27.24
+ },
+ {
+  "text": "en",
+  "start": 27.24,
+  "end": 27.38
+ },
+ {
+  "text": "jouissons.",
+  "start": 27.38,
+  "end": 27.7
+ },
+ {
+  "text": "profiter",
+  "start": 28.4,
+  "end": 28.96
+ },
+ {
+  "text": "d'une",
+  "start": 28.96,
+  "end": 29.12
+ },
+ {
+  "text": "augmentation",
+  "start": 29.12,
+  "end": 29.52
+ },
+ {
+  "text": "n'est",
+  "start": 29.52,
+  "end": 29.88
+ },
+ {
+  "text": "pas",
+  "start": 29.88,
+  "end": 29.94
+ },
+ {
+  "text": "un",
+  "start": 29.94,
+  "end": 30.08
+ },
+ {
+  "text": "péché",
+  "start": 30.08,
+  "end": 30.34
+ },
+ {
+  "text": "le",
+  "start": 30.34,
+  "end": 31.14
+ },
+ {
+  "text": "danger",
+  "start": 31.14,
+  "end": 31.46
+ },
+ {
+  "text": "c'est",
+  "start": 31.46,
+  "end": 32.24
+ },
+ {
+  "text": "de",
+  "start": 32.24,
+  "end": 32.26
+ },
+ {
+  "text": "laisser",
+  "start": 32.26,
+  "end": 32.48
+ },
+ {
+  "text": "chaque",
+  "start": 32.48,
+  "end": 32.84
+ },
+ {
+  "text": "augmentation",
+  "start": 32.84,
+  "end": 33.38
+ },
+ {
+  "text": "fixé",
+  "start": 33.38,
+  "end": 34.22
+ },
+ {
+  "text": "automatiquement",
+  "start": 34.22,
+  "end": 35.16
+ },
+ {
+  "text": "un",
+  "start": 35.16,
+  "end": 35.44
+ },
+ {
+  "text": "nouveau",
+  "start": 35.44,
+  "end": 35.72
+ },
+ {
+  "text": "train",
+  "start": 35.72,
+  "end": 35.98
+ },
+ {
+  "text": "de",
+  "start": 35.98,
+  "end": 36.12
+ },
+ {
+  "text": "vie",
+  "start": 36.12,
+  "end": 36.28
+ },
+ {
+  "text": "passons",
+  "start": 36.28,
+  "end": 37.6
+ },
+ {
+  "text": "maintenant",
+  "start": 37.6,
+  "end": 37.78
+ },
+ {
+  "text": "à",
+  "start": 37.78,
+  "end": 37.98
+ },
+ {
+  "text": "la",
+  "start": 37.98,
+  "end": 38.06
+ },
+ {
+  "text": "pratique",
+  "start": 38.06,
+  "end": 38.34
+ },
+ {
+  "text": "avec",
+  "start": 38.34,
+  "end": 38.9
+ },
+ {
+  "text": "cinq",
+  "start": 38.9,
+  "end": 39.22
+ },
+ {
+  "text": "étapes",
+  "start": 39.22,
+  "end": 39.72
+ },
+ {
+  "text": "concrètes",
+  "start": 39.72,
+  "end": 40.1
+ }
+]

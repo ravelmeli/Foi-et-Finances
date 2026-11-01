@@ -1,0 +1,637 @@
+[
+ {
+  "text": "Tu",
+  "start": 0.0,
+  "end": 0.28
+ },
+ {
+  "text": "as",
+  "start": 0.28,
+  "end": 0.42
+ },
+ {
+  "text": "eu",
+  "start": 0.42,
+  "end": 0.52
+ },
+ {
+  "text": "une",
+  "start": 0.52,
+  "end": 0.62
+ },
+ {
+  "text": "augmentation,",
+  "start": 0.62,
+  "end": 1.06
+ },
+ {
+  "text": "une",
+  "start": 1.28,
+  "end": 1.78
+ },
+ {
+  "text": "prime,",
+  "start": 1.78,
+  "end": 2.12
+ },
+ {
+  "text": "ou",
+  "start": 2.22,
+  "end": 2.56
+ },
+ {
+  "text": "un",
+  "start": 2.56,
+  "end": 2.66
+ },
+ {
+  "text": "meilleur",
+  "start": 2.66,
+  "end": 2.9
+ },
+ {
+  "text": "travail.",
+  "start": 2.9,
+  "end": 3.2
+ },
+ {
+  "text": "Pourtant,",
+  "start": 3.86,
+  "end": 4.3
+ },
+ {
+  "text": "à",
+  "start": 4.42,
+  "end": 4.66
+ },
+ {
+  "text": "la",
+  "start": 4.66,
+  "end": 4.74
+ },
+ {
+  "text": "fin",
+  "start": 4.74,
+  "end": 5.02
+ },
+ {
+  "text": "du",
+  "start": 5.02,
+  "end": 5.18
+ },
+ {
+  "text": "mois,",
+  "start": 5.18,
+  "end": 5.4
+ },
+ {
+  "text": "il",
+  "start": 5.64,
+  "end": 5.88
+ },
+ {
+  "text": "ne",
+  "start": 5.88,
+  "end": 5.98
+ },
+ {
+  "text": "te",
+  "start": 5.98,
+  "end": 6.1
+ },
+ {
+  "text": "reste",
+  "start": 6.1,
+  "end": 6.34
+ },
+ {
+  "text": "presque",
+  "start": 6.34,
+  "end": 6.72
+ },
+ {
+  "text": "rien.",
+  "start": 6.72,
+  "end": 7.06
+ },
+ {
+  "text": "Exactement",
+  "start": 7.8,
+  "end": 8.24
+ },
+ {
+  "text": "comme",
+  "start": 8.24,
+  "end": 8.36
+ },
+ {
+  "text": "avant.",
+  "start": 8.36,
+  "end": 8.58
+ },
+ {
+  "text": "Où",
+  "start": 9.2,
+  "end": 9.64
+ },
+ {
+  "text": "est",
+  "start": 9.64,
+  "end": 9.72
+ },
+ {
+  "text": "passé",
+  "start": 9.72,
+  "end": 9.98
+ },
+ {
+  "text": "cet",
+  "start": 9.98,
+  "end": 10.18
+ },
+ {
+  "text": "argent",
+  "start": 10.18,
+  "end": 10.42
+ },
+ {
+  "text": "en",
+  "start": 10.42,
+  "end": 10.54
+ },
+ {
+  "text": "plus?",
+  "start": 10.54,
+  "end": 10.98
+ },
+ {
+  "text": "Ce",
+  "start": 11.5,
+  "end": 11.72
+ },
+ {
+  "text": "phénomène",
+  "start": 11.72,
+  "end": 12.28
+ },
+ {
+  "text": "a",
+  "start": 12.28,
+  "end": 12.48
+ },
+ {
+  "text": "un",
+  "start": 12.48,
+  "end": 12.64
+ },
+ {
+  "text": "nom.",
+  "start": 12.64,
+  "end": 12.82
+ },
+ {
+  "text": "L'inflation",
+  "start": 13.04,
+  "end": 13.98
+ },
+ {
+  "text": "du",
+  "start": 13.98,
+  "end": 14.24
+ },
+ {
+  "text": "mode",
+  "start": 14.24,
+  "end": 14.38
+ },
+ {
+  "text": "de",
+  "start": 14.38,
+  "end": 14.48
+ },
+ {
+  "text": "vie.",
+  "start": 14.48,
+  "end": 14.6
+ },
+ {
+  "text": "Plus",
+  "start": 14.98,
+  "end": 15.42
+ },
+ {
+  "text": "on",
+  "start": 15.42,
+  "end": 15.56
+ },
+ {
+  "text": "gagne,",
+  "start": 15.56,
+  "end": 15.92
+ },
+ {
+  "text": "plus",
+  "start": 15.98,
+  "end": 16.4
+ },
+ {
+  "text": "on",
+  "start": 16.4,
+  "end": 16.54
+ },
+ {
+  "text": "dépense,",
+  "start": 16.54,
+  "end": 17.0
+ },
+ {
+  "text": "sans",
+  "start": 17.04,
+  "end": 17.44
+ },
+ {
+  "text": "même",
+  "start": 17.44,
+  "end": 17.7
+ },
+ {
+  "text": "s'en",
+  "start": 17.7,
+  "end": 17.9
+ },
+ {
+  "text": "rendre",
+  "start": 17.9,
+  "end": 18.04
+ },
+ {
+  "text": "compte.",
+  "start": 18.04,
+  "end": 18.3
+ },
+ {
+  "text": "Et",
+  "start": 18.66,
+  "end": 19.1
+ },
+ {
+  "text": "la",
+  "start": 19.1,
+  "end": 19.22
+ },
+ {
+  "text": "Bible",
+  "start": 19.22,
+  "end": 19.4
+ },
+ {
+  "text": "en",
+  "start": 19.4,
+  "end": 19.54
+ },
+ {
+  "text": "parlait",
+  "start": 19.54,
+  "end": 19.8
+ },
+ {
+  "text": "déjà,",
+  "start": 19.8,
+  "end": 20.02
+ },
+ {
+  "text": "bien",
+  "start": 20.14,
+  "end": 20.7
+ },
+ {
+  "text": "avant",
+  "start": 20.7,
+  "end": 20.98
+ },
+ {
+  "text": "nos",
+  "start": 20.98,
+  "end": 21.1
+ },
+ {
+  "text": "cartes",
+  "start": 21.1,
+  "end": 21.34
+ },
+ {
+  "text": "bancaires",
+  "start": 21.34,
+  "end": 21.7
+ },
+ {
+  "text": "et",
+  "start": 21.7,
+  "end": 21.84
+ },
+ {
+  "text": "nos",
+  "start": 21.84,
+  "end": 21.94
+ },
+ {
+  "text": "applications",
+  "start": 21.94,
+  "end": 22.26
+ },
+ {
+  "text": "de",
+  "start": 22.26,
+  "end": 22.52
+ },
+ {
+  "text": "livraison.",
+  "start": 22.52,
+  "end": 22.82
+ },
+ {
+  "text": "Dans",
+  "start": 23.48,
+  "end": 23.92
+ },
+ {
+  "text": "cette",
+  "start": 23.92,
+  "end": 24.08
+ },
+ {
+  "text": "vidéo,",
+  "start": 24.08,
+  "end": 24.36
+ },
+ {
+  "text": "on",
+  "start": 24.54,
+  "end": 24.68
+ },
+ {
+  "text": "va",
+  "start": 24.68,
+  "end": 24.78
+ },
+ {
+  "text": "voir",
+  "start": 24.78,
+  "end": 24.96
+ },
+ {
+  "text": "ce",
+  "start": 24.96,
+  "end": 25.12
+ },
+ {
+  "text": "qu'est",
+  "start": 25.12,
+  "end": 25.3
+ },
+ {
+  "text": "vraiment",
+  "start": 25.3,
+  "end": 25.6
+ },
+ {
+  "text": "l'inflation",
+  "start": 25.6,
+  "end": 26.26
+ },
+ {
+  "text": "du",
+  "start": 26.26,
+  "end": 26.46
+ },
+ {
+  "text": "mode",
+  "start": 26.46,
+  "end": 26.58
+ },
+ {
+  "text": "de",
+  "start": 26.58,
+  "end": 26.68
+ },
+ {
+  "text": "vie.",
+  "start": 26.68,
+  "end": 26.82
+ },
+ {
+  "text": "Pourquoi",
+  "start": 27.28,
+  "end": 27.48
+ },
+ {
+  "text": "elle",
+  "start": 27.48,
+  "end": 27.64
+ },
+ {
+  "text": "est",
+  "start": 27.64,
+  "end": 27.68
+ },
+ {
+  "text": "si",
+  "start": 27.68,
+  "end": 27.88
+ },
+ {
+  "text": "dangereuse?",
+  "start": 27.88,
+  "end": 28.52
+ },
+ {
+  "text": "Ce",
+  "start": 28.52,
+  "end": 28.94
+ },
+ {
+  "text": "que",
+  "start": 28.94,
+  "end": 29.08
+ },
+ {
+  "text": "la",
+  "start": 29.08,
+  "end": 29.22
+ },
+ {
+  "text": "Bible",
+  "start": 29.22,
+  "end": 29.38
+ },
+ {
+  "text": "en",
+  "start": 29.38,
+  "end": 29.56
+ },
+ {
+  "text": "dit",
+  "start": 29.56,
+  "end": 29.7
+ },
+ {
+  "text": "est",
+  "start": 29.7,
+  "end": 29.94
+ },
+ {
+  "text": "5",
+  "start": 29.94,
+  "end": 30.46
+ },
+ {
+  "text": "étapes",
+  "start": 30.46,
+  "end": 30.96
+ },
+ {
+  "text": "concrètes",
+  "start": 30.96,
+  "end": 31.32
+ },
+ {
+  "text": "pour",
+  "start": 31.32,
+  "end": 31.5
+ },
+ {
+  "text": "l'éviter.",
+  "start": 31.5,
+  "end": 31.82
+ },
+ {
+  "text": "Reste",
+  "start": 32.24,
+  "end": 32.64
+ },
+ {
+  "text": "jusqu'à",
+  "start": 32.64,
+  "end": 32.9
+ },
+ {
+  "text": "la",
+  "start": 32.9,
+  "end": 32.94
+ },
+ {
+  "text": "fin",
+  "start": 32.94,
+  "end": 33.14
+ },
+ {
+  "text": "car",
+  "start": 33.14,
+  "end": 33.36
+ },
+ {
+  "text": "je",
+  "start": 33.36,
+  "end": 33.52
+ },
+ {
+  "text": "vais",
+  "start": 33.52,
+  "end": 33.56
+ },
+ {
+  "text": "te",
+  "start": 33.56,
+  "end": 33.64
+ },
+ {
+  "text": "montrer",
+  "start": 33.64,
+  "end": 33.86
+ },
+ {
+  "text": "une",
+  "start": 33.86,
+  "end": 34.0
+ },
+ {
+  "text": "règle",
+  "start": 34.0,
+  "end": 34.24
+ },
+ {
+  "text": "très",
+  "start": 34.24,
+  "end": 34.5
+ },
+ {
+  "text": "simple",
+  "start": 34.5,
+  "end": 34.88
+ },
+ {
+  "text": "à",
+  "start": 34.88,
+  "end": 35.04
+ },
+ {
+  "text": "appliquer",
+  "start": 35.04,
+  "end": 35.34
+ },
+ {
+  "text": "à",
+  "start": 35.34,
+  "end": 35.44
+ },
+ {
+  "text": "chaque",
+  "start": 35.44,
+  "end": 35.7
+ },
+ {
+  "text": "augmentation",
+  "start": 35.7,
+  "end": 36.16
+ },
+ {
+  "text": "qui",
+  "start": 36.16,
+  "end": 36.8
+ },
+ {
+  "text": "peut",
+  "start": 36.8,
+  "end": 37.0
+ },
+ {
+  "text": "changer",
+  "start": 37.0,
+  "end": 37.32
+ },
+ {
+  "text": "tes",
+  "start": 37.32,
+  "end": 37.5
+ },
+ {
+  "text": "finances",
+  "start": 37.5,
+  "end": 37.78
+ },
+ {
+  "text": "pour",
+  "start": 37.78,
+  "end": 38.0
+ },
+ {
+  "text": "des",
+  "start": 38.0,
+  "end": 38.14
+ },
+ {
+  "text": "années.",
+  "start": 38.14,
+  "end": 38.4
+ }
+]

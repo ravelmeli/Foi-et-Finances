@@ -1,0 +1,747 @@
+[
+ {
+  "text": "50",
+  "start": 0.0,
+  "end": 0.38
+ },
+ {
+  "text": "euros",
+  "start": 0.38,
+  "end": 0.64
+ },
+ {
+  "text": "de",
+  "start": 0.64,
+  "end": 0.78
+ },
+ {
+  "text": "plus",
+  "start": 0.78,
+  "end": 0.94
+ },
+ {
+  "text": "pour",
+  "start": 0.94,
+  "end": 1.18
+ },
+ {
+  "text": "le",
+  "start": 1.18,
+  "end": 1.28
+ },
+ {
+  "text": "don",
+  "start": 1.28,
+  "end": 1.48
+ },
+ {
+  "text": "et",
+  "start": 1.48,
+  "end": 2.24
+ },
+ {
+  "text": "100",
+  "start": 2.24,
+  "end": 2.6
+ },
+ {
+  "text": "euros",
+  "start": 2.6,
+  "end": 2.84
+ },
+ {
+  "text": "pour",
+  "start": 2.84,
+  "end": 3.06
+ },
+ {
+  "text": "sa",
+  "start": 3.06,
+  "end": 3.2
+ },
+ {
+  "text": "famille,",
+  "start": 3.2,
+  "end": 3.46
+ },
+ {
+  "text": "une",
+  "start": 3.56,
+  "end": 3.98
+ },
+ {
+  "text": "sortie",
+  "start": 3.98,
+  "end": 4.26
+ },
+ {
+  "text": "par",
+  "start": 4.26,
+  "end": 4.44
+ },
+ {
+  "text": "mois",
+  "start": 4.44,
+  "end": 4.66
+ },
+ {
+  "text": "et",
+  "start": 4.66,
+  "end": 5.2
+ },
+ {
+  "text": "un",
+  "start": 5.2,
+  "end": 5.34
+ },
+ {
+  "text": "projet",
+  "start": 5.34,
+  "end": 5.58
+ },
+ {
+  "text": "de",
+  "start": 5.58,
+  "end": 5.68
+ },
+ {
+  "text": "vacances.",
+  "start": 5.68,
+  "end": 6.0
+ },
+ {
+  "text": "Il",
+  "start": 6.38,
+  "end": 6.88
+ },
+ {
+  "text": "garde",
+  "start": 6.88,
+  "end": 7.16
+ },
+ {
+  "text": "sa",
+  "start": 7.16,
+  "end": 7.34
+ },
+ {
+  "text": "voiture",
+  "start": 7.34,
+  "end": 7.58
+ },
+ {
+  "text": "qui",
+  "start": 7.58,
+  "end": 7.92
+ },
+ {
+  "text": "roule",
+  "start": 7.92,
+  "end": 8.14
+ },
+ {
+  "text": "très",
+  "start": 8.14,
+  "end": 8.3
+ },
+ {
+  "text": "bien.",
+  "start": 8.3,
+  "end": 8.46
+ },
+ {
+  "text": "Un",
+  "start": 8.88,
+  "end": 9.38
+ },
+ {
+  "text": "an",
+  "start": 9.38,
+  "end": 9.48
+ },
+ {
+  "text": "plus",
+  "start": 9.48,
+  "end": 9.6
+ },
+ {
+  "text": "tard,",
+  "start": 9.6,
+  "end": 9.84
+ },
+ {
+  "text": "son",
+  "start": 9.96,
+  "end": 10.38
+ },
+ {
+  "text": "crédit",
+  "start": 10.38,
+  "end": 10.78
+ },
+ {
+  "text": "est",
+  "start": 10.78,
+  "end": 10.84
+ },
+ {
+  "text": "soldé,",
+  "start": 10.84,
+  "end": 11.2
+ },
+ {
+  "text": "il",
+  "start": 11.28,
+  "end": 11.74
+ },
+ {
+  "text": "a",
+  "start": 11.74,
+  "end": 11.84
+ },
+ {
+  "text": "une",
+  "start": 11.84,
+  "end": 11.94
+ },
+ {
+  "text": "vraie",
+  "start": 11.94,
+  "end": 12.24
+ },
+ {
+  "text": "réserve",
+  "start": 12.24,
+  "end": 12.64
+ },
+ {
+  "text": "pour",
+  "start": 12.64,
+  "end": 12.76
+ },
+ {
+  "text": "les",
+  "start": 12.76,
+  "end": 12.86
+ },
+ {
+  "text": "imprévus",
+  "start": 12.86,
+  "end": 13.32
+ },
+ {
+  "text": "et",
+  "start": 13.32,
+  "end": 13.7
+ },
+ {
+  "text": "sa",
+  "start": 13.7,
+  "end": 14.0
+ },
+ {
+  "text": "famille",
+  "start": 14.0,
+  "end": 14.32
+ },
+ {
+  "text": "profite",
+  "start": 14.32,
+  "end": 14.78
+ },
+ {
+  "text": "vraiment",
+  "start": 14.78,
+  "end": 15.1
+ },
+ {
+  "text": "de",
+  "start": 15.1,
+  "end": 15.28
+ },
+ {
+  "text": "l'augmentation.",
+  "start": 15.28,
+  "end": 15.62
+ },
+ {
+  "text": "Il",
+  "start": 16.08,
+  "end": 16.58
+ },
+ {
+  "text": "a",
+  "start": 16.58,
+  "end": 16.7
+ },
+ {
+  "text": "avancé",
+  "start": 16.7,
+  "end": 17.18
+ },
+ {
+  "text": "sans",
+  "start": 17.18,
+  "end": 17.58
+ },
+ {
+  "text": "entrer",
+  "start": 17.58,
+  "end": 17.98
+ },
+ {
+  "text": "dans",
+  "start": 17.98,
+  "end": 18.06
+ },
+ {
+  "text": "la",
+  "start": 18.06,
+  "end": 18.18
+ },
+ {
+  "text": "course.",
+  "start": 18.18,
+  "end": 18.38
+ },
+ {
+  "text": "Ceci",
+  "start": 19.22,
+  "end": 19.72
+ },
+ {
+  "text": "est",
+  "start": 19.72,
+  "end": 19.88
+ },
+ {
+  "text": "un",
+  "start": 19.88,
+  "end": 20.0
+ },
+ {
+  "text": "exemple,",
+  "start": 20.0,
+  "end": 20.3
+ },
+ {
+  "text": "mais",
+  "start": 20.42,
+  "end": 20.8
+ },
+ {
+  "text": "le",
+  "start": 20.8,
+  "end": 20.92
+ },
+ {
+  "text": "principe",
+  "start": 20.92,
+  "end": 21.22
+ },
+ {
+  "text": "peut",
+  "start": 21.22,
+  "end": 21.5
+ },
+ {
+  "text": "s'appliquer",
+  "start": 21.5,
+  "end": 21.94
+ },
+ {
+  "text": "à",
+  "start": 21.94,
+  "end": 22.04
+ },
+ {
+  "text": "chacun",
+  "start": 22.04,
+  "end": 22.32
+ },
+ {
+  "text": "selon",
+  "start": 22.32,
+  "end": 22.84
+ },
+ {
+  "text": "sa",
+  "start": 22.84,
+  "end": 23.06
+ },
+ {
+  "text": "situation.",
+  "start": 23.06,
+  "end": 23.36
+ },
+ {
+  "text": "Retenons",
+  "start": 24.46,
+  "end": 24.96
+ },
+ {
+  "text": "l'essentiel.",
+  "start": 24.96,
+  "end": 25.4
+ },
+ {
+  "text": "L'inflation",
+  "start": 25.4,
+  "end": 26.64
+ },
+ {
+  "text": "du",
+  "start": 26.64,
+  "end": 26.8
+ },
+ {
+  "text": "mode",
+  "start": 26.8,
+  "end": 26.94
+ },
+ {
+  "text": "de",
+  "start": 26.94,
+  "end": 27.04
+ },
+ {
+  "text": "vie,",
+  "start": 27.04,
+  "end": 27.22
+ },
+ {
+  "text": "c'est",
+  "start": 27.24,
+  "end": 27.72
+ },
+ {
+  "text": "dépenser",
+  "start": 27.72,
+  "end": 28.22
+ },
+ {
+  "text": "plus",
+  "start": 28.22,
+  "end": 28.46
+ },
+ {
+  "text": "à",
+  "start": 28.46,
+  "end": 28.8
+ },
+ {
+  "text": "chaque",
+  "start": 28.8,
+  "end": 29.18
+ },
+ {
+  "text": "fois",
+  "start": 29.18,
+  "end": 29.4
+ },
+ {
+  "text": "que",
+  "start": 29.4,
+  "end": 29.56
+ },
+ {
+  "text": "l'on",
+  "start": 29.56,
+  "end": 29.68
+ },
+ {
+  "text": "gagne",
+  "start": 29.68,
+  "end": 29.9
+ },
+ {
+  "text": "plus.",
+  "start": 29.9,
+  "end": 30.1
+ },
+ {
+  "text": "La",
+  "start": 30.88,
+  "end": 31.32
+ },
+ {
+  "text": "Bible",
+  "start": 31.32,
+  "end": 31.54
+ },
+ {
+  "text": "nous",
+  "start": 31.54,
+  "end": 31.7
+ },
+ {
+  "text": "avertit",
+  "start": 31.7,
+  "end": 32.12
+ },
+ {
+  "text": "que",
+  "start": 32.12,
+  "end": 32.3
+ },
+ {
+  "text": "l'argent",
+  "start": 32.3,
+  "end": 32.68
+ },
+ {
+  "text": "ne",
+  "start": 32.68,
+  "end": 32.86
+ },
+ {
+  "text": "rassasit",
+  "start": 32.86,
+  "end": 33.4
+ },
+ {
+  "text": "pas,",
+  "start": 33.4,
+  "end": 33.56
+ },
+ {
+  "text": "que",
+  "start": 33.62,
+  "end": 34.1
+ },
+ {
+  "text": "la",
+  "start": 34.1,
+  "end": 34.24
+ },
+ {
+  "text": "vie",
+  "start": 34.24,
+  "end": 34.4
+ },
+ {
+  "text": "ne",
+  "start": 34.4,
+  "end": 34.5
+ },
+ {
+  "text": "dépend",
+  "start": 34.5,
+  "end": 34.86
+ },
+ {
+  "text": "pas",
+  "start": 34.86,
+  "end": 35.06
+ },
+ {
+  "text": "des",
+  "start": 35.06,
+  "end": 35.2
+ },
+ {
+  "text": "biens",
+  "start": 35.2,
+  "end": 35.46
+ },
+ {
+  "text": "et",
+  "start": 35.46,
+  "end": 35.8
+ },
+ {
+  "text": "que",
+  "start": 35.8,
+  "end": 36.08
+ },
+ {
+  "text": "le",
+  "start": 36.08,
+  "end": 36.2
+ },
+ {
+  "text": "sage",
+  "start": 36.2,
+  "end": 36.48
+ },
+ {
+  "text": "garde",
+  "start": 36.48,
+  "end": 36.82
+ },
+ {
+  "text": "une",
+  "start": 36.82,
+  "end": 37.02
+ },
+ {
+  "text": "réserve.",
+  "start": 37.02,
+  "end": 37.44
+ },
+ {
+  "text": "Le",
+  "start": 38.08,
+  "end": 38.52
+ },
+ {
+  "text": "remède,",
+  "start": 38.52,
+  "end": 38.92
+ },
+ {
+  "text": "c'est",
+  "start": 38.94,
+  "end": 39.4
+ },
+ {
+  "text": "le",
+  "start": 39.4,
+  "end": 39.42
+ },
+ {
+  "text": "contentement.",
+  "start": 39.42,
+  "end": 40.04
+ },
+ {
+  "text": "Qui",
+  "start": 40.2,
+  "end": 40.64
+ },
+ {
+  "text": "s'apprend?",
+  "start": 40.64,
+  "end": 41.12
+ },
+ {
+  "text": "Et",
+  "start": 41.12,
+  "end": 41.7
+ },
+ {
+  "text": "cinq",
+  "start": 41.7,
+  "end": 41.98
+ },
+ {
+  "text": "étapes",
+  "start": 41.98,
+  "end": 42.48
+ },
+ {
+  "text": "t'y",
+  "start": 42.48,
+  "end": 42.6
+ },
+ {
+  "text": "aident.",
+  "start": 42.6,
+  "end": 42.74
+ },
+ {
+  "text": "Définis-t'en",
+  "start": 43.5,
+  "end": 44.06
+ },
+ {
+  "text": "assez.",
+  "start": 44.06,
+  "end": 44.52
+ },
+ {
+  "text": "Applique",
+  "start": 45.3,
+  "end": 45.74
+ },
+ {
+  "text": "la",
+  "start": 45.74,
+  "end": 45.88
+ },
+ {
+  "text": "règle",
+  "start": 45.88,
+  "end": 46.14
+ },
+ {
+  "text": "de",
+  "start": 46.14,
+  "end": 46.28
+ },
+ {
+  "text": "l'augmentation.",
+  "start": 46.28,
+  "end": 46.64
+ },
+ {
+  "text": "Attends",
+  "start": 47.52,
+  "end": 47.96
+ },
+ {
+  "text": "avant",
+  "start": 47.96,
+  "end": 48.26
+ },
+ {
+  "text": "les",
+  "start": 48.26,
+  "end": 48.42
+ },
+ {
+  "text": "gros",
+  "start": 48.42,
+  "end": 48.56
+ },
+ {
+  "text": "achats.",
+  "start": 48.56,
+  "end": 48.92
+ },
+ {
+  "text": "Fais",
+  "start": 49.32,
+  "end": 49.76
+ },
+ {
+  "text": "le",
+  "start": 49.76,
+  "end": 49.82
+ },
+ {
+  "text": "tri",
+  "start": 49.82,
+  "end": 50.08
+ },
+ {
+  "text": "régulièrement.",
+  "start": 50.08,
+  "end": 50.76
+ },
+ {
+  "text": "Et",
+  "start": 51.16,
+  "end": 51.6
+ },
+ {
+  "text": "fais",
+  "start": 51.6,
+  "end": 51.8
+ },
+ {
+  "text": "grandir",
+  "start": 51.8,
+  "end": 52.28
+ },
+ {
+  "text": "ta",
+  "start": 52.28,
+  "end": 52.42
+ },
+ {
+  "text": "générosité.",
+  "start": 52.42,
+  "end": 53.1
+ }
+]
