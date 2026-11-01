@@ -1,0 +1,777 @@
+[
+ {
+  "text": "David",
+  "start": 0.0,
+  "end": 0.48
+ },
+ {
+  "text": "et",
+  "start": 0.48,
+  "end": 0.62
+ },
+ {
+  "text": "Claire",
+  "start": 0.62,
+  "end": 0.84
+ },
+ {
+  "text": "avaient",
+  "start": 0.84,
+  "end": 1.1
+ },
+ {
+  "text": "deux",
+  "start": 1.1,
+  "end": 1.36
+ },
+ {
+  "text": "salaires",
+  "start": 1.36,
+  "end": 1.84
+ },
+ {
+  "text": "et",
+  "start": 1.84,
+  "end": 2.08
+ },
+ {
+  "text": "pourtant",
+  "start": 2.08,
+  "end": 2.44
+ },
+ {
+  "text": "ils",
+  "start": 2.44,
+  "end": 2.78
+ },
+ {
+  "text": "se",
+  "start": 2.78,
+  "end": 2.94
+ },
+ {
+  "text": "disputaient",
+  "start": 2.94,
+  "end": 3.38
+ },
+ {
+  "text": "sans",
+  "start": 3.38,
+  "end": 3.64
+ },
+ {
+  "text": "cesse",
+  "start": 3.64,
+  "end": 4.02
+ },
+ {
+  "text": "à",
+  "start": 4.02,
+  "end": 4.12
+ },
+ {
+  "text": "cause",
+  "start": 4.12,
+  "end": 4.26
+ },
+ {
+  "text": "de",
+  "start": 4.26,
+  "end": 4.4
+ },
+ {
+  "text": "l'argent.",
+  "start": 4.4,
+  "end": 4.6
+ },
+ {
+  "text": "Ils",
+  "start": 4.94,
+  "end": 5.38
+ },
+ {
+  "text": "dépensaient",
+  "start": 5.38,
+  "end": 5.82
+ },
+ {
+  "text": "vite,",
+  "start": 5.82,
+  "end": 6.1
+ },
+ {
+  "text": "comparaient",
+  "start": 6.24,
+  "end": 6.72
+ },
+ {
+  "text": "leur",
+  "start": 6.72,
+  "end": 6.84
+ },
+ {
+  "text": "vie",
+  "start": 6.84,
+  "end": 7.06
+ },
+ {
+  "text": "à",
+  "start": 7.06,
+  "end": 7.2
+ },
+ {
+  "text": "celle",
+  "start": 7.2,
+  "end": 7.36
+ },
+ {
+  "text": "de",
+  "start": 7.36,
+  "end": 7.48
+ },
+ {
+  "text": "leurs",
+  "start": 7.48,
+  "end": 7.58
+ },
+ {
+  "text": "amis",
+  "start": 7.58,
+  "end": 7.82
+ },
+ {
+  "text": "et",
+  "start": 7.82,
+  "end": 8.22
+ },
+ {
+  "text": "ne",
+  "start": 8.22,
+  "end": 8.58
+ },
+ {
+  "text": "voyaient",
+  "start": 8.58,
+  "end": 8.96
+ },
+ {
+  "text": "jamais",
+  "start": 8.96,
+  "end": 9.26
+ },
+ {
+  "text": "le",
+  "start": 9.26,
+  "end": 9.48
+ },
+ {
+  "text": "bout",
+  "start": 9.48,
+  "end": 9.64
+ },
+ {
+  "text": "de",
+  "start": 9.64,
+  "end": 9.7
+ },
+ {
+  "text": "leur",
+  "start": 9.7,
+  "end": 9.78
+ },
+ {
+  "text": "crédit.",
+  "start": 9.78,
+  "end": 10.1
+ },
+ {
+  "text": "Un",
+  "start": 10.48,
+  "end": 10.92
+ },
+ {
+  "text": "soir,",
+  "start": 10.92,
+  "end": 11.28
+ },
+ {
+  "text": "ils",
+  "start": 11.34,
+  "end": 11.62
+ },
+ {
+  "text": "ont",
+  "start": 11.62,
+  "end": 11.78
+ },
+ {
+  "text": "décidé",
+  "start": 11.78,
+  "end": 12.04
+ },
+ {
+  "text": "de",
+  "start": 12.04,
+  "end": 12.3
+ },
+ {
+  "text": "relire",
+  "start": 12.3,
+  "end": 12.66
+ },
+ {
+  "text": "ensemble",
+  "start": 12.66,
+  "end": 12.86
+ },
+ {
+  "text": "ces",
+  "start": 12.86,
+  "end": 13.12
+ },
+ {
+  "text": "versets,",
+  "start": 13.12,
+  "end": 13.48
+ },
+ {
+  "text": "un",
+  "start": 13.52,
+  "end": 13.94
+ },
+ {
+  "text": "par",
+  "start": 13.94,
+  "end": 14.12
+ },
+ {
+  "text": "semaine.",
+  "start": 14.12,
+  "end": 14.4
+ },
+ {
+  "text": "Ils",
+  "start": 14.82,
+  "end": 15.26
+ },
+ {
+  "text": "ont",
+  "start": 15.26,
+  "end": 15.44
+ },
+ {
+  "text": "mis",
+  "start": 15.44,
+  "end": 15.58
+ },
+ {
+  "text": "Dieu",
+  "start": 15.58,
+  "end": 15.92
+ },
+ {
+  "text": "et",
+  "start": 15.92,
+  "end": 16.42
+ },
+ {
+  "text": "leur",
+  "start": 16.42,
+  "end": 16.64
+ },
+ {
+  "text": "vraie",
+  "start": 16.64,
+  "end": 16.96
+ },
+ {
+  "text": "priorité",
+  "start": 16.96,
+  "end": 17.42
+ },
+ {
+  "text": "en",
+  "start": 17.42,
+  "end": 17.52
+ },
+ {
+  "text": "premier,",
+  "start": 17.52,
+  "end": 17.78
+ },
+ {
+  "text": "fait",
+  "start": 17.96,
+  "end": 18.46
+ },
+ {
+  "text": "leur",
+  "start": 18.46,
+  "end": 18.68
+ },
+ {
+  "text": "premier",
+  "start": 18.68,
+  "end": 19.0
+ },
+ {
+  "text": "budget",
+  "start": 19.0,
+  "end": 19.28
+ },
+ {
+  "text": "et",
+  "start": 19.28,
+  "end": 19.82
+ },
+ {
+  "text": "commencé",
+  "start": 19.82,
+  "end": 20.22
+ },
+ {
+  "text": "à",
+  "start": 20.22,
+  "end": 20.44
+ },
+ {
+  "text": "mettre",
+  "start": 20.44,
+  "end": 20.62
+ },
+ {
+  "text": "un",
+  "start": 20.62,
+  "end": 20.82
+ },
+ {
+  "text": "peu",
+  "start": 20.82,
+  "end": 20.94
+ },
+ {
+  "text": "de",
+  "start": 20.94,
+  "end": 21.06
+ },
+ {
+  "text": "côté",
+  "start": 21.06,
+  "end": 21.22
+ },
+ {
+  "text": "chaque",
+  "start": 21.22,
+  "end": 21.48
+ },
+ {
+  "text": "mois.",
+  "start": 21.48,
+  "end": 21.68
+ },
+ {
+  "text": "Ils",
+  "start": 22.04,
+  "end": 22.48
+ },
+ {
+  "text": "ont",
+  "start": 22.48,
+  "end": 22.66
+ },
+ {
+  "text": "arrêté",
+  "start": 22.66,
+  "end": 22.98
+ },
+ {
+  "text": "de",
+  "start": 22.98,
+  "end": 23.06
+ },
+ {
+  "text": "prendre",
+  "start": 23.06,
+  "end": 23.26
+ },
+ {
+  "text": "de",
+  "start": 23.26,
+  "end": 23.44
+ },
+ {
+  "text": "nouveaux",
+  "start": 23.44,
+  "end": 23.58
+ },
+ {
+  "text": "crédits",
+  "start": 23.58,
+  "end": 24.0
+ },
+ {
+  "text": "et",
+  "start": 24.0,
+  "end": 24.22
+ },
+ {
+  "text": "remboursé",
+  "start": 24.22,
+  "end": 24.72
+ },
+ {
+  "text": "le",
+  "start": 24.72,
+  "end": 24.8
+ },
+ {
+  "text": "plus",
+  "start": 24.8,
+  "end": 25.0
+ },
+ {
+  "text": "petit",
+  "start": 25.0,
+  "end": 25.26
+ },
+ {
+  "text": "en",
+  "start": 25.26,
+  "end": 25.44
+ },
+ {
+  "text": "premier.",
+  "start": 25.44,
+  "end": 25.64
+ },
+ {
+  "text": "Ils",
+  "start": 26.24,
+  "end": 26.44
+ },
+ {
+  "text": "ont",
+  "start": 26.44,
+  "end": 26.82
+ },
+ {
+  "text": "aussi",
+  "start": 26.82,
+  "end": 27.12
+ },
+ {
+  "text": "recommencé",
+  "start": 27.12,
+  "end": 27.66
+ },
+ {
+  "text": "à",
+  "start": 27.66,
+  "end": 27.76
+ },
+ {
+  "text": "donner.",
+  "start": 27.76,
+  "end": 28.0
+ },
+ {
+  "text": "Un",
+  "start": 28.3,
+  "end": 28.7
+ },
+ {
+  "text": "petit",
+  "start": 28.7,
+  "end": 29.08
+ },
+ {
+  "text": "montant,",
+  "start": 29.08,
+  "end": 29.54
+ },
+ {
+  "text": "avec",
+  "start": 29.56,
+  "end": 30.08
+ },
+ {
+  "text": "joie.",
+  "start": 30.08,
+  "end": 30.4
+ },
+ {
+  "text": "Leurs",
+  "start": 31.08,
+  "end": 31.48
+ },
+ {
+  "text": "salaires",
+  "start": 31.48,
+  "end": 31.8
+ },
+ {
+  "text": "n'ont",
+  "start": 31.8,
+  "end": 31.96
+ },
+ {
+  "text": "pas",
+  "start": 31.96,
+  "end": 32.08
+ },
+ {
+  "text": "changé",
+  "start": 32.08,
+  "end": 32.44
+ },
+ {
+  "text": "du",
+  "start": 32.44,
+  "end": 32.54
+ },
+ {
+  "text": "jour",
+  "start": 32.54,
+  "end": 32.72
+ },
+ {
+  "text": "au",
+  "start": 32.72,
+  "end": 32.82
+ },
+ {
+  "text": "lendemain.",
+  "start": 32.82,
+  "end": 33.1
+ },
+ {
+  "text": "Mais",
+  "start": 33.32,
+  "end": 33.72
+ },
+ {
+  "text": "au",
+  "start": 33.72,
+  "end": 33.9
+ },
+ {
+  "text": "bout",
+  "start": 33.9,
+  "end": 34.08
+ },
+ {
+  "text": "de",
+  "start": 34.08,
+  "end": 34.16
+ },
+ {
+  "text": "quelques",
+  "start": 34.16,
+  "end": 34.38
+ },
+ {
+  "text": "mois,",
+  "start": 34.38,
+  "end": 34.64
+ },
+ {
+  "text": "les",
+  "start": 34.78,
+  "end": 35.0
+ },
+ {
+  "text": "disputes",
+  "start": 35.0,
+  "end": 35.32
+ },
+ {
+  "text": "ont",
+  "start": 35.32,
+  "end": 35.5
+ },
+ {
+  "text": "diminué.",
+  "start": 35.5,
+  "end": 35.96
+ },
+ {
+  "text": "Et",
+  "start": 36.08,
+  "end": 36.48
+ },
+ {
+  "text": "ils",
+  "start": 36.48,
+  "end": 36.6
+ },
+ {
+  "text": "ont",
+  "start": 36.6,
+  "end": 36.7
+ },
+ {
+  "text": "retrouvé",
+  "start": 36.7,
+  "end": 37.06
+ },
+ {
+  "text": "une",
+  "start": 37.06,
+  "end": 37.14
+ },
+ {
+  "text": "paix",
+  "start": 37.14,
+  "end": 37.38
+ },
+ {
+  "text": "qu'ils",
+  "start": 37.38,
+  "end": 37.52
+ },
+ {
+  "text": "croyaient",
+  "start": 37.52,
+  "end": 37.84
+ },
+ {
+  "text": "perdue.",
+  "start": 37.84,
+  "end": 38.14
+ },
+ {
+  "text": "Tu",
+  "start": 38.86,
+  "end": 39.26
+ },
+ {
+  "text": "vois,",
+  "start": 39.26,
+  "end": 39.42
+ },
+ {
+  "text": "ces",
+  "start": 39.62,
+  "end": 39.84
+ },
+ {
+  "text": "sept",
+  "start": 39.84,
+  "end": 40.02
+ },
+ {
+  "text": "versets",
+  "start": 40.02,
+  "end": 40.38
+ },
+ {
+  "text": "ne",
+  "start": 40.38,
+  "end": 40.46
+ },
+ {
+  "text": "transforment",
+  "start": 40.46,
+  "end": 40.92
+ },
+ {
+  "text": "pas",
+  "start": 40.92,
+  "end": 41.1
+ },
+ {
+  "text": "tes",
+  "start": 41.1,
+  "end": 41.24
+ },
+ {
+  "text": "finances",
+  "start": 41.24,
+  "end": 41.54
+ },
+ {
+  "text": "par",
+  "start": 41.54,
+  "end": 41.74
+ },
+ {
+  "text": "magie.",
+  "start": 41.74,
+  "end": 42.04
+ },
+ {
+  "text": "Ils",
+  "start": 42.26,
+  "end": 42.66
+ },
+ {
+  "text": "transforment",
+  "start": 42.66,
+  "end": 43.2
+ },
+ {
+  "text": "d'abord",
+  "start": 43.2,
+  "end": 43.48
+ },
+ {
+  "text": "ton",
+  "start": 43.48,
+  "end": 43.66
+ },
+ {
+  "text": "cœur,",
+  "start": 43.66,
+  "end": 43.88
+ },
+ {
+  "text": "puis",
+  "start": 44.02,
+  "end": 44.5
+ },
+ {
+  "text": "tes",
+  "start": 44.5,
+  "end": 44.68
+ },
+ {
+  "text": "habitudes.",
+  "start": 44.68,
+  "end": 45.2
+ },
+ {
+  "text": "Et",
+  "start": 45.38,
+  "end": 45.78
+ },
+ {
+  "text": "c'est",
+  "start": 45.78,
+  "end": 46.1
+ },
+ {
+  "text": "ainsi",
+  "start": 46.1,
+  "end": 46.24
+ },
+ {
+  "text": "que",
+  "start": 46.24,
+  "end": 46.44
+ },
+ {
+  "text": "tes",
+  "start": 46.44,
+  "end": 46.54
+ },
+ {
+  "text": "finances",
+  "start": 46.54,
+  "end": 46.78
+ },
+ {
+  "text": "changent.",
+  "start": 46.78,
+  "end": 47.18
+ }
+]
