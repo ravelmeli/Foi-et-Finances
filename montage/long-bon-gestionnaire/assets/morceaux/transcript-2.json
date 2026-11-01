@@ -1,0 +1,647 @@
+[
+ {
+  "text": "C'est",
+  "start": 0.0,
+  "end": 0.42
+ },
+ {
+  "text": "exactement",
+  "start": 0.42,
+  "end": 0.92
+ },
+ {
+  "text": "la",
+  "start": 0.92,
+  "end": 1.38
+ },
+ {
+  "text": "place",
+  "start": 1.38,
+  "end": 1.66
+ },
+ {
+  "text": "que",
+  "start": 1.66,
+  "end": 1.88
+ },
+ {
+  "text": "Dieu",
+  "start": 1.88,
+  "end": 2.04
+ },
+ {
+  "text": "te",
+  "start": 2.04,
+  "end": 2.16
+ },
+ {
+  "text": "donne",
+  "start": 2.16,
+  "end": 2.36
+ },
+ {
+  "text": "vis-à-vis",
+  "start": 2.36,
+  "end": 2.8
+ },
+ {
+  "text": "de",
+  "start": 2.8,
+  "end": 2.92
+ },
+ {
+  "text": "ton",
+  "start": 2.92,
+  "end": 3.06
+ },
+ {
+  "text": "argent.",
+  "start": 3.06,
+  "end": 3.28
+ },
+ {
+  "text": "Deuxième",
+  "start": 4.14,
+  "end": 4.58
+ },
+ {
+  "text": "principe,",
+  "start": 4.58,
+  "end": 4.88
+ },
+ {
+  "text": "sois",
+  "start": 5.12,
+  "end": 5.68
+ },
+ {
+  "text": "fidèle",
+  "start": 5.68,
+  "end": 6.12
+ },
+ {
+  "text": "dans",
+  "start": 6.12,
+  "end": 6.28
+ },
+ {
+  "text": "les",
+  "start": 6.28,
+  "end": 6.36
+ },
+ {
+  "text": "petites",
+  "start": 6.36,
+  "end": 6.6
+ },
+ {
+  "text": "choses.",
+  "start": 6.6,
+  "end": 6.88
+ },
+ {
+  "text": "Luc",
+  "start": 7.72,
+  "end": 8.16
+ },
+ {
+  "text": "16,",
+  "start": 8.16,
+  "end": 8.42
+ },
+ {
+  "text": "verset",
+  "start": 8.62,
+  "end": 9.0
+ },
+ {
+  "text": "10.",
+  "start": 9.0,
+  "end": 9.16
+ },
+ {
+  "text": "Celui",
+  "start": 9.7,
+  "end": 10.14
+ },
+ {
+  "text": "qui",
+  "start": 10.14,
+  "end": 10.26
+ },
+ {
+  "text": "est",
+  "start": 10.26,
+  "end": 10.34
+ },
+ {
+  "text": "fidèle",
+  "start": 10.34,
+  "end": 10.72
+ },
+ {
+  "text": "dans",
+  "start": 10.72,
+  "end": 10.84
+ },
+ {
+  "text": "les",
+  "start": 10.84,
+  "end": 10.92
+ },
+ {
+  "text": "moindres",
+  "start": 10.92,
+  "end": 11.28
+ },
+ {
+  "text": "choses",
+  "start": 11.28,
+  "end": 11.6
+ },
+ {
+  "text": "l'est",
+  "start": 11.6,
+  "end": 11.96
+ },
+ {
+  "text": "aussi",
+  "start": 11.96,
+  "end": 12.32
+ },
+ {
+  "text": "dans",
+  "start": 12.32,
+  "end": 12.56
+ },
+ {
+  "text": "les",
+  "start": 12.56,
+  "end": 12.66
+ },
+ {
+  "text": "grandes.",
+  "start": 12.66,
+  "end": 12.88
+ },
+ {
+  "text": "Beaucoup",
+  "start": 13.82,
+  "end": 14.26
+ },
+ {
+  "text": "attendent",
+  "start": 14.26,
+  "end": 14.66
+ },
+ {
+  "text": "d'avoir",
+  "start": 14.66,
+  "end": 14.8
+ },
+ {
+  "text": "plus",
+  "start": 14.8,
+  "end": 15.1
+ },
+ {
+  "text": "pour",
+  "start": 15.1,
+  "end": 15.28
+ },
+ {
+  "text": "commencer",
+  "start": 15.28,
+  "end": 15.56
+ },
+ {
+  "text": "à",
+  "start": 15.56,
+  "end": 15.74
+ },
+ {
+  "text": "bien",
+  "start": 15.74,
+  "end": 15.86
+ },
+ {
+  "text": "gérer.",
+  "start": 15.86,
+  "end": 16.22
+ },
+ {
+  "text": "Mais",
+  "start": 16.54,
+  "end": 16.98
+ },
+ {
+  "text": "c'est",
+  "start": 16.98,
+  "end": 17.2
+ },
+ {
+  "text": "ici",
+  "start": 17.2,
+  "end": 17.4
+ },
+ {
+  "text": "que",
+  "start": 17.4,
+  "end": 17.58
+ },
+ {
+  "text": "la",
+  "start": 17.58,
+  "end": 17.66
+ },
+ {
+  "text": "plupart",
+  "start": 17.66,
+  "end": 17.86
+ },
+ {
+  "text": "des",
+  "start": 17.86,
+  "end": 18.04
+ },
+ {
+  "text": "gens",
+  "start": 18.04,
+  "end": 18.16
+ },
+ {
+  "text": "commettent",
+  "start": 18.16,
+  "end": 18.56
+ },
+ {
+  "text": "leur",
+  "start": 18.56,
+  "end": 18.64
+ },
+ {
+  "text": "erreur.",
+  "start": 18.64,
+  "end": 19.06
+ },
+ {
+  "text": "La",
+  "start": 19.36,
+  "end": 19.8
+ },
+ {
+  "text": "fidélité",
+  "start": 19.8,
+  "end": 20.26
+ },
+ {
+  "text": "ne",
+  "start": 20.26,
+  "end": 20.36
+ },
+ {
+  "text": "commence",
+  "start": 20.36,
+  "end": 20.58
+ },
+ {
+  "text": "pas",
+  "start": 20.58,
+  "end": 20.76
+ },
+ {
+  "text": "avec",
+  "start": 20.76,
+  "end": 20.92
+ },
+ {
+  "text": "un",
+  "start": 20.92,
+  "end": 21.06
+ },
+ {
+  "text": "gros",
+  "start": 21.06,
+  "end": 21.24
+ },
+ {
+  "text": "salaire.",
+  "start": 21.24,
+  "end": 21.7
+ },
+ {
+  "text": "Elle",
+  "start": 21.92,
+  "end": 22.36
+ },
+ {
+  "text": "commence",
+  "start": 22.36,
+  "end": 22.6
+ },
+ {
+  "text": "avec",
+  "start": 22.6,
+  "end": 22.88
+ },
+ {
+  "text": "le",
+  "start": 22.88,
+  "end": 23.04
+ },
+ {
+  "text": "café",
+  "start": 23.04,
+  "end": 23.26
+ },
+ {
+  "text": "de",
+  "start": 23.26,
+  "end": 23.36
+ },
+ {
+  "text": "ce",
+  "start": 23.36,
+  "end": 23.46
+ },
+ {
+  "text": "matin,",
+  "start": 23.46,
+  "end": 23.76
+ },
+ {
+  "text": "l'abonnement",
+  "start": 23.9,
+  "end": 24.68
+ },
+ {
+  "text": "oublié,",
+  "start": 24.68,
+  "end": 25.1
+ },
+ {
+  "text": "les",
+  "start": 25.16,
+  "end": 25.62
+ },
+ {
+  "text": "10",
+  "start": 25.62,
+  "end": 25.84
+ },
+ {
+  "text": "euros",
+  "start": 25.84,
+  "end": 26.08
+ },
+ {
+  "text": "qu'on",
+  "start": 26.08,
+  "end": 26.26
+ },
+ {
+  "text": "aurait",
+  "start": 26.26,
+  "end": 26.38
+ },
+ {
+  "text": "pu",
+  "start": 26.38,
+  "end": 26.54
+ },
+ {
+  "text": "mettre",
+  "start": 26.54,
+  "end": 26.68
+ },
+ {
+  "text": "de",
+  "start": 26.68,
+  "end": 26.76
+ },
+ {
+  "text": "côté.",
+  "start": 26.76,
+  "end": 26.94
+ },
+ {
+  "text": "Si",
+  "start": 26.94,
+  "end": 27.78
+ },
+ {
+  "text": "tu",
+  "start": 27.78,
+  "end": 27.98
+ },
+ {
+  "text": "apprends",
+  "start": 27.98,
+  "end": 28.34
+ },
+ {
+  "text": "à",
+  "start": 28.34,
+  "end": 28.34
+ },
+ {
+  "text": "gérer",
+  "start": 28.34,
+  "end": 28.62
+ },
+ {
+  "text": "peu,",
+  "start": 28.62,
+  "end": 28.82
+ },
+ {
+  "text": "tu",
+  "start": 28.96,
+  "end": 29.46
+ },
+ {
+  "text": "sauras",
+  "start": 29.46,
+  "end": 29.8
+ },
+ {
+  "text": "gérer",
+  "start": 29.8,
+  "end": 30.06
+ },
+ {
+  "text": "davantage.",
+  "start": 30.06,
+  "end": 30.48
+ },
+ {
+  "text": "Fais",
+  "start": 31.16,
+  "end": 31.58
+ },
+ {
+  "text": "l'essai",
+  "start": 31.58,
+  "end": 31.86
+ },
+ {
+  "text": "cette",
+  "start": 31.86,
+  "end": 32.0
+ },
+ {
+  "text": "semaine.",
+  "start": 32.0,
+  "end": 32.22
+ },
+ {
+  "text": "Note",
+  "start": 32.56,
+  "end": 32.98
+ },
+ {
+  "text": "chaque",
+  "start": 32.98,
+  "end": 33.3
+ },
+ {
+  "text": "petite",
+  "start": 33.3,
+  "end": 33.64
+ },
+ {
+  "text": "dépense,",
+  "start": 33.64,
+  "end": 34.16
+ },
+ {
+  "text": "même",
+  "start": 34.18,
+  "end": 34.6
+ },
+ {
+  "text": "un",
+  "start": 34.6,
+  "end": 34.74
+ },
+ {
+  "text": "euro.",
+  "start": 34.74,
+  "end": 34.92
+ },
+ {
+  "text": "Tu",
+  "start": 35.22,
+  "end": 35.64
+ },
+ {
+  "text": "seras",
+  "start": 35.64,
+  "end": 35.9
+ },
+ {
+  "text": "peut-être",
+  "start": 35.9,
+  "end": 36.24
+ },
+ {
+  "text": "surpris",
+  "start": 36.24,
+  "end": 36.64
+ },
+ {
+  "text": "de",
+  "start": 36.64,
+  "end": 36.72
+ },
+ {
+  "text": "voir",
+  "start": 36.72,
+  "end": 36.88
+ },
+ {
+  "text": "combien",
+  "start": 36.88,
+  "end": 37.18
+ },
+ {
+  "text": "de",
+  "start": 37.18,
+  "end": 37.42
+ },
+ {
+  "text": "petites",
+  "start": 37.42,
+  "end": 37.68
+ },
+ {
+  "text": "sommes",
+  "start": 37.68,
+  "end": 38.0
+ },
+ {
+  "text": "mises",
+  "start": 38.0,
+  "end": 38.54
+ },
+ {
+  "text": "bout",
+  "start": 38.54,
+  "end": 38.66
+ },
+ {
+  "text": "à",
+  "start": 38.66,
+  "end": 38.8
+ },
+ {
+  "text": "bout",
+  "start": 38.8,
+  "end": 38.98
+ },
+ {
+  "text": "forment",
+  "start": 38.98,
+  "end": 39.76
+ },
+ {
+  "text": "un",
+  "start": 39.76,
+  "end": 39.9
+ },
+ {
+  "text": "vrai",
+  "start": 39.9,
+  "end": 40.08
+ },
+ {
+  "text": "montant",
+  "start": 40.08,
+  "end": 40.5
+ },
+ {
+  "text": "à",
+  "start": 40.5,
+  "end": 40.6
+ },
+ {
+  "text": "la",
+  "start": 40.6,
+  "end": 40.6
+ },
+ {
+  "text": "fin",
+  "start": 40.6,
+  "end": 40.78
+ },
+ {
+  "text": "du",
+  "start": 40.78,
+  "end": 40.9
+ },
+ {
+  "text": "mois.",
+  "start": 40.9,
+  "end": 41.04
+ }
+]
