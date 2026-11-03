@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « Pourquoi comparer ta vie aux autres détruit tes finances »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. Le montage peut aussi se faire sans cette planche (autocollants existants), mais elle rend le message beaucoup plus clair.
+
+## PLANCHE C1 — comparaison (6 éléments)
+Ordre de découpe : `baton-pelouse`, `facade-maison`, `telephone-parfait`, `baton-sacs-masque`, `carnet-gratitude`, `baton-coeur-calme`.
+
+Utilisation : `baton-pelouse` → accroche ; `telephone-parfait` et `facade-maison` → « on montre le sourire, jamais les factures » ; `baton-sacs-masque` → dépenser pour paraître ; `baton-coeur-calme` → verset ; `carnet-gratitude` → remède 3.
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, a stick figure standing next to a low wooden fence and looking over it with envious wide eyes at a lush bright green lawn on the other side, while his own side of the lawn is dry and yellowish; top middle, a charming small suburban house seen from the front with a smiling polished facade, flowers and a shiny red car in front, and behind its side wall a hidden messy pile of plain white paper bills sticking out, a thin cut-away look; top right, a large modern smartphone seen from the front whose screen shows only small colorful friendly icons: a heart, a star, a tiny car, a tiny house and a speech bubble, with no readable text, slightly glowing; bottom left, a tired sweating stick figure walking while carrying many colorful shopping bags in both arms, holding in front of his face a simple wide-smile mask on a stick, so the real tired face is partly hidden; bottom middle, an open notebook with three green check marks and three small red hearts drawn as little icons, a pencil lying next to it and a small warm cup, no writing; bottom right, a calm stick figure sitting peacefully on a simple wooden bench with eyes closed and one hand on his heart, a tiny simple cross pendant on a thin black cord around the neck, a few small green leaves around him, and two tiny cars driving far away behind him. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).
