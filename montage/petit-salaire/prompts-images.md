@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « Comment gérer un petit salaire avec une grande sagesse »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt.
+
+## PLANCHE S1 — petit salaire (6 éléments)
+Ordre de découpe : `baton-fin-de-mois`, `petit-salaire-pousse`, `balance-peu-paix`, `tirelire-semaine`, `carnet-depenses`, `tuiles-essentiel`.
+
+Utilisation : `baton-fin-de-mois` → accroche ; `balance-peu-paix` → verset ; `carnet-depenses` → habitude 1 et action de la semaine ; `tuiles-essentiel` → habitude 2 ; `tirelire-semaine` → habitude 3 ; `petit-salaire-pousse` → conclusion et fin de boucle.
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figure looks like this: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, a thoughtful stick figure standing and holding a thin nearly empty wallet open in one hand while counting a few small golden euro-style coins in the palm of the other hand, calm and determined expression, not sad; top middle, a slim pay envelope with a small stack of three golden euro-style coins next to it, and a small green sprout with two leaves growing out of the top coin; top right, a balance scale slightly tilted: the left pan holds a small leather coin bag with a green leaf and a tiny sun above it and goes down because it is heavier, the right pan holds a big heap of golden coins with a small dark storm cloud and a small lightning bolt above it and goes up; bottom left, a cute small piggy bank with a golden euro-style coin dropping into its slot, next to it a small desk calendar with four small green check marks and no numbers; bottom middle, an open notebook with a pencil lying on it, its page showing neat rows of tiny icons of a house, a bread loaf, a bus and a light bulb each followed by a short line and a small golden coin, no writing; bottom right, four square tiles stacked as a tidy column of steps, each tile showing one simple icon from top to bottom: a house, a bread loaf, a bus, a light bulb, the top tile slightly larger, a small green arrow pointing down along them. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).
