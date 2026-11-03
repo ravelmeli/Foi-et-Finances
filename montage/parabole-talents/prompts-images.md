@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « La parabole des talents expliquée avec ton argent »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. **Le maître est toujours dessiné de dos** (aucun visage de Dieu ou de Jésus).
+
+## PLANCHE T1 — la parabole (6 éléments)
+Ordre de découpe : `maitre-confie`, `trois-sacs`, `baton-creuse`, `arbre-pieces`, `maitre-felicite`, `pot-enterre`.
+
+Utilisation : `maitre-confie` et `trois-sacs` → le récit ; `baton-creuse` et `pot-enterre` → le troisième serviteur ; `arbre-pieces` → faire fructifier ; `maitre-felicite` → le verset ; `pot-enterre` revient en fin de boucle.
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, a master stick figure seen strictly from behind, with no face visible, wearing a long simple brown cloak and a brimmed travel hat, holding a walking stick and a small travel bag, standing in front of three small stick servants who face us and each hold out their hands to receive a small leather bag of golden coins; top middle, three leather coin bags standing side by side in growing sizes, one large, one medium, one small, tied with string, golden euro-style coins spilling slightly from the large one; top right, a frightened stick figure kneeling and digging a hole in the ground with a small shovel, looking nervously over his shoulder with wide eyes, a small leather coin bag on the ground beside the hole, a mound of brown soil; bottom left, a small friendly tree whose leaves are golden euro-style coins, a few coins lying at its roots, small green leaves around, healthy and growing; bottom middle, a master stick figure seen strictly from behind with no face visible, wearing a long simple brown cloak and a brimmed hat, resting one hand on the shoulder of a smiling stick servant who faces us and proudly holds a leather coin bag, a small green leaf and a small golden star above them; bottom right, a clay jar half buried in brown soil with a single golden euro-style coin visible at its mouth, a few blades of dry grass around, a small shovel stuck in the ground next to it, a lonely quiet feeling. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).

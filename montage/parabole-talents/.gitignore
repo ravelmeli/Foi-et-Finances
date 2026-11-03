@@ -1,0 +1,5 @@
+renders/
+.hyperframes/
+index.html
+__pycache__/
+*.tmp
