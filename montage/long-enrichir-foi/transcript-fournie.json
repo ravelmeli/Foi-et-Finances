@@ -1,0 +1,9617 @@
+[
+ {
+  "text": "T'as",
+  "start": 0.0,
+  "end": 0.28
+ },
+ {
+  "text": "peut-être",
+  "start": 0.28,
+  "end": 0.82
+ },
+ {
+  "text": "déjà",
+  "start": 0.82,
+  "end": 1.02
+ },
+ {
+  "text": "ressenti",
+  "start": 1.02,
+  "end": 1.6
+ },
+ {
+  "text": "cette",
+  "start": 1.6,
+  "end": 1.8
+ },
+ {
+  "text": "peur,",
+  "start": 1.8,
+  "end": 2.08
+ },
+ {
+  "text": "en",
+  "start": 2.24,
+  "end": 2.68
+ },
+ {
+  "text": "vouloir",
+  "start": 2.68,
+  "end": 3.06
+ },
+ {
+  "text": "plus,",
+  "start": 3.06,
+  "end": 3.34
+ },
+ {
+  "text": "et",
+  "start": 3.54,
+  "end": 3.86
+ },
+ {
+  "text": "te",
+  "start": 3.86,
+  "end": 3.98
+ },
+ {
+  "text": "demander",
+  "start": 3.98,
+  "end": 4.24
+ },
+ {
+  "text": "si",
+  "start": 4.24,
+  "end": 4.5
+ },
+ {
+  "text": "c'est",
+  "start": 4.5,
+  "end": 4.84
+ },
+ {
+  "text": "mal.",
+  "start": 4.84,
+  "end": 5.0
+ },
+ {
+  "text": "Beaucoup",
+  "start": 5.54,
+  "end": 5.98
+ },
+ {
+  "text": "de",
+  "start": 5.98,
+  "end": 6.1
+ },
+ {
+  "text": "chrétiens",
+  "start": 6.1,
+  "end": 6.38
+ },
+ {
+  "text": "avancent",
+  "start": 6.38,
+  "end": 6.68
+ },
+ {
+  "text": "avec",
+  "start": 6.68,
+  "end": 6.86
+ },
+ {
+  "text": "ce",
+  "start": 6.86,
+  "end": 7.02
+ },
+ {
+  "text": "frein",
+  "start": 7.02,
+  "end": 7.26
+ },
+ {
+  "text": "dans",
+  "start": 7.26,
+  "end": 7.38
+ },
+ {
+  "text": "la",
+  "start": 7.38,
+  "end": 7.46
+ },
+ {
+  "text": "tête.",
+  "start": 7.46,
+  "end": 7.68
+ },
+ {
+  "text": "Gagner",
+  "start": 8.0,
+  "end": 8.4
+ },
+ {
+  "text": "davantage,",
+  "start": 8.4,
+  "end": 8.98
+ },
+ {
+  "text": "est-ce",
+  "start": 9.18,
+  "end": 9.52
+ },
+ {
+  "text": "que",
+  "start": 9.52,
+  "end": 9.54
+ },
+ {
+  "text": "ce",
+  "start": 9.54,
+  "end": 9.68
+ },
+ {
+  "text": "n'est",
+  "start": 9.68,
+  "end": 9.86
+ },
+ {
+  "text": "pas",
+  "start": 9.86,
+  "end": 10.02
+ },
+ {
+  "text": "s'éloigner",
+  "start": 10.02,
+  "end": 10.46
+ },
+ {
+  "text": "de",
+  "start": 10.46,
+  "end": 10.6
+ },
+ {
+  "text": "Dieu?",
+  "start": 10.6,
+  "end": 11.02
+ },
+ {
+  "text": "Certains",
+  "start": 11.02,
+  "end": 11.74
+ },
+ {
+  "text": "ont",
+  "start": 11.74,
+  "end": 11.8
+ },
+ {
+  "text": "conclu",
+  "start": 11.8,
+  "end": 12.1
+ },
+ {
+  "text": "qu'il",
+  "start": 12.1,
+  "end": 12.26
+ },
+ {
+  "text": "faut",
+  "start": 12.26,
+  "end": 12.36
+ },
+ {
+  "text": "rester",
+  "start": 12.36,
+  "end": 12.66
+ },
+ {
+  "text": "pauvre",
+  "start": 12.66,
+  "end": 13.02
+ },
+ {
+  "text": "pour",
+  "start": 13.02,
+  "end": 13.2
+ },
+ {
+  "text": "rester",
+  "start": 13.2,
+  "end": 13.42
+ },
+ {
+  "text": "fidèle.",
+  "start": 13.42,
+  "end": 13.78
+ },
+ {
+  "text": "D'autres",
+  "start": 14.1,
+  "end": 14.7
+ },
+ {
+  "text": "foncent",
+  "start": 14.7,
+  "end": 15.16
+ },
+ {
+  "text": "et",
+  "start": 15.16,
+  "end": 15.5
+ },
+ {
+  "text": "finissent",
+  "start": 15.5,
+  "end": 15.9
+ },
+ {
+  "text": "par",
+  "start": 15.9,
+  "end": 16.0
+ },
+ {
+  "text": "oublier",
+  "start": 16.0,
+  "end": 16.5
+ },
+ {
+  "text": "pourquoi",
+  "start": 16.5,
+  "end": 16.74
+ },
+ {
+  "text": "ils",
+  "start": 16.74,
+  "end": 16.94
+ },
+ {
+  "text": "avaient",
+  "start": 16.94,
+  "end": 17.08
+ },
+ {
+  "text": "commencé.",
+  "start": 17.08,
+  "end": 17.36
+ },
+ {
+  "text": "Alors",
+  "start": 18.0,
+  "end": 18.44
+ },
+ {
+  "text": "peut-on",
+  "start": 18.44,
+  "end": 19.02
+ },
+ {
+  "text": "s'enrichir",
+  "start": 19.02,
+  "end": 19.74
+ },
+ {
+  "text": "sans",
+  "start": 19.74,
+  "end": 19.96
+ },
+ {
+  "text": "perdre",
+  "start": 19.96,
+  "end": 20.36
+ },
+ {
+  "text": "la",
+  "start": 20.36,
+  "end": 20.58
+ },
+ {
+  "text": "foi?",
+  "start": 20.58,
+  "end": 21.16
+ },
+ {
+  "text": "Dans",
+  "start": 21.16,
+  "end": 21.44
+ },
+ {
+  "text": "cette",
+  "start": 21.44,
+  "end": 21.64
+ },
+ {
+  "text": "vidéo,",
+  "start": 21.64,
+  "end": 21.96
+ },
+ {
+  "text": "on",
+  "start": 22.08,
+  "end": 22.2
+ },
+ {
+  "text": "va",
+  "start": 22.2,
+  "end": 22.28
+ },
+ {
+  "text": "voir",
+  "start": 22.28,
+  "end": 22.52
+ },
+ {
+  "text": "5",
+  "start": 22.52,
+  "end": 22.8
+ },
+ {
+  "text": "passages",
+  "start": 22.8,
+  "end": 23.22
+ },
+ {
+  "text": "de",
+  "start": 23.22,
+  "end": 23.38
+ },
+ {
+  "text": "la",
+  "start": 23.38,
+  "end": 23.46
+ },
+ {
+  "text": "Bible",
+  "start": 23.46,
+  "end": 23.68
+ },
+ {
+  "text": "qui",
+  "start": 23.68,
+  "end": 23.86
+ },
+ {
+  "text": "répondent",
+  "start": 23.86,
+  "end": 24.38
+ },
+ {
+  "text": "à",
+  "start": 24.38,
+  "end": 24.38
+ },
+ {
+  "text": "cette",
+  "start": 24.38,
+  "end": 24.54
+ },
+ {
+  "text": "question.",
+  "start": 24.54,
+  "end": 24.84
+ },
+ {
+  "text": "5",
+  "start": 25.24,
+  "end": 25.68
+ },
+ {
+  "text": "garde-fous",
+  "start": 25.68,
+  "end": 26.24
+ },
+ {
+  "text": "concrets",
+  "start": 26.24,
+  "end": 26.64
+ },
+ {
+  "text": "et",
+  "start": 26.64,
+  "end": 26.94
+ },
+ {
+  "text": "un",
+  "start": 26.94,
+  "end": 27.14
+ },
+ {
+  "text": "exemple",
+  "start": 27.14,
+  "end": 27.54
+ },
+ {
+  "text": "pour",
+  "start": 27.54,
+  "end": 27.84
+ },
+ {
+  "text": "tout",
+  "start": 27.84,
+  "end": 28.1
+ },
+ {
+  "text": "mettre",
+  "start": 28.1,
+  "end": 28.32
+ },
+ {
+  "text": "en",
+  "start": 28.32,
+  "end": 28.48
+ },
+ {
+  "text": "pratique.",
+  "start": 28.48,
+  "end": 28.7
+ },
+ {
+  "text": "Reste",
+  "start": 29.22,
+  "end": 29.5
+ },
+ {
+  "text": "jusqu'à",
+  "start": 29.5,
+  "end": 29.94
+ },
+ {
+  "text": "la",
+  "start": 29.94,
+  "end": 29.98
+ },
+ {
+  "text": "fin,",
+  "start": 29.98,
+  "end": 30.16
+ },
+ {
+  "text": "car",
+  "start": 30.22,
+  "end": 30.4
+ },
+ {
+  "text": "je",
+  "start": 30.4,
+  "end": 30.5
+ },
+ {
+  "text": "te",
+  "start": 30.5,
+  "end": 30.56
+ },
+ {
+  "text": "donnerai",
+  "start": 30.56,
+  "end": 30.84
+ },
+ {
+  "text": "un",
+  "start": 30.84,
+  "end": 30.96
+ },
+ {
+  "text": "test",
+  "start": 30.96,
+  "end": 31.14
+ },
+ {
+  "text": "en",
+  "start": 31.14,
+  "end": 31.3
+ },
+ {
+  "text": "trois",
+  "start": 31.3,
+  "end": 31.52
+ },
+ {
+  "text": "questions",
+  "start": 31.52,
+  "end": 31.94
+ },
+ {
+  "text": "à",
+  "start": 31.94,
+  "end": 32.14
+ },
+ {
+  "text": "te",
+  "start": 32.14,
+  "end": 32.24
+ },
+ {
+  "text": "poser",
+  "start": 32.24,
+  "end": 32.48
+ },
+ {
+  "text": "chaque",
+  "start": 32.48,
+  "end": 32.78
+ },
+ {
+  "text": "fois",
+  "start": 32.78,
+  "end": 33.1
+ },
+ {
+  "text": "que",
+  "start": 33.1,
+  "end": 33.24
+ },
+ {
+  "text": "ton",
+  "start": 33.24,
+  "end": 33.34
+ },
+ {
+  "text": "revenu",
+  "start": 33.34,
+  "end": 33.62
+ },
+ {
+  "text": "augmente.",
+  "start": 33.62,
+  "end": 33.86
+ },
+ {
+  "text": "Et",
+  "start": 34.16,
+  "end": 34.56
+ },
+ {
+  "text": "avant",
+  "start": 34.56,
+  "end": 34.72
+ },
+ {
+  "text": "de",
+  "start": 34.72,
+  "end": 34.82
+ },
+ {
+  "text": "commencer,",
+  "start": 34.82,
+  "end": 35.04
+ },
+ {
+  "text": "une",
+  "start": 35.2,
+  "end": 35.64
+ },
+ {
+  "text": "précision",
+  "start": 35.64,
+  "end": 36.12
+ },
+ {
+  "text": "importante.",
+  "start": 36.12,
+  "end": 36.48
+ },
+ {
+  "text": "Personne",
+  "start": 37.44,
+  "end": 37.84
+ },
+ {
+  "text": "ne",
+  "start": 37.84,
+  "end": 37.98
+ },
+ {
+  "text": "peut",
+  "start": 37.98,
+  "end": 38.14
+ },
+ {
+  "text": "te",
+  "start": 38.14,
+  "end": 38.24
+ },
+ {
+  "text": "promettre",
+  "start": 38.24,
+  "end": 38.62
+ },
+ {
+  "text": "que",
+  "start": 38.62,
+  "end": 38.74
+ },
+ {
+  "text": "tu",
+  "start": 38.74,
+  "end": 38.84
+ },
+ {
+  "text": "vas",
+  "start": 38.84,
+  "end": 38.94
+ },
+ {
+  "text": "t'enrichir.",
+  "start": 38.94,
+  "end": 39.5
+ },
+ {
+  "text": "On",
+  "start": 39.56,
+  "end": 39.86
+ },
+ {
+  "text": "ne",
+  "start": 39.86,
+  "end": 39.94
+ },
+ {
+  "text": "parle",
+  "start": 39.94,
+  "end": 40.12
+ },
+ {
+  "text": "pas",
+  "start": 40.12,
+  "end": 40.28
+ },
+ {
+  "text": "de",
+  "start": 40.28,
+  "end": 40.4
+ },
+ {
+  "text": "formule",
+  "start": 40.4,
+  "end": 40.8
+ },
+ {
+  "text": "magique.",
+  "start": 40.8,
+  "end": 41.18
+ },
+ {
+  "text": "On",
+  "start": 41.28,
+  "end": 41.68
+ },
+ {
+  "text": "parle",
+  "start": 41.68,
+  "end": 41.9
+ },
+ {
+  "text": "de",
+  "start": 41.9,
+  "end": 42.02
+ },
+ {
+  "text": "la",
+  "start": 42.02,
+  "end": 42.08
+ },
+ {
+  "text": "façon",
+  "start": 42.08,
+  "end": 42.32
+ },
+ {
+  "text": "de",
+  "start": 42.32,
+  "end": 42.48
+ },
+ {
+  "text": "garder",
+  "start": 42.48,
+  "end": 42.82
+ },
+ {
+  "text": "ton",
+  "start": 42.82,
+  "end": 43.04
+ },
+ {
+  "text": "cœur,",
+  "start": 43.04,
+  "end": 43.28
+ },
+ {
+  "text": "quel",
+  "start": 43.44,
+  "end": 43.72
+ },
+ {
+  "text": "que",
+  "start": 43.72,
+  "end": 43.92
+ },
+ {
+  "text": "soit",
+  "start": 43.92,
+  "end": 44.14
+ },
+ {
+  "text": "ton",
+  "start": 44.14,
+  "end": 44.28
+ },
+ {
+  "text": "revenu.",
+  "start": 44.28,
+  "end": 44.64
+ },
+ {
+  "text": "Commençons.",
+  "start": 45.18,
+  "end": 45.58
+ },
+ {
+  "text": "Le",
+  "start": 46.16,
+  "end": 46.56
+ },
+ {
+  "text": "premier",
+  "start": 46.56,
+  "end": 46.82
+ },
+ {
+  "text": "passage",
+  "start": 46.82,
+  "end": 47.1
+ },
+ {
+  "text": "se",
+  "start": 47.1,
+  "end": 47.3
+ },
+ {
+  "text": "trouve",
+  "start": 47.3,
+  "end": 47.46
+ },
+ {
+  "text": "dans",
+  "start": 47.46,
+  "end": 47.6
+ },
+ {
+  "text": "la",
+  "start": 47.6,
+  "end": 47.66
+ },
+ {
+  "text": "première",
+  "start": 47.66,
+  "end": 47.98
+ },
+ {
+  "text": "lettre",
+  "start": 47.98,
+  "end": 48.28
+ },
+ {
+  "text": "à",
+  "start": 48.28,
+  "end": 48.36
+ },
+ {
+  "text": "Timothée,",
+  "start": 48.36,
+  "end": 48.72
+ },
+ {
+  "text": "chapitre",
+  "start": 48.8,
+  "end": 49.32
+ },
+ {
+  "text": "6,",
+  "start": 49.32,
+  "end": 49.5
+ },
+ {
+  "text": "verset",
+  "start": 49.66,
+  "end": 49.98
+ },
+ {
+  "text": "10.",
+  "start": 49.98,
+  "end": 50.14
+ },
+ {
+  "text": "Car",
+  "start": 50.76,
+  "end": 51.16
+ },
+ {
+  "text": "l'amour",
+  "start": 51.16,
+  "end": 51.58
+ },
+ {
+  "text": "de",
+  "start": 51.58,
+  "end": 51.84
+ },
+ {
+  "text": "l'argent",
+  "start": 51.84,
+  "end": 52.14
+ },
+ {
+  "text": "est",
+  "start": 52.14,
+  "end": 52.36
+ },
+ {
+  "text": "la",
+  "start": 52.36,
+  "end": 52.5
+ },
+ {
+  "text": "racine",
+  "start": 52.5,
+  "end": 52.82
+ },
+ {
+  "text": "de",
+  "start": 52.82,
+  "end": 52.94
+ },
+ {
+  "text": "tous",
+  "start": 52.94,
+  "end": 53.16
+ },
+ {
+  "text": "les",
+  "start": 53.16,
+  "end": 53.34
+ },
+ {
+  "text": "maux.",
+  "start": 53.34,
+  "end": 53.52
+ },
+ {
+  "text": "Et",
+  "start": 53.62,
+  "end": 54.02
+ },
+ {
+  "text": "quelques-uns,",
+  "start": 54.02,
+  "end": 54.46
+ },
+ {
+  "text": "en",
+  "start": 54.52,
+  "end": 54.62
+ },
+ {
+  "text": "étant",
+  "start": 54.62,
+  "end": 54.78
+ },
+ {
+  "text": "possédés,",
+  "start": 54.78,
+  "end": 55.3
+ },
+ {
+  "text": "se",
+  "start": 55.32,
+  "end": 55.4
+ },
+ {
+  "text": "sont",
+  "start": 55.4,
+  "end": 55.62
+ },
+ {
+  "text": "égarés",
+  "start": 55.62,
+  "end": 56.18
+ },
+ {
+  "text": "loin",
+  "start": 56.18,
+  "end": 56.44
+ },
+ {
+  "text": "de",
+  "start": 56.44,
+  "end": 56.7
+ },
+ {
+  "text": "la",
+  "start": 56.7,
+  "end": 56.78
+ },
+ {
+  "text": "foi",
+  "start": 56.78,
+  "end": 56.98
+ },
+ {
+  "text": "et",
+  "start": 56.98,
+  "end": 57.14
+ },
+ {
+  "text": "se",
+  "start": 57.14,
+  "end": 57.62
+ },
+ {
+  "text": "sont",
+  "start": 57.62,
+  "end": 57.78
+ },
+ {
+  "text": "jetés",
+  "start": 57.78,
+  "end": 58.12
+ },
+ {
+  "text": "eux-mêmes",
+  "start": 58.12,
+  "end": 58.62
+ },
+ {
+  "text": "dans",
+  "start": 58.62,
+  "end": 58.8
+ },
+ {
+  "text": "bien",
+  "start": 58.8,
+  "end": 59.0
+ },
+ {
+  "text": "des",
+  "start": 59.0,
+  "end": 59.16
+ },
+ {
+  "text": "tourments.",
+  "start": 59.16,
+  "end": 59.5
+ },
+ {
+  "text": "Remarque",
+  "start": 60.22,
+  "end": 60.58
+ },
+ {
+  "text": "bien",
+  "start": 60.58,
+  "end": 60.72
+ },
+ {
+  "text": "ce",
+  "start": 60.72,
+  "end": 60.84
+ },
+ {
+  "text": "que",
+  "start": 60.84,
+  "end": 60.9
+ },
+ {
+  "text": "dit",
+  "start": 60.9,
+  "end": 61.0
+ },
+ {
+  "text": "le",
+  "start": 61.0,
+  "end": 61.08
+ },
+ {
+  "text": "verset.",
+  "start": 61.08,
+  "end": 61.32
+ },
+ {
+  "text": "Il",
+  "start": 61.6,
+  "end": 61.96
+ },
+ {
+  "text": "ne",
+  "start": 61.96,
+  "end": 62.08
+ },
+ {
+  "text": "dit",
+  "start": 62.08,
+  "end": 62.24
+ },
+ {
+  "text": "pas",
+  "start": 62.24,
+  "end": 62.38
+ },
+ {
+  "text": "que",
+  "start": 62.38,
+  "end": 62.52
+ },
+ {
+  "text": "l'argent",
+  "start": 62.52,
+  "end": 62.88
+ },
+ {
+  "text": "est",
+  "start": 62.88,
+  "end": 63.12
+ },
+ {
+  "text": "la",
+  "start": 63.12,
+  "end": 63.22
+ },
+ {
+  "text": "racine",
+  "start": 63.22,
+  "end": 63.54
+ },
+ {
+  "text": "de",
+  "start": 63.54,
+  "end": 63.62
+ },
+ {
+  "text": "tous",
+  "start": 63.62,
+  "end": 63.74
+ },
+ {
+  "text": "les",
+  "start": 63.74,
+  "end": 63.86
+ },
+ {
+  "text": "maux.",
+  "start": 63.86,
+  "end": 64.0
+ },
+ {
+  "text": "Il",
+  "start": 64.2,
+  "end": 64.56
+ },
+ {
+  "text": "dit",
+  "start": 64.56,
+  "end": 64.72
+ },
+ {
+  "text": "que",
+  "start": 64.72,
+  "end": 64.86
+ },
+ {
+  "text": "l'amour",
+  "start": 64.86,
+  "end": 65.24
+ },
+ {
+  "text": "de",
+  "start": 65.24,
+  "end": 65.56
+ },
+ {
+  "text": "l'argent",
+  "start": 65.56,
+  "end": 65.88
+ },
+ {
+  "text": "l'est.",
+  "start": 65.88,
+  "end": 66.06
+ },
+ {
+  "text": "La",
+  "start": 66.4,
+  "end": 66.76
+ },
+ {
+  "text": "différence",
+  "start": 66.76,
+  "end": 67.08
+ },
+ {
+  "text": "est",
+  "start": 67.08,
+  "end": 67.28
+ },
+ {
+  "text": "énorme.",
+  "start": 67.28,
+  "end": 67.9
+ },
+ {
+  "text": "L'argent",
+  "start": 68.14,
+  "end": 68.64
+ },
+ {
+  "text": "est",
+  "start": 68.64,
+  "end": 68.76
+ },
+ {
+  "text": "un",
+  "start": 68.76,
+  "end": 68.9
+ },
+ {
+  "text": "outil.",
+  "start": 68.9,
+  "end": 69.2
+ },
+ {
+  "text": "L'aimer",
+  "start": 69.38,
+  "end": 69.86
+ },
+ {
+  "text": "au",
+  "start": 69.86,
+  "end": 70.0
+ },
+ {
+  "text": "point",
+  "start": 70.0,
+  "end": 70.2
+ },
+ {
+  "text": "d'être",
+  "start": 70.2,
+  "end": 70.36
+ },
+ {
+  "text": "possédé",
+  "start": 70.36,
+  "end": 70.92
+ },
+ {
+  "text": "par",
+  "start": 70.92,
+  "end": 71.08
+ },
+ {
+  "text": "lui,",
+  "start": 71.08,
+  "end": 71.28
+ },
+ {
+  "text": "c'est",
+  "start": 71.36,
+  "end": 71.58
+ },
+ {
+  "text": "un",
+  "start": 71.58,
+  "end": 71.7
+ },
+ {
+  "text": "piège.",
+  "start": 71.7,
+  "end": 72.14
+ },
+ {
+  "text": "Et",
+  "start": 72.62,
+  "end": 72.98
+ },
+ {
+  "text": "regarde",
+  "start": 72.98,
+  "end": 73.28
+ },
+ {
+  "text": "la",
+  "start": 73.28,
+  "end": 73.48
+ },
+ {
+  "text": "conséquence.",
+  "start": 73.48,
+  "end": 74.04
+ },
+ {
+  "text": "Égaré",
+  "start": 74.6,
+  "end": 74.96
+ },
+ {
+  "text": "loin",
+  "start": 74.96,
+  "end": 75.24
+ },
+ {
+  "text": "de",
+  "start": 75.24,
+  "end": 75.56
+ },
+ {
+  "text": "la",
+  "start": 75.56,
+  "end": 75.62
+ },
+ {
+  "text": "foi.",
+  "start": 75.62,
+  "end": 75.84
+ },
+ {
+  "text": "Le",
+  "start": 76.32,
+  "end": 76.68
+ },
+ {
+  "text": "danger",
+  "start": 76.68,
+  "end": 76.92
+ },
+ {
+  "text": "n'est",
+  "start": 76.92,
+  "end": 77.1
+ },
+ {
+  "text": "pas",
+  "start": 77.1,
+  "end": 77.2
+ },
+ {
+  "text": "le",
+  "start": 77.2,
+  "end": 77.28
+ },
+ {
+  "text": "compte",
+  "start": 77.28,
+  "end": 77.46
+ },
+ {
+  "text": "en",
+  "start": 77.46,
+  "end": 77.6
+ },
+ {
+  "text": "banque.",
+  "start": 77.6,
+  "end": 77.88
+ },
+ {
+  "text": "C'est",
+  "start": 77.94,
+  "end": 78.42
+ },
+ {
+  "text": "la",
+  "start": 78.42,
+  "end": 78.46
+ },
+ {
+  "text": "place",
+  "start": 78.46,
+  "end": 78.66
+ },
+ {
+  "text": "que",
+  "start": 78.66,
+  "end": 78.8
+ },
+ {
+  "text": "l'argent",
+  "start": 78.8,
+  "end": 79.1
+ },
+ {
+  "text": "prend",
+  "start": 79.1,
+  "end": 79.44
+ },
+ {
+  "text": "dans",
+  "start": 79.44,
+  "end": 79.84
+ },
+ {
+  "text": "le",
+  "start": 79.84,
+  "end": 79.96
+ },
+ {
+  "text": "cœur.",
+  "start": 79.96,
+  "end": 80.18
+ },
+ {
+  "text": "Abraham",
+  "start": 80.76,
+  "end": 81.12
+ },
+ {
+  "text": "était",
+  "start": 81.12,
+  "end": 81.42
+ },
+ {
+  "text": "très",
+  "start": 81.42,
+  "end": 81.64
+ },
+ {
+  "text": "riche.",
+  "start": 81.64,
+  "end": 82.0
+ },
+ {
+  "text": "Job",
+  "start": 82.2,
+  "end": 82.56
+ },
+ {
+  "text": "a",
+  "start": 82.56,
+  "end": 82.76
+ },
+ {
+  "text": "été",
+  "start": 82.76,
+  "end": 82.98
+ },
+ {
+  "text": "riche.",
+  "start": 82.98,
+  "end": 83.38
+ },
+ {
+  "text": "Joseph",
+  "start": 83.54,
+  "end": 83.9
+ },
+ {
+  "text": "a",
+  "start": 83.9,
+  "end": 84.06
+ },
+ {
+  "text": "dirigé",
+  "start": 84.06,
+  "end": 84.42
+ },
+ {
+  "text": "les",
+  "start": 84.42,
+  "end": 84.5
+ },
+ {
+  "text": "finances",
+  "start": 84.5,
+  "end": 84.72
+ },
+ {
+  "text": "de",
+  "start": 84.72,
+  "end": 84.9
+ },
+ {
+  "text": "toute",
+  "start": 84.9,
+  "end": 85.1
+ },
+ {
+  "text": "l'Égypte.",
+  "start": 85.1,
+  "end": 85.52
+ },
+ {
+  "text": "et",
+  "start": 85.52,
+  "end": 86.08
+ },
+ {
+  "text": "pourtant,",
+  "start": 86.08,
+  "end": 86.4
+ },
+ {
+  "text": "leur",
+  "start": 86.58,
+  "end": 86.8
+ },
+ {
+  "text": "foi",
+  "start": 86.8,
+  "end": 87.04
+ },
+ {
+  "text": "est",
+  "start": 87.04,
+  "end": 87.26
+ },
+ {
+  "text": "restée",
+  "start": 87.26,
+  "end": 87.58
+ },
+ {
+  "text": "vivante.",
+  "start": 87.58,
+  "end": 87.9
+ },
+ {
+  "text": "La",
+  "start": 88.28,
+  "end": 88.72
+ },
+ {
+  "text": "Bible",
+  "start": 88.72,
+  "end": 88.9
+ },
+ {
+  "text": "n'interdit",
+  "start": 88.9,
+  "end": 89.4
+ },
+ {
+  "text": "donc",
+  "start": 89.4,
+  "end": 89.56
+ },
+ {
+  "text": "pas",
+  "start": 89.56,
+  "end": 89.78
+ },
+ {
+  "text": "la",
+  "start": 89.78,
+  "end": 89.88
+ },
+ {
+  "text": "richesse,",
+  "start": 89.88,
+  "end": 90.22
+ },
+ {
+  "text": "elle",
+  "start": 90.38,
+  "end": 90.86
+ },
+ {
+  "text": "interdit",
+  "start": 90.86,
+  "end": 91.24
+ },
+ {
+  "text": "que",
+  "start": 91.24,
+  "end": 91.32
+ },
+ {
+  "text": "la",
+  "start": 91.32,
+  "end": 91.42
+ },
+ {
+  "text": "richesse",
+  "start": 91.42,
+  "end": 91.78
+ },
+ {
+  "text": "nous",
+  "start": 91.78,
+  "end": 92.08
+ },
+ {
+  "text": "possède.",
+  "start": 92.08,
+  "end": 92.56
+ },
+ {
+  "text": "Voici",
+  "start": 93.24,
+  "end": 93.68
+ },
+ {
+  "text": "un",
+  "start": 93.68,
+  "end": 93.8
+ },
+ {
+  "text": "petit",
+  "start": 93.8,
+  "end": 93.88
+ },
+ {
+  "text": "test.",
+  "start": 93.88,
+  "end": 94.08
+ },
+ {
+  "text": "Si",
+  "start": 94.48,
+  "end": 94.92
+ },
+ {
+  "text": "demain,",
+  "start": 94.92,
+  "end": 95.2
+ },
+ {
+  "text": "tu",
+  "start": 95.36,
+  "end": 95.62
+ },
+ {
+  "text": "perdais",
+  "start": 95.62,
+  "end": 95.9
+ },
+ {
+  "text": "la",
+  "start": 95.9,
+  "end": 95.98
+ },
+ {
+  "text": "moitié",
+  "start": 95.98,
+  "end": 96.28
+ },
+ {
+  "text": "de",
+  "start": 96.28,
+  "end": 96.4
+ },
+ {
+  "text": "ton",
+  "start": 96.4,
+  "end": 96.44
+ },
+ {
+  "text": "revenu,",
+  "start": 96.44,
+  "end": 96.78
+ },
+ {
+  "text": "qu'est-ce",
+  "start": 97.3,
+  "end": 97.64
+ },
+ {
+  "text": "que",
+  "start": 97.64,
+  "end": 97.7
+ },
+ {
+  "text": "tu",
+  "start": 97.7,
+  "end": 97.86
+ },
+ {
+  "text": "ressentirais?",
+  "start": 97.86,
+  "end": 98.56
+ },
+ {
+  "text": "Si",
+  "start": 99.0,
+  "end": 99.22
+ },
+ {
+  "text": "c'est",
+  "start": 99.22,
+  "end": 99.42
+ },
+ {
+  "text": "la",
+  "start": 99.42,
+  "end": 99.46
+ },
+ {
+  "text": "panique",
+  "start": 99.46,
+  "end": 99.9
+ },
+ {
+  "text": "totale,",
+  "start": 99.9,
+  "end": 100.28
+ },
+ {
+  "text": "c'est",
+  "start": 100.34,
+  "end": 100.62
+ },
+ {
+  "text": "peut-être",
+  "start": 100.62,
+  "end": 101.2
+ },
+ {
+  "text": "le",
+  "start": 101.2,
+  "end": 101.3
+ },
+ {
+  "text": "signe",
+  "start": 101.3,
+  "end": 101.6
+ },
+ {
+  "text": "que",
+  "start": 101.6,
+  "end": 101.76
+ },
+ {
+  "text": "ton",
+  "start": 101.76,
+  "end": 101.9
+ },
+ {
+  "text": "argent",
+  "start": 101.9,
+  "end": 102.14
+ },
+ {
+  "text": "commence",
+  "start": 102.14,
+  "end": 102.44
+ },
+ {
+  "text": "à",
+  "start": 102.44,
+  "end": 102.64
+ },
+ {
+  "text": "te",
+  "start": 102.64,
+  "end": 102.76
+ },
+ {
+  "text": "posséder.",
+  "start": 102.76,
+  "end": 103.36
+ },
+ {
+  "text": "Première",
+  "start": 104.32,
+  "end": 104.76
+ },
+ {
+  "text": "question",
+  "start": 104.76,
+  "end": 104.98
+ },
+ {
+  "text": "à",
+  "start": 104.98,
+  "end": 105.1
+ },
+ {
+  "text": "retenir,",
+  "start": 105.1,
+  "end": 105.44
+ },
+ {
+  "text": "est-ce",
+  "start": 105.74,
+  "end": 106.02
+ },
+ {
+  "text": "que",
+  "start": 106.02,
+  "end": 106.06
+ },
+ {
+  "text": "je",
+  "start": 106.06,
+  "end": 106.22
+ },
+ {
+  "text": "possède",
+  "start": 106.22,
+  "end": 106.76
+ },
+ {
+  "text": "mon",
+  "start": 106.76,
+  "end": 106.88
+ },
+ {
+  "text": "argent",
+  "start": 106.88,
+  "end": 107.18
+ },
+ {
+  "text": "ou",
+  "start": 107.18,
+  "end": 107.48
+ },
+ {
+  "text": "est-ce",
+  "start": 107.48,
+  "end": 107.72
+ },
+ {
+  "text": "que",
+  "start": 107.72,
+  "end": 107.74
+ },
+ {
+  "text": "mon",
+  "start": 107.74,
+  "end": 107.92
+ },
+ {
+  "text": "argent",
+  "start": 107.92,
+  "end": 108.28
+ },
+ {
+  "text": "me",
+  "start": 108.28,
+  "end": 108.5
+ },
+ {
+  "text": "possède?",
+  "start": 108.5,
+  "end": 109.42
+ },
+ {
+  "text": "Le",
+  "start": 110.3,
+  "end": 110.74
+ },
+ {
+  "text": "deuxième",
+  "start": 110.74,
+  "end": 111.02
+ },
+ {
+  "text": "passage",
+  "start": 111.02,
+  "end": 111.32
+ },
+ {
+  "text": "se",
+  "start": 111.32,
+  "end": 111.58
+ },
+ {
+  "text": "trouve",
+  "start": 111.58,
+  "end": 111.78
+ },
+ {
+  "text": "dans",
+  "start": 111.78,
+  "end": 111.96
+ },
+ {
+  "text": "le",
+  "start": 111.96,
+  "end": 112.06
+ },
+ {
+  "text": "Deutéronome,",
+  "start": 112.06,
+  "end": 112.86
+ },
+ {
+  "text": "chapitres",
+  "start": 112.88,
+  "end": 113.32
+ },
+ {
+  "text": "8,",
+  "start": 113.32,
+  "end": 113.52
+ },
+ {
+  "text": "versets",
+  "start": 113.68,
+  "end": 114.02
+ },
+ {
+  "text": "17",
+  "start": 114.02,
+  "end": 114.42
+ },
+ {
+  "text": "et",
+  "start": 114.42,
+  "end": 114.6
+ },
+ {
+  "text": "18.",
+  "start": 114.6,
+  "end": 114.82
+ },
+ {
+  "text": "Moïse",
+  "start": 115.6,
+  "end": 116.0
+ },
+ {
+  "text": "parle",
+  "start": 116.0,
+  "end": 116.22
+ },
+ {
+  "text": "à",
+  "start": 116.22,
+  "end": 116.36
+ },
+ {
+  "text": "un",
+  "start": 116.36,
+  "end": 116.46
+ },
+ {
+  "text": "peuple",
+  "start": 116.46,
+  "end": 116.66
+ },
+ {
+  "text": "sur",
+  "start": 116.66,
+  "end": 116.88
+ },
+ {
+  "text": "le",
+  "start": 116.88,
+  "end": 116.98
+ },
+ {
+  "text": "point",
+  "start": 116.98,
+  "end": 117.2
+ },
+ {
+  "text": "d'entrer",
+  "start": 117.2,
+  "end": 117.56
+ },
+ {
+  "text": "dans",
+  "start": 117.56,
+  "end": 117.66
+ },
+ {
+  "text": "un",
+  "start": 117.66,
+  "end": 117.8
+ },
+ {
+  "text": "pays",
+  "start": 117.8,
+  "end": 117.98
+ },
+ {
+  "text": "prospère.",
+  "start": 117.98,
+  "end": 118.66
+ },
+ {
+  "text": "Et",
+  "start": 118.74,
+  "end": 119.1
+ },
+ {
+  "text": "il",
+  "start": 119.1,
+  "end": 119.22
+ },
+ {
+  "text": "les",
+  "start": 119.22,
+  "end": 119.34
+ },
+ {
+  "text": "avertit.",
+  "start": 119.34,
+  "end": 119.98
+ },
+ {
+  "text": "« ",
+  "start": 120.58,
+  "end": 120.58
+ },
+ {
+  "text": "Garde-toi",
+  "start": 120.58,
+  "end": 121.08
+ },
+ {
+  "text": "de",
+  "start": 121.08,
+  "end": 121.2
+ },
+ {
+  "text": "dire",
+  "start": 121.2,
+  "end": 121.38
+ },
+ {
+  "text": "en",
+  "start": 121.38,
+  "end": 121.52
+ },
+ {
+  "text": "ton",
+  "start": 121.52,
+  "end": 121.6
+ },
+ {
+  "text": "cœur,",
+  "start": 121.6,
+  "end": 121.88
+ },
+ {
+  "text": "ma",
+  "start": 122.0,
+  "end": 122.26
+ },
+ {
+  "text": "force",
+  "start": 122.26,
+  "end": 122.68
+ },
+ {
+  "text": "et",
+  "start": 122.68,
+  "end": 122.88
+ },
+ {
+  "text": "la",
+  "start": 122.88,
+  "end": 122.98
+ },
+ {
+  "text": "puissance",
+  "start": 122.98,
+  "end": 123.44
+ },
+ {
+  "text": "de",
+  "start": 123.44,
+  "end": 123.66
+ },
+ {
+  "text": "ma",
+  "start": 123.66,
+  "end": 123.76
+ },
+ {
+  "text": "main",
+  "start": 123.76,
+  "end": 123.96
+ },
+ {
+  "text": "m'ont",
+  "start": 123.96,
+  "end": 124.14
+ },
+ {
+  "text": "acquis",
+  "start": 124.14,
+  "end": 124.36
+ },
+ {
+  "text": "ces",
+  "start": 124.36,
+  "end": 124.56
+ },
+ {
+  "text": "richesses.",
+  "start": 124.56,
+  "end": 124.94
+ },
+ {
+  "text": "Souviens-toi",
+  "start": 125.46,
+  "end": 125.98
+ },
+ {
+  "text": "de",
+  "start": 125.98,
+  "end": 126.1
+ },
+ {
+  "text": "l'Éternel",
+  "start": 126.1,
+  "end": 126.54
+ },
+ {
+  "text": "ton",
+  "start": 126.54,
+  "end": 126.68
+ },
+ {
+  "text": "Dieu,",
+  "start": 126.68,
+  "end": 126.9
+ },
+ {
+  "text": "car",
+  "start": 126.98,
+  "end": 127.24
+ },
+ {
+  "text": "c'est",
+  "start": 127.24,
+  "end": 127.46
+ },
+ {
+  "text": "lui",
+  "start": 127.46,
+  "end": 127.64
+ },
+ {
+  "text": "qui",
+  "start": 127.64,
+  "end": 127.88
+ },
+ {
+  "text": "te",
+  "start": 127.88,
+  "end": 128.02
+ },
+ {
+  "text": "donne",
+  "start": 128.02,
+  "end": 128.3
+ },
+ {
+  "text": "de",
+  "start": 128.3,
+  "end": 128.42
+ },
+ {
+  "text": "la",
+  "start": 128.42,
+  "end": 128.46
+ },
+ {
+  "text": "force",
+  "start": 128.46,
+  "end": 128.8
+ },
+ {
+  "text": "pour",
+  "start": 128.8,
+  "end": 128.98
+ },
+ {
+  "text": "acquérir",
+  "start": 128.98,
+  "end": 129.4
+ },
+ {
+  "text": "ces",
+  "start": 129.4,
+  "end": 129.5
+ },
+ {
+  "text": "richesses. »",
+  "start": 129.5,
+  "end": 130.92
+ },
+ {
+  "text": "Le",
+  "start": 130.92,
+  "end": 131.2
+ },
+ {
+  "text": "danger",
+  "start": 131.2,
+  "end": 131.48
+ },
+ {
+  "text": "ici,",
+  "start": 131.48,
+  "end": 131.76
+ },
+ {
+  "text": "c'est",
+  "start": 131.86,
+  "end": 132.24
+ },
+ {
+  "text": "l'orgueil.",
+  "start": 132.24,
+  "end": 132.76
+ },
+ {
+  "text": "Se",
+  "start": 132.82,
+  "end": 133.16
+ },
+ {
+  "text": "dire",
+  "start": 133.16,
+  "end": 133.36
+ },
+ {
+  "text": "« ",
+  "start": 133.36,
+  "end": 133.48
+ },
+ {
+  "text": "je",
+  "start": 133.48,
+  "end": 133.54
+ },
+ {
+  "text": "me",
+  "start": 133.54,
+  "end": 133.68
+ },
+ {
+  "text": "suis",
+  "start": 133.68,
+  "end": 133.76
+ },
+ {
+  "text": "fait",
+  "start": 133.76,
+  "end": 133.9
+ },
+ {
+  "text": "tout",
+  "start": 133.9,
+  "end": 134.12
+ },
+ {
+  "text": "seul",
+  "start": 134.12,
+  "end": 134.4
+ },
+ {
+  "text": "».",
+  "start": 134.4,
+  "end": 134.6
+ },
+ {
+  "text": "Bien",
+  "start": 134.6,
+  "end": 135.24
+ },
+ {
+  "text": "sûr,",
+  "start": 135.24,
+  "end": 135.46
+ },
+ {
+  "text": "tu",
+  "start": 135.48,
+  "end": 135.62
+ },
+ {
+  "text": "travailles,",
+  "start": 135.62,
+  "end": 136.08
+ },
+ {
+  "text": "tu",
+  "start": 136.1,
+  "end": 136.3
+ },
+ {
+  "text": "planifies,",
+  "start": 136.3,
+  "end": 136.84
+ },
+ {
+  "text": "tu",
+  "start": 136.96,
+  "end": 137.16
+ },
+ {
+  "text": "fais",
+  "start": 137.16,
+  "end": 137.32
+ },
+ {
+  "text": "des",
+  "start": 137.32,
+  "end": 137.44
+ },
+ {
+  "text": "sacrifices.",
+  "start": 137.44,
+  "end": 137.76
+ },
+ {
+  "text": "La",
+  "start": 138.16,
+  "end": 138.54
+ },
+ {
+  "text": "Bible",
+  "start": 138.54,
+  "end": 138.74
+ },
+ {
+  "text": "honore",
+  "start": 138.74,
+  "end": 139.2
+ },
+ {
+  "text": "tout",
+  "start": 139.2,
+  "end": 139.3
+ },
+ {
+  "text": "cela.",
+  "start": 139.3,
+  "end": 139.5
+ },
+ {
+  "text": "Mais",
+  "start": 139.9,
+  "end": 140.3
+ },
+ {
+  "text": "Moïse",
+  "start": 140.3,
+  "end": 140.6
+ },
+ {
+  "text": "rappelle",
+  "start": 140.6,
+  "end": 140.86
+ },
+ {
+  "text": "que",
+  "start": 140.86,
+  "end": 141.12
+ },
+ {
+  "text": "la",
+  "start": 141.12,
+  "end": 141.22
+ },
+ {
+  "text": "santé,",
+  "start": 141.22,
+  "end": 141.58
+ },
+ {
+  "text": "les",
+  "start": 141.74,
+  "end": 142.0
+ },
+ {
+  "text": "occasions,",
+  "start": 142.0,
+  "end": 142.3
+ },
+ {
+  "text": "les",
+  "start": 142.6,
+  "end": 142.84
+ },
+ {
+  "text": "talents,",
+  "start": 142.84,
+  "end": 143.16
+ },
+ {
+  "text": "la",
+  "start": 143.16,
+  "end": 143.28
+ },
+ {
+  "text": "force",
+  "start": 143.28,
+  "end": 143.8
+ },
+ {
+  "text": "de",
+  "start": 143.8,
+  "end": 144.02
+ },
+ {
+  "text": "travailler,",
+  "start": 144.02,
+  "end": 144.38
+ },
+ {
+  "text": "tout",
+  "start": 144.54,
+  "end": 144.68
+ },
+ {
+  "text": "cela",
+  "start": 144.68,
+  "end": 144.88
+ },
+ {
+  "text": "est",
+  "start": 144.88,
+  "end": 145.04
+ },
+ {
+  "text": "reçu.",
+  "start": 145.04,
+  "end": 145.5
+ },
+ {
+  "text": "Un",
+  "start": 145.92,
+  "end": 146.36
+ },
+ {
+  "text": "entrepreneur",
+  "start": 146.36,
+  "end": 146.74
+ },
+ {
+  "text": "honnête",
+  "start": 146.74,
+  "end": 147.22
+ },
+ {
+  "text": "le",
+  "start": 147.22,
+  "end": 147.32
+ },
+ {
+  "text": "sait.",
+  "start": 147.32,
+  "end": 147.54
+ },
+ {
+  "text": "Sans",
+  "start": 147.68,
+  "end": 148.12
+ },
+ {
+  "text": "la",
+  "start": 148.12,
+  "end": 148.24
+ },
+ {
+  "text": "santé,",
+  "start": 148.24,
+  "end": 148.56
+ },
+ {
+  "text": "sans",
+  "start": 148.7,
+  "end": 148.96
+ },
+ {
+  "text": "les",
+  "start": 148.96,
+  "end": 149.1
+ },
+ {
+  "text": "bonnes",
+  "start": 149.1,
+  "end": 149.34
+ },
+ {
+  "text": "rencontres,",
+  "start": 149.34,
+  "end": 149.8
+ },
+ {
+  "text": "sans",
+  "start": 149.82,
+  "end": 150.06
+ },
+ {
+  "text": "le",
+  "start": 150.06,
+  "end": 150.18
+ },
+ {
+  "text": "bon",
+  "start": 150.18,
+  "end": 150.36
+ },
+ {
+  "text": "moment,",
+  "start": 150.36,
+  "end": 150.62
+ },
+ {
+  "text": "le",
+  "start": 150.82,
+  "end": 151.08
+ },
+ {
+  "text": "meilleur",
+  "start": 151.08,
+  "end": 151.32
+ },
+ {
+  "text": "plan",
+  "start": 151.32,
+  "end": 151.52
+ },
+ {
+  "text": "ne",
+  "start": 151.52,
+  "end": 151.66
+ },
+ {
+  "text": "marche",
+  "start": 151.66,
+  "end": 151.94
+ },
+ {
+  "text": "pas.",
+  "start": 151.94,
+  "end": 152.14
+ },
+ {
+  "text": "Quand",
+  "start": 152.84,
+  "end": 153.28
+ },
+ {
+  "text": "on",
+  "start": 153.28,
+  "end": 153.46
+ },
+ {
+  "text": "l'oublie,",
+  "start": 153.46,
+  "end": 153.76
+ },
+ {
+  "text": "la",
+  "start": 153.78,
+  "end": 154.18
+ },
+ {
+  "text": "réussite",
+  "start": 154.18,
+  "end": 154.58
+ },
+ {
+  "text": "devient",
+  "start": 154.58,
+  "end": 154.76
+ },
+ {
+  "text": "un",
+  "start": 154.76,
+  "end": 155.08
+ },
+ {
+  "text": "piège.",
+  "start": 155.08,
+  "end": 155.58
+ },
+ {
+  "text": "On",
+  "start": 155.66,
+  "end": 156.0
+ },
+ {
+  "text": "se",
+  "start": 156.0,
+  "end": 156.12
+ },
+ {
+  "text": "croit",
+  "start": 156.12,
+  "end": 156.26
+ },
+ {
+  "text": "supérieur,",
+  "start": 156.26,
+  "end": 156.66
+ },
+ {
+  "text": "on",
+  "start": 156.84,
+  "end": 157.2
+ },
+ {
+  "text": "compte",
+  "start": 157.2,
+  "end": 157.44
+ },
+ {
+  "text": "sur",
+  "start": 157.44,
+  "end": 157.6
+ },
+ {
+  "text": "soi",
+  "start": 157.6,
+  "end": 157.86
+ },
+ {
+  "text": "seul",
+  "start": 157.86,
+  "end": 158.14
+ },
+ {
+  "text": "et",
+  "start": 158.14,
+  "end": 158.68
+ },
+ {
+  "text": "on",
+  "start": 158.68,
+  "end": 158.94
+ },
+ {
+  "text": "n'a",
+  "start": 158.94,
+  "end": 159.0
+ },
+ {
+  "text": "plus",
+  "start": 159.0,
+  "end": 159.16
+ },
+ {
+  "text": "besoin",
+  "start": 159.16,
+  "end": 159.46
+ },
+ {
+  "text": "de",
+  "start": 159.46,
+  "end": 159.58
+ },
+ {
+  "text": "prier.",
+  "start": 159.58,
+  "end": 159.8
+ },
+ {
+  "text": "Deuxième",
+  "start": 160.56,
+  "end": 161.0
+ },
+ {
+  "text": "question",
+  "start": 161.0,
+  "end": 161.2
+ },
+ {
+  "text": "à",
+  "start": 161.2,
+  "end": 161.38
+ },
+ {
+  "text": "retenir,",
+  "start": 161.38,
+  "end": 161.74
+ },
+ {
+  "text": "est-ce",
+  "start": 161.98,
+  "end": 162.2
+ },
+ {
+  "text": "que",
+  "start": 162.2,
+  "end": 162.22
+ },
+ {
+  "text": "je",
+  "start": 162.22,
+  "end": 162.36
+ },
+ {
+  "text": "remercie",
+  "start": 162.36,
+  "end": 162.84
+ },
+ {
+  "text": "encore",
+  "start": 162.84,
+  "end": 163.02
+ },
+ {
+  "text": "Dieu",
+  "start": 163.02,
+  "end": 163.32
+ },
+ {
+  "text": "pour",
+  "start": 163.32,
+  "end": 163.46
+ },
+ {
+  "text": "ce",
+  "start": 163.46,
+  "end": 163.6
+ },
+ {
+  "text": "que",
+  "start": 163.6,
+  "end": 163.66
+ },
+ {
+  "text": "je",
+  "start": 163.66,
+  "end": 163.7
+ },
+ {
+  "text": "gagne?",
+  "start": 163.7,
+  "end": 164.14
+ },
+ {
+  "text": "Concrètement,",
+  "start": 164.14,
+  "end": 165.12
+ },
+ {
+  "text": "prends",
+  "start": 165.22,
+  "end": 165.58
+ },
+ {
+  "text": "l'habitude",
+  "start": 165.58,
+  "end": 165.84
+ },
+ {
+  "text": "d'un",
+  "start": 165.84,
+  "end": 166.2
+ },
+ {
+  "text": "temps",
+  "start": 166.2,
+  "end": 166.28
+ },
+ {
+  "text": "de",
+  "start": 166.28,
+  "end": 166.42
+ },
+ {
+  "text": "remerciement",
+  "start": 166.42,
+  "end": 167.04
+ },
+ {
+  "text": "à",
+  "start": 167.04,
+  "end": 167.18
+ },
+ {
+  "text": "chaque",
+  "start": 167.18,
+  "end": 167.42
+ },
+ {
+  "text": "bonne",
+  "start": 167.42,
+  "end": 167.72
+ },
+ {
+  "text": "nouvelle",
+  "start": 167.72,
+  "end": 167.96
+ },
+ {
+  "text": "financière.",
+  "start": 167.96,
+  "end": 168.5
+ },
+ {
+  "text": "Une",
+  "start": 168.64,
+  "end": 169.06
+ },
+ {
+  "text": "augmentation,",
+  "start": 169.06,
+  "end": 169.42
+ },
+ {
+  "text": "un",
+  "start": 169.7,
+  "end": 169.98
+ },
+ {
+  "text": "contrat,",
+  "start": 169.98,
+  "end": 170.34
+ },
+ {
+  "text": "une",
+  "start": 170.48,
+  "end": 170.68
+ },
+ {
+  "text": "prime,",
+  "start": 170.68,
+  "end": 170.96
+ },
+ {
+  "text": "dis",
+  "start": 171.08,
+  "end": 171.52
+ },
+ {
+  "text": "merci",
+  "start": 171.52,
+  "end": 171.88
+ },
+ {
+  "text": "avant",
+  "start": 171.88,
+  "end": 172.4
+ },
+ {
+  "text": "de",
+  "start": 172.4,
+  "end": 172.54
+ },
+ {
+  "text": "de",
+  "start": 172.54,
+  "end": 172.58
+ },
+ {
+  "text": "dépenser.",
+  "start": 172.58,
+  "end": 172.9
+ },
+ {
+  "text": "Le",
+  "start": 173.82,
+  "end": 174.22
+ },
+ {
+  "text": "troisième",
+  "start": 174.22,
+  "end": 174.62
+ },
+ {
+  "text": "passage",
+  "start": 174.62,
+  "end": 174.96
+ },
+ {
+  "text": "est",
+  "start": 174.96,
+  "end": 175.26
+ },
+ {
+  "text": "dans",
+  "start": 175.26,
+  "end": 175.4
+ },
+ {
+  "text": "le",
+  "start": 175.4,
+  "end": 175.48
+ },
+ {
+  "text": "livre",
+  "start": 175.48,
+  "end": 175.72
+ },
+ {
+  "text": "des",
+  "start": 175.72,
+  "end": 175.9
+ },
+ {
+  "text": "Proverbes,",
+  "start": 175.9,
+  "end": 176.36
+ },
+ {
+  "text": "chapitres",
+  "start": 176.4,
+  "end": 177.06
+ },
+ {
+  "text": "30,",
+  "start": 177.06,
+  "end": 177.36
+ },
+ {
+  "text": "versets",
+  "start": 177.5,
+  "end": 177.86
+ },
+ {
+  "text": "8",
+  "start": 177.86,
+  "end": 178.14
+ },
+ {
+  "text": "et",
+  "start": 178.14,
+  "end": 178.38
+ },
+ {
+  "text": "9.",
+  "start": 178.38,
+  "end": 178.64
+ },
+ {
+  "text": "« ",
+  "start": 179.2,
+  "end": 179.2
+ },
+ {
+  "text": "Ne",
+  "start": 179.2,
+  "end": 179.76
+ },
+ {
+  "text": "me",
+  "start": 179.76,
+  "end": 179.88
+ },
+ {
+  "text": "donne",
+  "start": 179.88,
+  "end": 180.1
+ },
+ {
+  "text": "ni",
+  "start": 180.1,
+  "end": 180.4
+ },
+ {
+  "text": "pauvreté",
+  "start": 180.4,
+  "end": 181.02
+ },
+ {
+  "text": "ni",
+  "start": 181.02,
+  "end": 181.2
+ },
+ {
+  "text": "richesse,",
+  "start": 181.2,
+  "end": 181.72
+ },
+ {
+  "text": "accorde-moi",
+  "start": 181.88,
+  "end": 182.72
+ },
+ {
+  "text": "le",
+  "start": 182.72,
+  "end": 182.86
+ },
+ {
+  "text": "pain",
+  "start": 182.86,
+  "end": 183.1
+ },
+ {
+  "text": "qui",
+  "start": 183.1,
+  "end": 183.28
+ },
+ {
+  "text": "m'est",
+  "start": 183.28,
+  "end": 183.46
+ },
+ {
+  "text": "nécessaire.",
+  "start": 183.46,
+  "end": 183.8
+ },
+ {
+  "text": "De",
+  "start": 184.26,
+  "end": 184.66
+ },
+ {
+  "text": "peur",
+  "start": 184.66,
+  "end": 184.86
+ },
+ {
+  "text": "que",
+  "start": 184.86,
+  "end": 184.96
+ },
+ {
+  "text": "dans",
+  "start": 184.96,
+  "end": 185.12
+ },
+ {
+  "text": "l'abondance",
+  "start": 185.12,
+  "end": 185.68
+ },
+ {
+  "text": "je",
+  "start": 185.68,
+  "end": 185.88
+ },
+ {
+  "text": "ne",
+  "start": 185.88,
+  "end": 186.02
+ },
+ {
+  "text": "te",
+  "start": 186.02,
+  "end": 186.1
+ },
+ {
+  "text": "renie",
+  "start": 186.1,
+  "end": 186.34
+ },
+ {
+  "text": "et",
+  "start": 186.34,
+  "end": 186.64
+ },
+ {
+  "text": "ne",
+  "start": 186.64,
+  "end": 186.74
+ },
+ {
+  "text": "dise",
+  "start": 186.74,
+  "end": 187.0
+ },
+ {
+  "text": "qui",
+  "start": 187.0,
+  "end": 187.26
+ },
+ {
+  "text": "est",
+  "start": 187.26,
+  "end": 187.46
+ },
+ {
+  "text": "l'éternel,",
+  "start": 187.46,
+  "end": 187.94
+ },
+ {
+  "text": "ou",
+  "start": 188.0,
+  "end": 188.62
+ },
+ {
+  "text": "que",
+  "start": 188.62,
+  "end": 188.72
+ },
+ {
+  "text": "dans",
+  "start": 188.72,
+  "end": 188.9
+ },
+ {
+  "text": "la",
+  "start": 188.9,
+  "end": 189.02
+ },
+ {
+  "text": "pauvreté",
+  "start": 189.02,
+  "end": 189.48
+ },
+ {
+  "text": "je",
+  "start": 189.48,
+  "end": 189.7
+ },
+ {
+  "text": "ne",
+  "start": 189.7,
+  "end": 189.82
+ },
+ {
+  "text": "dérobe",
+  "start": 189.82,
+  "end": 190.08
+ },
+ {
+  "text": "et",
+  "start": 190.08,
+  "end": 190.4
+ },
+ {
+  "text": "ne",
+  "start": 190.4,
+  "end": 190.7
+ },
+ {
+  "text": "profane",
+  "start": 190.7,
+  "end": 191.14
+ },
+ {
+  "text": "le",
+  "start": 191.14,
+  "end": 191.28
+ },
+ {
+  "text": "nom",
+  "start": 191.28,
+  "end": 191.44
+ },
+ {
+  "text": "de",
+  "start": 191.44,
+  "end": 191.54
+ },
+ {
+  "text": "mon",
+  "start": 191.54,
+  "end": 191.6
+ },
+ {
+  "text": "Dieu. »",
+  "start": 191.6,
+  "end": 192.48
+ },
+ {
+  "text": "Cet",
+  "start": 192.48,
+  "end": 192.64
+ },
+ {
+  "text": "homme",
+  "start": 192.64,
+  "end": 192.8
+ },
+ {
+  "text": "voit",
+  "start": 192.8,
+  "end": 192.94
+ },
+ {
+  "text": "deux",
+  "start": 192.94,
+  "end": 193.08
+ },
+ {
+  "text": "dangers.",
+  "start": 193.08,
+  "end": 193.32
+ },
+ {
+  "text": "Dans",
+  "start": 193.72,
+  "end": 194.12
+ },
+ {
+  "text": "l'abondance,",
+  "start": 194.12,
+  "end": 194.8
+ },
+ {
+  "text": "on",
+  "start": 194.8,
+  "end": 195.0
+ },
+ {
+  "text": "peut",
+  "start": 195.0,
+  "end": 195.14
+ },
+ {
+  "text": "renier",
+  "start": 195.14,
+  "end": 195.5
+ },
+ {
+  "text": "Dieu,",
+  "start": 195.5,
+  "end": 195.66
+ },
+ {
+  "text": "parce",
+  "start": 195.74,
+  "end": 196.14
+ },
+ {
+  "text": "qu'on",
+  "start": 196.14,
+  "end": 196.32
+ },
+ {
+  "text": "n'en",
+  "start": 196.32,
+  "end": 196.44
+ },
+ {
+  "text": "a",
+  "start": 196.44,
+  "end": 196.5
+ },
+ {
+  "text": "plus",
+  "start": 196.5,
+  "end": 196.6
+ },
+ {
+  "text": "besoin.",
+  "start": 196.6,
+  "end": 196.88
+ },
+ {
+  "text": "Dans",
+  "start": 197.32,
+  "end": 197.72
+ },
+ {
+  "text": "le",
+  "start": 197.72,
+  "end": 197.82
+ },
+ {
+  "text": "manque,",
+  "start": 197.82,
+  "end": 198.06
+ },
+ {
+  "text": "on",
+  "start": 198.2,
+  "end": 198.38
+ },
+ {
+  "text": "peut",
+  "start": 198.38,
+  "end": 198.5
+ },
+ {
+  "text": "être",
+  "start": 198.5,
+  "end": 198.66
+ },
+ {
+  "text": "tenté",
+  "start": 198.66,
+  "end": 199.06
+ },
+ {
+  "text": "de",
+  "start": 199.06,
+  "end": 199.14
+ },
+ {
+  "text": "tricher.",
+  "start": 199.14,
+  "end": 199.5
+ },
+ {
+  "text": "Remarque",
+  "start": 200.4,
+  "end": 200.84
+ },
+ {
+  "text": "que",
+  "start": 200.84,
+  "end": 200.94
+ },
+ {
+  "text": "la",
+  "start": 200.94,
+  "end": 201.04
+ },
+ {
+  "text": "pauvreté",
+  "start": 201.04,
+  "end": 201.44
+ },
+ {
+  "text": "aussi",
+  "start": 201.44,
+  "end": 201.58
+ },
+ {
+  "text": "est",
+  "start": 201.58,
+  "end": 201.74
+ },
+ {
+  "text": "un",
+  "start": 201.74,
+  "end": 201.84
+ },
+ {
+  "text": "risque",
+  "start": 201.84,
+  "end": 202.08
+ },
+ {
+  "text": "pour",
+  "start": 202.08,
+  "end": 202.26
+ },
+ {
+  "text": "la",
+  "start": 202.26,
+  "end": 202.38
+ },
+ {
+  "text": "foi.",
+  "start": 202.38,
+  "end": 202.5
+ },
+ {
+  "text": "La",
+  "start": 202.66,
+  "end": 203.1
+ },
+ {
+  "text": "Bible",
+  "start": 203.1,
+  "end": 203.32
+ },
+ {
+  "text": "ne",
+  "start": 203.32,
+  "end": 203.58
+ },
+ {
+  "text": "glorifie",
+  "start": 203.58,
+  "end": 204.04
+ },
+ {
+  "text": "pas",
+  "start": 204.04,
+  "end": 204.24
+ },
+ {
+  "text": "le",
+  "start": 204.24,
+  "end": 204.36
+ },
+ {
+  "text": "manque.",
+  "start": 204.36,
+  "end": 204.52
+ },
+ {
+  "text": "Ce",
+  "start": 205.58,
+  "end": 206.02
+ },
+ {
+  "text": "passage",
+  "start": 206.02,
+  "end": 206.44
+ },
+ {
+  "text": "ne",
+  "start": 206.44,
+  "end": 206.68
+ },
+ {
+  "text": "te",
+  "start": 206.68,
+  "end": 206.8
+ },
+ {
+  "text": "dit",
+  "start": 206.8,
+  "end": 207.0
+ },
+ {
+  "text": "pas",
+  "start": 207.0,
+  "end": 207.14
+ },
+ {
+  "text": "de",
+  "start": 207.14,
+  "end": 207.28
+ },
+ {
+  "text": "viser",
+  "start": 207.28,
+  "end": 207.62
+ },
+ {
+  "text": "un",
+  "start": 207.62,
+  "end": 207.72
+ },
+ {
+  "text": "chiffre",
+  "start": 207.72,
+  "end": 208.14
+ },
+ {
+  "text": "précis.",
+  "start": 208.14,
+  "end": 208.4
+ },
+ {
+  "text": "Il",
+  "start": 208.74,
+  "end": 209.18
+ },
+ {
+  "text": "t'apprend",
+  "start": 209.18,
+  "end": 209.58
+ },
+ {
+  "text": "à",
+  "start": 209.58,
+  "end": 209.78
+ },
+ {
+  "text": "te",
+  "start": 209.78,
+  "end": 209.9
+ },
+ {
+  "text": "surveiller.",
+  "start": 209.9,
+  "end": 210.52
+ },
+ {
+  "text": "À",
+  "start": 210.84,
+  "end": 211.28
+ },
+ {
+  "text": "chaque",
+  "start": 211.28,
+  "end": 211.54
+ },
+ {
+  "text": "étape",
+  "start": 211.54,
+  "end": 211.96
+ },
+ {
+  "text": "de",
+  "start": 211.96,
+  "end": 212.04
+ },
+ {
+  "text": "ton",
+  "start": 212.04,
+  "end": 212.14
+ },
+ {
+  "text": "revenu,",
+  "start": 212.14,
+  "end": 212.6
+ },
+ {
+  "text": "quelle",
+  "start": 212.64,
+  "end": 212.9
+ },
+ {
+  "text": "est",
+  "start": 212.9,
+  "end": 213.06
+ },
+ {
+  "text": "la",
+  "start": 213.06,
+  "end": 213.18
+ },
+ {
+  "text": "tentation",
+  "start": 213.18,
+  "end": 213.62
+ },
+ {
+  "text": "propre",
+  "start": 213.62,
+  "end": 213.88
+ },
+ {
+  "text": "à",
+  "start": 213.88,
+  "end": 214.2
+ },
+ {
+  "text": "cette",
+  "start": 214.2,
+  "end": 214.38
+ },
+ {
+  "text": "étape?",
+  "start": 214.38,
+  "end": 214.88
+ },
+ {
+  "text": "Quand",
+  "start": 214.88,
+  "end": 215.34
+ },
+ {
+  "text": "tu",
+  "start": 215.34,
+  "end": 215.48
+ },
+ {
+  "text": "as",
+  "start": 215.48,
+  "end": 215.58
+ },
+ {
+  "text": "peu,",
+  "start": 215.58,
+  "end": 215.8
+ },
+ {
+  "text": "la",
+  "start": 215.94,
+  "end": 216.18
+ },
+ {
+  "text": "tentation,",
+  "start": 216.18,
+  "end": 216.7
+ },
+ {
+  "text": "c'est",
+  "start": 216.7,
+  "end": 216.98
+ },
+ {
+  "text": "l'inquiétude,",
+  "start": 216.98,
+  "end": 217.76
+ },
+ {
+  "text": "parfois",
+  "start": 217.76,
+  "end": 218.2
+ },
+ {
+  "text": "la",
+  "start": 218.2,
+  "end": 218.4
+ },
+ {
+  "text": "malhonnêteté.",
+  "start": 218.4,
+  "end": 218.9
+ },
+ {
+  "text": "Quand",
+  "start": 219.06,
+  "end": 219.5
+ },
+ {
+  "text": "tu",
+  "start": 219.5,
+  "end": 219.64
+ },
+ {
+  "text": "as",
+  "start": 219.64,
+  "end": 219.74
+ },
+ {
+  "text": "beaucoup,",
+  "start": 219.74,
+  "end": 219.98
+ },
+ {
+  "text": "c'est",
+  "start": 220.16,
+  "end": 220.5
+ },
+ {
+  "text": "de",
+  "start": 220.5,
+  "end": 220.56
+ },
+ {
+  "text": "te",
+  "start": 220.56,
+  "end": 220.68
+ },
+ {
+  "text": "passer",
+  "start": 220.68,
+  "end": 220.96
+ },
+ {
+  "text": "de",
+  "start": 220.96,
+  "end": 221.14
+ },
+ {
+  "text": "Dieu.",
+  "start": 221.14,
+  "end": 221.32
+ },
+ {
+  "text": "Pose-toi",
+  "start": 221.9,
+  "end": 222.54
+ },
+ {
+  "text": "cette",
+  "start": 222.54,
+  "end": 222.76
+ },
+ {
+  "text": "question",
+  "start": 222.76,
+  "end": 223.06
+ },
+ {
+  "text": "régulièrement.",
+  "start": 223.06,
+  "end": 223.78
+ },
+ {
+  "text": "Elle",
+  "start": 224.0,
+  "end": 224.42
+ },
+ {
+  "text": "protège",
+  "start": 224.42,
+  "end": 224.82
+ },
+ {
+  "text": "ta",
+  "start": 224.82,
+  "end": 224.94
+ },
+ {
+  "text": "foi",
+  "start": 224.94,
+  "end": 225.12
+ },
+ {
+  "text": "à",
+  "start": 225.12,
+  "end": 225.34
+ },
+ {
+  "text": "chaque",
+  "start": 225.34,
+  "end": 225.66
+ },
+ {
+  "text": "niveau.",
+  "start": 225.66,
+  "end": 225.98
+ },
+ {
+  "text": "vaut.",
+  "start": 225.98,
+  "end": 226.08
+ },
+ {
+  "text": "Si",
+  "start": 226.78,
+  "end": 227.04
+ },
+ {
+  "text": "cette",
+  "start": 227.04,
+  "end": 227.26
+ },
+ {
+  "text": "vidéo",
+  "start": 227.26,
+  "end": 227.52
+ },
+ {
+  "text": "t'aide",
+  "start": 227.52,
+  "end": 227.8
+ },
+ {
+  "text": "à",
+  "start": 227.8,
+  "end": 227.86
+ },
+ {
+  "text": "voir",
+  "start": 227.86,
+  "end": 228.0
+ },
+ {
+  "text": "l'argent",
+  "start": 228.0,
+  "end": 228.3
+ },
+ {
+  "text": "autrement,",
+  "start": 228.3,
+  "end": 228.86
+ },
+ {
+  "text": "abonne-toi",
+  "start": 228.96,
+  "end": 229.88
+ },
+ {
+  "text": "à",
+  "start": 229.88,
+  "end": 230.18
+ },
+ {
+  "text": "Foi",
+  "start": 230.18,
+  "end": 230.46
+ },
+ {
+  "text": "et",
+  "start": 230.46,
+  "end": 230.68
+ },
+ {
+  "text": "Finance.",
+  "start": 230.68,
+  "end": 231.06
+ },
+ {
+  "text": "Chaque",
+  "start": 231.42,
+  "end": 231.9
+ },
+ {
+  "text": "semaine,",
+  "start": 231.9,
+  "end": 232.1
+ },
+ {
+  "text": "on",
+  "start": 232.16,
+  "end": 232.34
+ },
+ {
+  "text": "découvre",
+  "start": 232.34,
+  "end": 232.7
+ },
+ {
+  "text": "ensemble",
+  "start": 232.7,
+  "end": 232.9
+ },
+ {
+  "text": "un",
+  "start": 232.9,
+  "end": 233.16
+ },
+ {
+  "text": "principe",
+  "start": 233.16,
+  "end": 233.42
+ },
+ {
+  "text": "biblique",
+  "start": 233.42,
+  "end": 233.88
+ },
+ {
+  "text": "simple",
+  "start": 233.88,
+  "end": 234.2
+ },
+ {
+  "text": "pour",
+  "start": 234.2,
+  "end": 234.56
+ },
+ {
+  "text": "gérer",
+  "start": 234.56,
+  "end": 234.88
+ },
+ {
+  "text": "ton",
+  "start": 234.88,
+  "end": 235.04
+ },
+ {
+  "text": "argent",
+  "start": 235.04,
+  "end": 235.3
+ },
+ {
+  "text": "avec",
+  "start": 235.3,
+  "end": 235.66
+ },
+ {
+  "text": "sagesse.",
+  "start": 235.66,
+  "end": 236.3
+ },
+ {
+  "text": "Le",
+  "start": 236.72,
+  "end": 237.2
+ },
+ {
+  "text": "quatrième",
+  "start": 237.2,
+  "end": 237.62
+ },
+ {
+  "text": "passage,",
+  "start": 237.62,
+  "end": 237.86
+ },
+ {
+  "text": "ce",
+  "start": 237.96,
+  "end": 238.34
+ },
+ {
+  "text": "sont",
+  "start": 238.34,
+  "end": 238.52
+ },
+ {
+  "text": "les",
+  "start": 238.52,
+  "end": 238.66
+ },
+ {
+  "text": "paroles",
+  "start": 238.66,
+  "end": 239.02
+ },
+ {
+  "text": "de",
+  "start": 239.02,
+  "end": 239.12
+ },
+ {
+  "text": "Jésus.",
+  "start": 239.12,
+  "end": 239.42
+ },
+ {
+  "text": "Dans",
+  "start": 239.5,
+  "end": 239.84
+ },
+ {
+  "text": "l'évangile",
+  "start": 239.84,
+  "end": 240.22
+ },
+ {
+  "text": "de",
+  "start": 240.22,
+  "end": 240.36
+ },
+ {
+  "text": "Matthieu,",
+  "start": 240.36,
+  "end": 240.78
+ },
+ {
+  "text": "chapitre",
+  "start": 240.78,
+  "end": 241.16
+ },
+ {
+  "text": "6,",
+  "start": 241.16,
+  "end": 241.4
+ },
+ {
+  "text": "versets",
+  "start": 241.56,
+  "end": 241.9
+ },
+ {
+  "text": "19",
+  "start": 241.9,
+  "end": 242.22
+ },
+ {
+  "text": "à",
+  "start": 242.22,
+  "end": 242.46
+ },
+ {
+  "text": "21.",
+  "start": 242.46,
+  "end": 242.68
+ },
+ {
+  "text": "« ",
+  "start": 243.24,
+  "end": 243.72
+ },
+ {
+  "text": "Ne",
+  "start": 243.72,
+  "end": 243.82
+ },
+ {
+  "text": "vous",
+  "start": 243.82,
+  "end": 243.98
+ },
+ {
+  "text": "amassez",
+  "start": 243.98,
+  "end": 244.42
+ },
+ {
+  "text": "pas",
+  "start": 244.42,
+  "end": 244.54
+ },
+ {
+  "text": "des",
+  "start": 244.54,
+  "end": 244.66
+ },
+ {
+  "text": "trésors",
+  "start": 244.66,
+  "end": 245.0
+ },
+ {
+  "text": "sur",
+  "start": 245.0,
+  "end": 245.2
+ },
+ {
+  "text": "la",
+  "start": 245.2,
+  "end": 245.34
+ },
+ {
+  "text": "terre,",
+  "start": 245.34,
+  "end": 245.62
+ },
+ {
+  "text": "où",
+  "start": 245.76,
+  "end": 245.98
+ },
+ {
+  "text": "la",
+  "start": 245.98,
+  "end": 246.12
+ },
+ {
+  "text": "teigne",
+  "start": 246.12,
+  "end": 246.44
+ },
+ {
+  "text": "et",
+  "start": 246.44,
+  "end": 246.68
+ },
+ {
+  "text": "la",
+  "start": 246.68,
+  "end": 246.8
+ },
+ {
+  "text": "rouille",
+  "start": 246.8,
+  "end": 247.08
+ },
+ {
+  "text": "détruisent,",
+  "start": 247.08,
+  "end": 247.68
+ },
+ {
+  "text": "et",
+  "start": 247.76,
+  "end": 248.2
+ },
+ {
+  "text": "où",
+  "start": 248.2,
+  "end": 248.3
+ },
+ {
+  "text": "les",
+  "start": 248.3,
+  "end": 248.44
+ },
+ {
+  "text": "voleurs",
+  "start": 248.44,
+  "end": 248.74
+ },
+ {
+  "text": "percent",
+  "start": 248.74,
+  "end": 249.06
+ },
+ {
+  "text": "et",
+  "start": 249.06,
+  "end": 249.3
+ },
+ {
+  "text": "dérobent.",
+  "start": 249.3,
+  "end": 249.72
+ },
+ {
+  "text": "Mais",
+  "start": 249.86,
+  "end": 250.34
+ },
+ {
+  "text": "amassez-vous",
+  "start": 250.34,
+  "end": 250.98
+ },
+ {
+  "text": "des",
+  "start": 250.98,
+  "end": 251.1
+ },
+ {
+  "text": "trésors",
+  "start": 251.1,
+  "end": 251.44
+ },
+ {
+  "text": "dans",
+  "start": 251.44,
+  "end": 251.6
+ },
+ {
+  "text": "le",
+  "start": 251.6,
+  "end": 251.68
+ },
+ {
+  "text": "ciel,",
+  "start": 251.68,
+  "end": 252.0
+ },
+ {
+  "text": "Jésus",
+  "start": 260.86,
+  "end": 261.24
+ },
+ {
+  "text": "ne",
+  "start": 261.24,
+  "end": 261.4
+ },
+ {
+  "text": "dit",
+  "start": 261.4,
+  "end": 261.56
+ },
+ {
+  "text": "pas",
+  "start": 261.56,
+  "end": 261.72
+ },
+ {
+  "text": "de",
+  "start": 261.72,
+  "end": 261.86
+ },
+ {
+  "text": "ne",
+  "start": 261.86,
+  "end": 261.94
+ },
+ {
+  "text": "rien",
+  "start": 261.94,
+  "end": 262.18
+ },
+ {
+  "text": "posséder.",
+  "start": 262.18,
+  "end": 262.62
+ },
+ {
+  "text": "Il",
+  "start": 262.88,
+  "end": 263.26
+ },
+ {
+  "text": "parle",
+  "start": 263.26,
+  "end": 263.54
+ },
+ {
+  "text": "de",
+  "start": 263.54,
+  "end": 263.68
+ },
+ {
+  "text": "ce",
+  "start": 263.68,
+  "end": 263.8
+ },
+ {
+  "text": "qu'on",
+  "start": 263.8,
+  "end": 263.92
+ },
+ {
+  "text": "amasse",
+  "start": 263.92,
+  "end": 264.18
+ },
+ {
+  "text": "comme",
+  "start": 264.18,
+  "end": 264.38
+ },
+ {
+  "text": "but,",
+  "start": 264.38,
+  "end": 264.66
+ },
+ {
+  "text": "comme",
+  "start": 264.84,
+  "end": 265.3
+ },
+ {
+  "text": "sécurité.",
+  "start": 265.3,
+  "end": 265.68
+ },
+ {
+  "text": "Un",
+  "start": 266.5,
+  "end": 266.88
+ },
+ {
+  "text": "trésor,",
+  "start": 266.88,
+  "end": 267.26
+ },
+ {
+  "text": "c'est",
+  "start": 267.26,
+  "end": 267.46
+ },
+ {
+  "text": "ce",
+  "start": 267.46,
+  "end": 267.48
+ },
+ {
+  "text": "qu'on",
+  "start": 267.48,
+  "end": 267.64
+ },
+ {
+  "text": "aime",
+  "start": 267.64,
+  "end": 267.88
+ },
+ {
+  "text": "et",
+  "start": 267.88,
+  "end": 268.08
+ },
+ {
+  "text": "ce",
+  "start": 268.08,
+  "end": 268.22
+ },
+ {
+  "text": "qu'on",
+  "start": 268.22,
+  "end": 268.32
+ },
+ {
+  "text": "protège.",
+  "start": 268.32,
+  "end": 268.66
+ },
+ {
+  "text": "Le",
+  "start": 269.16,
+  "end": 269.54
+ },
+ {
+  "text": "point",
+  "start": 269.54,
+  "end": 269.72
+ },
+ {
+  "text": "clé,",
+  "start": 269.72,
+  "end": 270.0
+ },
+ {
+  "text": "ton",
+  "start": 270.06,
+  "end": 270.54
+ },
+ {
+  "text": "cœur",
+  "start": 270.54,
+  "end": 270.84
+ },
+ {
+  "text": "suit",
+  "start": 270.84,
+  "end": 271.26
+ },
+ {
+  "text": "ton",
+  "start": 271.26,
+  "end": 271.5
+ },
+ {
+  "text": "trésor.",
+  "start": 271.5,
+  "end": 271.88
+ },
+ {
+  "text": "Pas",
+  "start": 272.28,
+  "end": 272.66
+ },
+ {
+  "text": "l'inverse.",
+  "start": 272.66,
+  "end": 272.98
+ },
+ {
+  "text": "Alors,",
+  "start": 273.78,
+  "end": 274.16
+ },
+ {
+  "text": "regarde",
+  "start": 274.16,
+  "end": 274.54
+ },
+ {
+  "text": "tes",
+  "start": 274.54,
+  "end": 274.72
+ },
+ {
+  "text": "dépenses",
+  "start": 274.72,
+  "end": 275.14
+ },
+ {
+  "text": "des",
+  "start": 275.14,
+  "end": 275.22
+ },
+ {
+  "text": "trois",
+  "start": 275.22,
+  "end": 275.4
+ },
+ {
+  "text": "derniers",
+  "start": 275.4,
+  "end": 275.8
+ },
+ {
+  "text": "mois.",
+  "start": 275.8,
+  "end": 275.94
+ },
+ {
+  "text": "Qu'est-ce",
+  "start": 276.24,
+  "end": 276.72
+ },
+ {
+  "text": "qui",
+  "start": 276.72,
+  "end": 276.78
+ },
+ {
+  "text": "revient",
+  "start": 276.78,
+  "end": 277.04
+ },
+ {
+  "text": "le",
+  "start": 277.04,
+  "end": 277.1
+ },
+ {
+  "text": "plus?",
+  "start": 277.1,
+  "end": 277.48
+ },
+ {
+  "text": "Cela",
+  "start": 277.97,
+  "end": 278.16
+ },
+ {
+  "text": "révèle",
+  "start": 278.16,
+  "end": 278.58
+ },
+ {
+  "text": "où",
+  "start": 278.58,
+  "end": 278.76
+ },
+ {
+  "text": "est",
+  "start": 278.76,
+  "end": 278.86
+ },
+ {
+  "text": "ton",
+  "start": 278.86,
+  "end": 278.96
+ },
+ {
+  "text": "trésor.",
+  "start": 278.96,
+  "end": 279.32
+ },
+ {
+  "text": "Un",
+  "start": 280.05,
+  "end": 280.3
+ },
+ {
+  "text": "exercice",
+  "start": 280.3,
+  "end": 280.76
+ },
+ {
+  "text": "simple.",
+  "start": 280.76,
+  "end": 281.02
+ },
+ {
+  "text": "Écris",
+  "start": 281.14,
+  "end": 281.64
+ },
+ {
+  "text": "trois",
+  "start": 281.64,
+  "end": 281.84
+ },
+ {
+  "text": "choses",
+  "start": 281.84,
+  "end": 282.14
+ },
+ {
+  "text": "pour",
+  "start": 282.14,
+  "end": 282.32
+ },
+ {
+  "text": "lesquelles",
+  "start": 282.32,
+  "end": 282.62
+ },
+ {
+  "text": "tu",
+  "start": 282.62,
+  "end": 282.76
+ },
+ {
+  "text": "dépenses",
+  "start": 282.76,
+  "end": 283.08
+ },
+ {
+  "text": "volontiers",
+  "start": 283.08,
+  "end": 283.58
+ },
+ {
+  "text": "et",
+  "start": 283.58,
+  "end": 283.82
+ },
+ {
+  "text": "trois",
+  "start": 283.82,
+  "end": 284.2
+ },
+ {
+  "text": "causes",
+  "start": 284.2,
+  "end": 284.6
+ },
+ {
+  "text": "que",
+  "start": 284.6,
+  "end": 284.76
+ },
+ {
+  "text": "tu",
+  "start": 284.76,
+  "end": 284.84
+ },
+ {
+  "text": "voudrais",
+  "start": 284.84,
+  "end": 285.1
+ },
+ {
+  "text": "soutenir.",
+  "start": 285.1,
+  "end": 285.58
+ },
+ {
+  "text": "Compare",
+  "start": 286.04,
+  "end": 286.54
+ },
+ {
+  "text": "les",
+  "start": 286.54,
+  "end": 286.8
+ },
+ {
+  "text": "deux",
+  "start": 286.8,
+  "end": 286.9
+ },
+ {
+  "text": "listes.",
+  "start": 286.9,
+  "end": 287.28
+ },
+ {
+  "text": "L'écart",
+  "start": 287.28,
+  "end": 288.1
+ },
+ {
+  "text": "te",
+  "start": 288.1,
+  "end": 288.22
+ },
+ {
+  "text": "montre",
+  "start": 288.22,
+  "end": 288.42
+ },
+ {
+  "text": "ce",
+  "start": 288.42,
+  "end": 288.6
+ },
+ {
+  "text": "qu'il",
+  "start": 288.6,
+  "end": 288.74
+ },
+ {
+  "text": "faut",
+  "start": 288.74,
+  "end": 288.84
+ },
+ {
+  "text": "ajuster.",
+  "start": 288.84,
+  "end": 289.22
+ },
+ {
+  "text": "Amasser",
+  "start": 290.04,
+  "end": 290.48
+ },
+ {
+  "text": "dans",
+  "start": 290.48,
+  "end": 290.64
+ },
+ {
+  "text": "le",
+  "start": 290.64,
+  "end": 290.76
+ },
+ {
+  "text": "ciel,",
+  "start": 290.76,
+  "end": 290.96
+ },
+ {
+  "text": "c'est",
+  "start": 291.1,
+  "end": 291.58
+ },
+ {
+  "text": "investir",
+  "start": 291.58,
+  "end": 291.92
+ },
+ {
+  "text": "dans",
+  "start": 291.92,
+  "end": 292.34
+ },
+ {
+  "text": "ce",
+  "start": 292.34,
+  "end": 292.46
+ },
+ {
+  "text": "qui",
+  "start": 292.46,
+  "end": 292.5
+ },
+ {
+  "text": "dure.",
+  "start": 292.5,
+  "end": 292.84
+ },
+ {
+  "text": "Des",
+  "start": 292.98,
+  "end": 293.4
+ },
+ {
+  "text": "personnes,",
+  "start": 293.4,
+  "end": 293.76
+ },
+ {
+  "text": "des",
+  "start": 294.02,
+  "end": 294.2
+ },
+ {
+  "text": "œuvres",
+  "start": 294.2,
+  "end": 294.48
+ },
+ {
+  "text": "de",
+  "start": 294.48,
+  "end": 294.62
+ },
+ {
+  "text": "biens,",
+  "start": 294.62,
+  "end": 294.9
+ },
+ {
+  "text": "ton",
+  "start": 294.96,
+  "end": 295.26
+ },
+ {
+  "text": "église,",
+  "start": 295.26,
+  "end": 295.76
+ },
+ {
+  "text": "la",
+  "start": 295.78,
+  "end": 296.1
+ },
+ {
+  "text": "justice,",
+  "start": 296.1,
+  "end": 296.4
+ },
+ {
+  "text": "l'éternité.",
+  "start": 296.82,
+  "end": 297.7
+ },
+ {
+  "text": "Tu",
+  "start": 298.08,
+  "end": 298.58
+ },
+ {
+  "text": "peux",
+  "start": 298.58,
+  "end": 298.72
+ },
+ {
+  "text": "construire",
+  "start": 298.72,
+  "end": 299.08
+ },
+ {
+  "text": "ton",
+  "start": 299.08,
+  "end": 299.2
+ },
+ {
+  "text": "patrimoine",
+  "start": 299.2,
+  "end": 299.66
+ },
+ {
+  "text": "et",
+  "start": 299.66,
+  "end": 299.88
+ },
+ {
+  "text": "investir",
+  "start": 299.88,
+  "end": 300.24
+ },
+ {
+  "text": "dans",
+  "start": 300.24,
+  "end": 300.46
+ },
+ {
+  "text": "le",
+  "start": 300.46,
+  "end": 300.56
+ },
+ {
+  "text": "ciel",
+  "start": 300.56,
+  "end": 300.76
+ },
+ {
+  "text": "en",
+  "start": 300.76,
+  "end": 300.88
+ },
+ {
+  "text": "même",
+  "start": 300.88,
+  "end": 301.0
+ },
+ {
+  "text": "temps.",
+  "start": 301.0,
+  "end": 301.16
+ },
+ {
+  "text": "Les",
+  "start": 301.42,
+  "end": 301.92
+ },
+ {
+  "text": "deux",
+  "start": 301.92,
+  "end": 302.08
+ },
+ {
+  "text": "ne",
+  "start": 302.08,
+  "end": 302.2
+ },
+ {
+  "text": "s'excluent",
+  "start": 302.2,
+  "end": 302.62
+ },
+ {
+  "text": "pas",
+  "start": 302.62,
+  "end": 302.76
+ },
+ {
+  "text": "tant",
+  "start": 302.76,
+  "end": 303.24
+ },
+ {
+  "text": "que",
+  "start": 303.24,
+  "end": 303.4
+ },
+ {
+  "text": "le",
+  "start": 303.4,
+  "end": 303.52
+ },
+ {
+  "text": "second",
+  "start": 303.52,
+  "end": 303.84
+ },
+ {
+  "text": "passe",
+  "start": 303.84,
+  "end": 304.12
+ },
+ {
+  "text": "en",
+  "start": 304.12,
+  "end": 304.26
+ },
+ {
+  "text": "premier.",
+  "start": 304.26,
+  "end": 304.56
+ },
+ {
+  "text": "Le",
+  "start": 304.94,
+  "end": 305.44
+ },
+ {
+  "text": "cinquième",
+  "start": 305.44,
+  "end": 305.78
+ },
+ {
+  "text": "passage",
+  "start": 305.78,
+  "end": 306.02
+ },
+ {
+  "text": "revient",
+  "start": 306.02,
+  "end": 306.62
+ },
+ {
+  "text": "à",
+  "start": 306.62,
+  "end": 306.66
+ },
+ {
+  "text": "la",
+  "start": 306.66,
+  "end": 306.74
+ },
+ {
+  "text": "lettre",
+  "start": 306.74,
+  "end": 306.98
+ },
+ {
+  "text": "à",
+  "start": 306.98,
+  "end": 307.06
+ },
+ {
+  "text": "Timothée.",
+  "start": 307.06,
+  "end": 307.44
+ },
+ {
+  "text": "Chapitre",
+  "start": 307.44,
+  "end": 308.14
+ },
+ {
+  "text": "6,",
+  "start": 308.14,
+  "end": 308.36
+ },
+ {
+  "text": "versets",
+  "start": 308.52,
+  "end": 309.06
+ },
+ {
+  "text": "17",
+  "start": 309.06,
+  "end": 309.42
+ },
+ {
+  "text": "et",
+  "start": 309.42,
+  "end": 309.64
+ },
+ {
+  "text": "18.",
+  "start": 309.64,
+  "end": 309.9
+ },
+ {
+  "text": "Paul",
+  "start": 310.24,
+  "end": 310.68
+ },
+ {
+  "text": "s'adresse",
+  "start": 310.68,
+  "end": 311.08
+ },
+ {
+  "text": "directement",
+  "start": 311.08,
+  "end": 311.54
+ },
+ {
+  "text": "aux",
+  "start": 311.54,
+  "end": 311.84
+ },
+ {
+  "text": "riches.",
+  "start": 311.84,
+  "end": 312.02
+ },
+ {
+  "text": "Il",
+  "start": 312.42,
+  "end": 312.86
+ },
+ {
+  "text": "dit",
+  "start": 312.86,
+  "end": 313.02
+ },
+ {
+  "text": "« ",
+  "start": 313.02,
+  "end": 313.18
+ },
+ {
+  "text": "Ne",
+  "start": 313.18,
+  "end": 313.48
+ },
+ {
+  "text": "fiez",
+  "start": 313.48,
+  "end": 313.7
+ },
+ {
+  "text": "pas",
+  "start": 313.7,
+  "end": 313.9
+ },
+ {
+  "text": "votre",
+  "start": 313.9,
+  "end": 314.12
+ },
+ {
+  "text": "espérance",
+  "start": 314.12,
+  "end": 314.58
+ },
+ {
+  "text": "sur",
+  "start": 314.58,
+  "end": 314.84
+ },
+ {
+  "text": "les",
+  "start": 314.84,
+  "end": 314.98
+ },
+ {
+  "text": "richesses",
+  "start": 314.98,
+  "end": 315.36
+ },
+ {
+  "text": "incertaines.",
+  "start": 315.36,
+  "end": 315.96
+ },
+ {
+  "text": "Mettez-le",
+  "start": 316.28,
+  "end": 316.76
+ },
+ {
+  "text": "en",
+  "start": 316.76,
+  "end": 317.02
+ },
+ {
+  "text": "Dieu,",
+  "start": 317.02,
+  "end": 317.3
+ },
+ {
+  "text": "qui",
+  "start": 317.42,
+  "end": 317.84
+ },
+ {
+  "text": "nous",
+  "start": 317.84,
+  "end": 317.98
+ },
+ {
+  "text": "donne",
+  "start": 317.98,
+  "end": 318.26
+ },
+ {
+  "text": "toutes",
+  "start": 318.26,
+  "end": 318.44
+ },
+ {
+  "text": "choses",
+  "start": 318.44,
+  "end": 318.7
+ },
+ {
+  "text": "abondamment.",
+  "start": 318.7,
+  "end": 319.34
+ },
+ {
+  "text": "Soyez",
+  "start": 320.1,
+  "end": 320.54
+ },
+ {
+  "text": "généreux,",
+  "start": 320.54,
+  "end": 320.98
+ },
+ {
+  "text": "pratiquez",
+  "start": 321.0,
+  "end": 321.96
+ },
+ {
+  "text": "le",
+  "start": 321.96,
+  "end": 322.04
+ },
+ {
+  "text": "bien. »",
+  "start": 322.04,
+  "end": 323.14
+ },
+ {
+  "text": "Il",
+  "start": 323.14,
+  "end": 323.24
+ },
+ {
+  "text": "rappelle",
+  "start": 323.24,
+  "end": 323.48
+ },
+ {
+  "text": "clairement",
+  "start": 323.48,
+  "end": 323.92
+ },
+ {
+  "text": "« ",
+  "start": 323.92,
+  "end": 324.32
+ },
+ {
+  "text": "Toutes",
+  "start": 324.32,
+  "end": 324.98
+ },
+ {
+  "text": "ces",
+  "start": 324.98,
+  "end": 325.02
+ },
+ {
+  "text": "richesses,",
+  "start": 325.02,
+  "end": 325.5
+ },
+ {
+  "text": "elles",
+  "start": 325.62,
+  "end": 325.94
+ },
+ {
+  "text": "sont",
+  "start": 325.94,
+  "end": 326.12
+ },
+ {
+  "text": "empruntées.",
+  "start": 326.12,
+  "end": 326.72
+ },
+ {
+  "text": "Il",
+  "start": 327.02,
+  "end": 327.46
+ },
+ {
+  "text": "faut",
+  "start": 327.46,
+  "end": 327.64
+ },
+ {
+  "text": "donc",
+  "start": 327.64,
+  "end": 327.82
+ },
+ {
+  "text": "les",
+  "start": 327.82,
+  "end": 327.96
+ },
+ {
+  "text": "rapporter",
+  "start": 327.96,
+  "end": 328.28
+ },
+ {
+  "text": "à",
+  "start": 328.28,
+  "end": 328.4
+ },
+ {
+  "text": "la",
+  "start": 328.4,
+  "end": 328.46
+ },
+ {
+  "text": "source",
+  "start": 328.46,
+  "end": 328.68
+ },
+ {
+  "text": "ultime,",
+  "start": 328.68,
+  "end": 329.24
+ },
+ {
+  "text": "qui",
+  "start": 329.28,
+  "end": 329.7
+ },
+ {
+  "text": "est",
+  "start": 329.7,
+  "end": 329.98
+ },
+ {
+  "text": "Dieu.",
+  "start": 329.98,
+  "end": 330.26
+ },
+ {
+  "text": "Il",
+  "start": 330.82,
+  "end": 331.26
+ },
+ {
+  "text": "faut",
+  "start": 331.26,
+  "end": 331.42
+ },
+ {
+  "text": "mettre",
+  "start": 331.42,
+  "end": 331.58
+ },
+ {
+  "text": "vos",
+  "start": 331.58,
+  "end": 331.8
+ },
+ {
+  "text": "richesses",
+  "start": 331.8,
+  "end": 332.26
+ },
+ {
+  "text": "au",
+  "start": 332.26,
+  "end": 332.38
+ },
+ {
+  "text": "service",
+  "start": 332.38,
+  "end": 332.74
+ },
+ {
+  "text": "du",
+  "start": 332.74,
+  "end": 332.9
+ },
+ {
+  "text": "royaume",
+  "start": 332.9,
+  "end": 333.38
+ },
+ {
+  "text": "de",
+  "start": 333.38,
+  "end": 333.52
+ },
+ {
+  "text": "Dieu,",
+  "start": 333.52,
+  "end": 333.68
+ },
+ {
+  "text": "pas",
+  "start": 333.78,
+  "end": 334.34
+ },
+ {
+  "text": "seulement",
+  "start": 334.34,
+  "end": 334.56
+ },
+ {
+  "text": "pour",
+  "start": 334.56,
+  "end": 334.78
+ },
+ {
+  "text": "vous-même.",
+  "start": 334.78,
+  "end": 335.08
+ },
+ {
+  "text": "Si",
+  "start": 335.62,
+  "end": 336.06
+ },
+ {
+  "text": "tu",
+  "start": 336.06,
+  "end": 336.24
+ },
+ {
+  "text": "fais",
+  "start": 336.24,
+  "end": 336.42
+ },
+ {
+  "text": "ça,",
+  "start": 336.42,
+  "end": 336.58
+ },
+ {
+  "text": "tu",
+  "start": 336.66,
+  "end": 337.12
+ },
+ {
+  "text": "trouveras",
+  "start": 337.12,
+  "end": 337.56
+ },
+ {
+  "text": "le",
+  "start": 337.56,
+  "end": 337.68
+ },
+ {
+  "text": "vrai",
+  "start": 337.68,
+  "end": 337.92
+ },
+ {
+  "text": "trésor",
+  "start": 337.92,
+  "end": 338.46
+ },
+ {
+  "text": "dans",
+  "start": 338.46,
+  "end": 338.6
+ },
+ {
+  "text": "le",
+  "start": 338.6,
+  "end": 338.74
+ },
+ {
+  "text": "ciel,",
+  "start": 338.74,
+  "end": 338.92
+ },
+ {
+  "text": "la",
+  "start": 339.08,
+  "end": 339.64
+ },
+ {
+  "text": "joie",
+  "start": 339.64,
+  "end": 339.96
+ },
+ {
+  "text": "d'avoir",
+  "start": 339.96,
+  "end": 340.16
+ },
+ {
+  "text": "investi",
+  "start": 340.16,
+  "end": 340.8
+ },
+ {
+  "text": "dans",
+  "start": 340.8,
+  "end": 340.9
+ },
+ {
+  "text": "quelque",
+  "start": 340.9,
+  "end": 341.1
+ },
+ {
+  "text": "chose",
+  "start": 341.1,
+  "end": 341.34
+ },
+ {
+  "text": "qui",
+  "start": 341.34,
+  "end": 341.48
+ },
+ {
+  "text": "dure.",
+  "start": 341.48,
+  "end": 341.8
+ },
+ {
+  "text": "En",
+  "start": 342.08,
+  "end": 342.52
+ },
+ {
+  "text": "revanche,",
+  "start": 342.52,
+  "end": 342.94
+ },
+ {
+  "text": "si",
+  "start": 342.94,
+  "end": 343.16
+ },
+ {
+  "text": "tu",
+  "start": 343.16,
+  "end": 343.3
+ },
+ {
+  "text": "fais",
+  "start": 343.3,
+  "end": 343.44
+ },
+ {
+  "text": "passer",
+  "start": 343.44,
+  "end": 343.68
+ },
+ {
+  "text": "tes",
+  "start": 343.68,
+  "end": 343.84
+ },
+ {
+  "text": "richesses",
+  "start": 343.84,
+  "end": 344.16
+ },
+ {
+  "text": "avant",
+  "start": 344.16,
+  "end": 344.56
+ },
+ {
+  "text": "Dieu,",
+  "start": 344.56,
+  "end": 344.86
+ },
+ {
+  "text": "tu",
+  "start": 344.98,
+  "end": 345.32
+ },
+ {
+  "text": "risques",
+  "start": 345.32,
+  "end": 345.62
+ },
+ {
+  "text": "de",
+  "start": 345.62,
+  "end": 345.76
+ },
+ {
+  "text": "croire",
+  "start": 345.76,
+  "end": 346.14
+ },
+ {
+  "text": "en",
+  "start": 346.14,
+  "end": 346.34
+ },
+ {
+  "text": "tes",
+  "start": 346.34,
+  "end": 346.42
+ },
+ {
+  "text": "richesses",
+  "start": 346.42,
+  "end": 346.8
+ },
+ {
+  "text": "et",
+  "start": 346.8,
+  "end": 347.28
+ },
+ {
+  "text": "de",
+  "start": 347.28,
+  "end": 347.42
+ },
+ {
+  "text": "les",
+  "start": 347.42,
+  "end": 347.52
+ },
+ {
+  "text": "perdre",
+  "start": 347.52,
+  "end": 347.86
+ },
+ {
+  "text": "un",
+  "start": 347.86,
+  "end": 348.04
+ },
+ {
+  "text": "jour.",
+  "start": 348.04,
+  "end": 348.18
+ },
+ {
+  "text": "Les",
+  "start": 348.66,
+  "end": 349.06
+ },
+ {
+  "text": "vraies",
+  "start": 349.06,
+  "end": 349.3
+ },
+ {
+  "text": "richesses,",
+  "start": 349.3,
+  "end": 349.68
+ },
+ {
+  "text": "c'est",
+  "start": 349.78,
+  "end": 350.28
+ },
+ {
+  "text": "ce",
+  "start": 350.28,
+  "end": 350.34
+ },
+ {
+  "text": "que",
+  "start": 350.34,
+  "end": 350.42
+ },
+ {
+  "text": "tu",
+  "start": 350.42,
+  "end": 350.5
+ },
+ {
+  "text": "as",
+  "start": 350.5,
+  "end": 350.6
+ },
+ {
+  "text": "gardé",
+  "start": 350.6,
+  "end": 351.0
+ },
+ {
+  "text": "avec",
+  "start": 351.0,
+  "end": 351.32
+ },
+ {
+  "text": "Dieu.",
+  "start": 351.32,
+  "end": 351.56
+ },
+ {
+  "text": "Ce",
+  "start": 351.92,
+  "end": 352.36
+ },
+ {
+  "text": "sont",
+  "start": 352.36,
+  "end": 352.54
+ },
+ {
+  "text": "les",
+  "start": 352.54,
+  "end": 352.68
+ },
+ {
+  "text": "relations",
+  "start": 352.68,
+  "end": 352.92
+ },
+ {
+  "text": "que",
+  "start": 352.92,
+  "end": 353.18
+ },
+ {
+  "text": "tu",
+  "start": 353.18,
+  "end": 353.3
+ },
+ {
+  "text": "as",
+  "start": 353.3,
+  "end": 353.42
+ },
+ {
+  "text": "créées,",
+  "start": 353.42,
+  "end": 353.76
+ },
+ {
+  "text": "les",
+  "start": 353.82,
+  "end": 354.4
+ },
+ {
+  "text": "œuvres",
+  "start": 354.4,
+  "end": 354.76
+ },
+ {
+  "text": "de",
+  "start": 354.76,
+  "end": 354.9
+ },
+ {
+  "text": "biens",
+  "start": 354.9,
+  "end": 355.12
+ },
+ {
+  "text": "que",
+  "start": 355.12,
+  "end": 355.26
+ },
+ {
+  "text": "tu",
+  "start": 355.26,
+  "end": 355.38
+ },
+ {
+  "text": "as",
+  "start": 355.38,
+  "end": 355.46
+ },
+ {
+  "text": "accomplies,",
+  "start": 355.46,
+  "end": 355.86
+ },
+ {
+  "text": "la",
+  "start": 355.9,
+  "end": 356.58
+ },
+ {
+  "text": "paix",
+  "start": 356.58,
+  "end": 356.94
+ },
+ {
+  "text": "de",
+  "start": 356.94,
+  "end": 357.14
+ },
+ {
+  "text": "connaître",
+  "start": 357.14,
+  "end": 357.56
+ },
+ {
+  "text": "ton",
+  "start": 357.56,
+  "end": 357.76
+ },
+ {
+  "text": "héritage.",
+  "start": 357.76,
+  "end": 358.26
+ },
+ {
+  "text": "Pour",
+  "start": 358.84,
+  "end": 359.28
+ },
+ {
+  "text": "terminer,",
+  "start": 359.28,
+  "end": 359.7
+ },
+ {
+  "text": "voici",
+  "start": 359.78,
+  "end": 360.14
+ },
+ {
+  "text": "quatre",
+  "start": 360.14,
+  "end": 360.48
+ },
+ {
+  "text": "questions",
+  "start": 360.48,
+  "end": 360.88
+ },
+ {
+  "text": "clés",
+  "start": 360.88,
+  "end": 361.16
+ },
+ {
+  "text": "pour",
+  "start": 361.16,
+  "end": 361.26
+ },
+ {
+  "text": "ton",
+  "start": 361.26,
+  "end": 361.42
+ },
+ {
+  "text": "application.",
+  "start": 361.42,
+  "end": 361.7
+ },
+ {
+  "text": "1.",
+  "start": 362.38,
+  "end": 362.82
+ },
+ {
+  "text": "Selon",
+  "start": 363.26,
+  "end": 363.7
+ },
+ {
+  "text": "ce",
+  "start": 363.7,
+  "end": 363.8
+ },
+ {
+  "text": "que",
+  "start": 363.8,
+  "end": 363.88
+ },
+ {
+  "text": "tu",
+  "start": 363.88,
+  "end": 363.96
+ },
+ {
+  "text": "viens",
+  "start": 363.96,
+  "end": 364.06
+ },
+ {
+  "text": "de",
+  "start": 364.06,
+  "end": 364.22
+ },
+ {
+  "text": "lire,",
+  "start": 364.22,
+  "end": 364.4
+ },
+ {
+  "text": "quelle",
+  "start": 364.52,
+  "end": 364.96
+ },
+ {
+  "text": "est",
+  "start": 364.96,
+  "end": 365.1
+ },
+ {
+  "text": "la",
+  "start": 365.1,
+  "end": 365.18
+ },
+ {
+  "text": "priorité",
+  "start": 365.18,
+  "end": 365.8
+ },
+ {
+  "text": "de",
+  "start": 365.8,
+  "end": 365.94
+ },
+ {
+  "text": "ton",
+  "start": 365.94,
+  "end": 366.06
+ },
+ {
+  "text": "cœur?",
+  "start": 366.06,
+  "end": 366.5
+ },
+ {
+  "text": "2.",
+  "start": 366.5,
+  "end": 367.26
+ },
+ {
+  "text": "Quelles",
+  "start": 367.56,
+  "end": 367.96
+ },
+ {
+  "text": "sont",
+  "start": 367.96,
+  "end": 368.06
+ },
+ {
+  "text": "les",
+  "start": 368.06,
+  "end": 368.2
+ },
+ {
+  "text": "choses",
+  "start": 368.2,
+  "end": 368.38
+ },
+ {
+  "text": "qui",
+  "start": 368.38,
+  "end": 368.52
+ },
+ {
+  "text": "te",
+  "start": 368.52,
+  "end": 368.62
+ },
+ {
+  "text": "donnent",
+  "start": 368.62,
+  "end": 369.06
+ },
+ {
+  "text": "de",
+  "start": 369.06,
+  "end": 369.14
+ },
+ {
+  "text": "la",
+  "start": 369.14,
+  "end": 369.24
+ },
+ {
+  "text": "joie?",
+  "start": 369.24,
+  "end": 369.68
+ },
+ {
+  "text": "3.",
+  "start": 369.68,
+  "end": 370.48
+ },
+ {
+  "text": "Comment",
+  "start": 371.0,
+  "end": 371.4
+ },
+ {
+  "text": "est-ce",
+  "start": 371.4,
+  "end": 371.6
+ },
+ {
+  "text": "que",
+  "start": 371.6,
+  "end": 371.66
+ },
+ {
+  "text": "tu",
+  "start": 371.66,
+  "end": 371.78
+ },
+ {
+  "text": "pourrais",
+  "start": 371.78,
+  "end": 371.98
+ },
+ {
+  "text": "investir",
+  "start": 371.98,
+  "end": 372.42
+ },
+ {
+  "text": "plus",
+  "start": 372.42,
+  "end": 372.8
+ },
+ {
+  "text": "dans",
+  "start": 372.8,
+  "end": 373.06
+ },
+ {
+  "text": "ce",
+  "start": 373.06,
+  "end": 373.16
+ },
+ {
+  "text": "qui",
+  "start": 373.16,
+  "end": 373.24
+ },
+ {
+  "text": "est",
+  "start": 373.24,
+  "end": 373.24
+ },
+ {
+  "text": "infini?",
+  "start": 373.24,
+  "end": 373.74
+ },
+ {
+  "text": "Et",
+  "start": 373.74,
+  "end": 374.44
+ },
+ {
+  "text": "4.",
+  "start": 374.44,
+  "end": 374.66
+ },
+ {
+  "text": "Quelle",
+  "start": 374.98,
+  "end": 375.38
+ },
+ {
+  "text": "est",
+  "start": 375.38,
+  "end": 375.44
+ },
+ {
+  "text": "la",
+  "start": 375.44,
+  "end": 375.58
+ },
+ {
+  "text": "première",
+  "start": 375.58,
+  "end": 375.9
+ },
+ {
+  "text": "étape",
+  "start": 375.9,
+  "end": 376.26
+ },
+ {
+  "text": "concrète",
+  "start": 376.26,
+  "end": 376.6
+ },
+ {
+  "text": "que",
+  "start": 376.6,
+  "end": 376.76
+ },
+ {
+  "text": "tu",
+  "start": 376.76,
+  "end": 376.84
+ },
+ {
+  "text": "veux",
+  "start": 376.84,
+  "end": 376.94
+ },
+ {
+  "text": "faire?",
+  "start": 376.94,
+  "end": 377.4
+ },
+ {
+  "text": "Je",
+  "start": 377.4,
+  "end": 377.96
+ },
+ {
+  "text": "prie",
+  "start": 377.96,
+  "end": 378.22
+ },
+ {
+  "text": "que",
+  "start": 378.22,
+  "end": 378.34
+ },
+ {
+  "text": "Dieu",
+  "start": 378.34,
+  "end": 378.62
+ },
+ {
+  "text": "te",
+  "start": 378.62,
+  "end": 378.76
+ },
+ {
+  "text": "donne",
+  "start": 378.76,
+  "end": 379.04
+ },
+ {
+  "text": "ce",
+  "start": 379.04,
+  "end": 379.16
+ },
+ {
+  "text": "discernement",
+  "start": 379.16,
+  "end": 379.84
+ },
+ {
+  "text": "pour",
+  "start": 379.84,
+  "end": 380.24
+ },
+ {
+  "text": "que",
+  "start": 380.24,
+  "end": 380.38
+ },
+ {
+  "text": "ouverturement",
+  "start": 380.38,
+  "end": 381.12
+ },
+ {
+  "text": "soit",
+  "start": 381.12,
+  "end": 381.34
+ },
+ {
+  "text": "de",
+  "start": 381.34,
+  "end": 381.54
+ },
+ {
+  "text": "jamais",
+  "start": 381.54,
+  "end": 381.82
+ },
+ {
+  "text": "la",
+  "start": 381.82,
+  "end": 381.94
+ },
+ {
+  "text": "même.",
+  "start": 381.94,
+  "end": 382.12
+ },
+ {
+  "text": "Vivre",
+  "start": 382.7,
+  "end": 383.1
+ },
+ {
+  "text": "pour",
+  "start": 383.1,
+  "end": 383.28
+ },
+ {
+  "text": "l'éternité,",
+  "start": 383.28,
+  "end": 383.88
+ },
+ {
+  "text": "ça",
+  "start": 383.96,
+  "end": 384.56
+ },
+ {
+  "text": "donne",
+  "start": 384.56,
+  "end": 384.74
+ },
+ {
+  "text": "du",
+  "start": 384.74,
+  "end": 384.88
+ },
+ {
+  "text": "sens",
+  "start": 384.88,
+  "end": 385.18
+ },
+ {
+  "text": "à",
+  "start": 385.18,
+  "end": 385.48
+ },
+ {
+  "text": "chaque",
+  "start": 385.48,
+  "end": 385.74
+ },
+ {
+  "text": "jour.",
+  "start": 385.74,
+  "end": 385.98
+ },
+ {
+  "text": "Abonne-toi",
+  "start": 386.5,
+  "end": 386.98
+ },
+ {
+  "text": "et",
+  "start": 386.98,
+  "end": 387.46
+ },
+ {
+  "text": "surtout",
+  "start": 387.46,
+  "end": 387.68
+ },
+ {
+  "text": "partage",
+  "start": 387.68,
+  "end": 388.18
+ },
+ {
+  "text": "cette",
+  "start": 388.18,
+  "end": 388.3
+ },
+ {
+  "text": "vidéo",
+  "start": 388.3,
+  "end": 388.56
+ },
+ {
+  "text": "avec",
+  "start": 388.56,
+  "end": 388.78
+ },
+ {
+  "text": "des",
+  "start": 388.78,
+  "end": 388.9
+ },
+ {
+  "text": "personnes",
+  "start": 388.9,
+  "end": 389.16
+ },
+ {
+  "text": "que",
+  "start": 389.16,
+  "end": 389.34
+ },
+ {
+  "text": "cela",
+  "start": 389.34,
+  "end": 389.46
+ },
+ {
+  "text": "pourrait",
+  "start": 389.46,
+  "end": 389.7
+ },
+ {
+  "text": "aussi",
+  "start": 389.7,
+  "end": 390.08
+ },
+ {
+  "text": "aider.",
+  "start": 390.08,
+  "end": 390.38
+ },
+ {
+  "text": "à",
+  "start": 390.38,
+  "end": 390.92
+ },
+ {
+  "text": "bientôt",
+  "start": 390.92,
+  "end": 391.38
+ },
+ {
+  "text": "pour",
+  "start": 391.38,
+  "end": 391.52
+ },
+ {
+  "text": "une",
+  "start": 391.52,
+  "end": 391.64
+ },
+ {
+  "text": "prochaine",
+  "start": 391.64,
+  "end": 391.86
+ },
+ {
+  "text": "vidéo",
+  "start": 391.86,
+  "end": 392.14
+ },
+ {
+  "text": "recommande",
+  "start": 392.14,
+  "end": 393.4
+ },
+ {
+  "text": "aux",
+  "start": 393.4,
+  "end": 393.5
+ },
+ {
+  "text": "riches",
+  "start": 393.5,
+  "end": 393.7
+ },
+ {
+  "text": "du",
+  "start": 393.7,
+  "end": 393.92
+ },
+ {
+  "text": "présent",
+  "start": 393.92,
+  "end": 394.22
+ },
+ {
+  "text": "siècle",
+  "start": 394.22,
+  "end": 394.62
+ },
+ {
+  "text": "de",
+  "start": 394.62,
+  "end": 394.86
+ },
+ {
+  "text": "ne",
+  "start": 394.86,
+  "end": 394.98
+ },
+ {
+  "text": "pas",
+  "start": 394.98,
+  "end": 395.24
+ },
+ {
+  "text": "être",
+  "start": 395.24,
+  "end": 395.52
+ },
+ {
+  "text": "orgueilleux",
+  "start": 395.52,
+  "end": 396.0
+ },
+ {
+  "text": "et",
+  "start": 396.0,
+  "end": 396.34
+ },
+ {
+  "text": "de",
+  "start": 396.34,
+  "end": 396.44
+ },
+ {
+  "text": "ne",
+  "start": 396.44,
+  "end": 396.52
+ },
+ {
+  "text": "pas",
+  "start": 396.52,
+  "end": 396.66
+ },
+ {
+  "text": "mettre",
+  "start": 396.66,
+  "end": 396.88
+ },
+ {
+  "text": "leur",
+  "start": 396.88,
+  "end": 397.1
+ },
+ {
+  "text": "espérance",
+  "start": 397.1,
+  "end": 397.52
+ },
+ {
+  "text": "dans",
+  "start": 397.52,
+  "end": 397.66
+ },
+ {
+  "text": "des",
+  "start": 397.66,
+  "end": 397.78
+ },
+ {
+  "text": "richesses",
+  "start": 397.78,
+  "end": 398.14
+ },
+ {
+  "text": "incertaines",
+  "start": 398.14,
+  "end": 398.74
+ },
+ {
+  "text": "mais",
+  "start": 398.74,
+  "end": 399.22
+ },
+ {
+  "text": "de",
+  "start": 399.22,
+  "end": 399.32
+ },
+ {
+  "text": "la",
+  "start": 399.32,
+  "end": 399.42
+ },
+ {
+  "text": "mettre",
+  "start": 399.42,
+  "end": 399.66
+ },
+ {
+  "text": "en",
+  "start": 399.66,
+  "end": 399.98
+ },
+ {
+  "text": "dieu",
+  "start": 399.98,
+  "end": 400.44
+ },
+ {
+  "text": "qui",
+  "start": 400.44,
+  "end": 400.94
+ },
+ {
+  "text": "nous",
+  "start": 400.94,
+  "end": 401.1
+ },
+ {
+  "text": "donne",
+  "start": 401.1,
+  "end": 401.38
+ },
+ {
+  "text": "avec",
+  "start": 401.38,
+  "end": 401.7
+ },
+ {
+  "text": "abondance",
+  "start": 401.7,
+  "end": 402.52
+ },
+ {
+  "text": "toutes",
+  "start": 402.52,
+  "end": 402.82
+ },
+ {
+  "text": "choses",
+  "start": 402.82,
+  "end": 403.24
+ },
+ {
+  "text": "pour",
+  "start": 403.24,
+  "end": 403.5
+ },
+ {
+  "text": "que",
+  "start": 403.5,
+  "end": 403.6
+ },
+ {
+  "text": "nous",
+  "start": 403.6,
+  "end": 403.72
+ },
+ {
+  "text": "en",
+  "start": 403.72,
+  "end": 403.86
+ },
+ {
+  "text": "jouissions",
+  "start": 403.86,
+  "end": 404.12
+ },
+ {
+  "text": "de",
+  "start": 404.12,
+  "end": 404.88
+ },
+ {
+  "text": "faire",
+  "start": 404.88,
+  "end": 405.1
+ },
+ {
+  "text": "du",
+  "start": 405.1,
+  "end": 405.22
+ },
+ {
+  "text": "bien",
+  "start": 405.22,
+  "end": 405.42
+ },
+ {
+  "text": "d'être",
+  "start": 405.42,
+  "end": 405.98
+ },
+ {
+  "text": "riche",
+  "start": 405.98,
+  "end": 406.44
+ },
+ {
+  "text": "en",
+  "start": 406.44,
+  "end": 406.52
+ },
+ {
+  "text": "bonnes",
+  "start": 406.52,
+  "end": 406.8
+ },
+ {
+  "text": "oeuvres",
+  "start": 406.8,
+  "end": 407.08
+ },
+ {
+  "text": "d'avoir",
+  "start": 407.08,
+  "end": 407.66
+ },
+ {
+  "text": "de",
+  "start": 407.66,
+  "end": 407.84
+ },
+ {
+  "text": "la",
+  "start": 407.84,
+  "end": 407.96
+ },
+ {
+  "text": "libéralité",
+  "start": 407.96,
+  "end": 408.54
+ },
+ {
+  "text": "de",
+  "start": 408.54,
+  "end": 409.16
+ },
+ {
+  "text": "la",
+  "start": 409.16,
+  "end": 409.28
+ },
+ {
+  "text": "générosité",
+  "start": 409.28,
+  "end": 409.82
+ },
+ {
+  "text": "il",
+  "start": 409.82,
+  "end": 410.64
+ },
+ {
+  "text": "ya",
+  "start": 410.64,
+  "end": 410.74
+ },
+ {
+  "text": "ici",
+  "start": 410.74,
+  "end": 410.9
+ },
+ {
+  "text": "trois",
+  "start": 410.9,
+  "end": 411.22
+ },
+ {
+  "text": "consignes",
+  "start": 411.22,
+  "end": 411.78
+ },
+ {
+  "text": "ne",
+  "start": 411.78,
+  "end": 412.38
+ },
+ {
+  "text": "pas",
+  "start": 412.38,
+  "end": 412.52
+ },
+ {
+  "text": "être",
+  "start": 412.52,
+  "end": 412.74
+ },
+ {
+  "text": "orgueilleux",
+  "start": 412.74,
+  "end": 413.22
+ },
+ {
+  "text": "ne",
+  "start": 413.22,
+  "end": 413.8
+ },
+ {
+  "text": "pas",
+  "start": 413.8,
+  "end": 413.98
+ },
+ {
+  "text": "espérer",
+  "start": 413.98,
+  "end": 414.46
+ },
+ {
+  "text": "dans",
+  "start": 414.46,
+  "end": 414.68
+ },
+ {
+  "text": "des",
+  "start": 414.68,
+  "end": 414.78
+ },
+ {
+  "text": "richesses",
+  "start": 414.78,
+  "end": 415.12
+ },
+ {
+  "text": "incertaines",
+  "start": 415.12,
+  "end": 415.72
+ },
+ {
+  "text": "et",
+  "start": 415.72,
+  "end": 416.48
+ },
+ {
+  "text": "être",
+  "start": 416.48,
+  "end": 416.66
+ },
+ {
+  "text": "généreux",
+  "start": 416.66,
+  "end": 417.12
+ },
+ {
+  "text": "Remarque",
+  "start": 417.84,
+  "end": 418.24
+ },
+ {
+  "text": "que",
+  "start": 418.24,
+  "end": 418.44
+ },
+ {
+  "text": "Paul",
+  "start": 418.44,
+  "end": 418.7
+ },
+ {
+  "text": "ne",
+  "start": 418.7,
+  "end": 418.88
+ },
+ {
+  "text": "demande",
+  "start": 418.88,
+  "end": 419.14
+ },
+ {
+  "text": "pas",
+  "start": 419.14,
+  "end": 419.38
+ },
+ {
+  "text": "aux",
+  "start": 419.38,
+  "end": 419.48
+ },
+ {
+  "text": "riches",
+  "start": 419.48,
+  "end": 419.68
+ },
+ {
+  "text": "de",
+  "start": 419.68,
+  "end": 419.84
+ },
+ {
+  "text": "tout",
+  "start": 419.84,
+  "end": 419.94
+ },
+ {
+  "text": "vendre.",
+  "start": 419.94,
+  "end": 420.36
+ },
+ {
+  "text": "Il",
+  "start": 420.58,
+  "end": 420.98
+ },
+ {
+  "text": "leur",
+  "start": 420.98,
+  "end": 421.14
+ },
+ {
+  "text": "demande",
+  "start": 421.14,
+  "end": 421.4
+ },
+ {
+  "text": "d'être",
+  "start": 421.4,
+  "end": 421.66
+ },
+ {
+  "text": "humbles,",
+  "start": 421.66,
+  "end": 422.22
+ },
+ {
+  "text": "d'espérer",
+  "start": 422.3,
+  "end": 422.98
+ },
+ {
+  "text": "en",
+  "start": 422.98,
+  "end": 423.14
+ },
+ {
+  "text": "Dieu",
+  "start": 423.14,
+  "end": 423.34
+ },
+ {
+  "text": "et",
+  "start": 423.34,
+  "end": 423.86
+ },
+ {
+  "text": "de",
+  "start": 423.86,
+  "end": 424.02
+ },
+ {
+  "text": "donner.",
+  "start": 424.02,
+  "end": 424.26
+ },
+ {
+  "text": "Il",
+  "start": 424.72,
+  "end": 425.12
+ },
+ {
+  "text": "ajoute",
+  "start": 425.12,
+  "end": 425.42
+ },
+ {
+  "text": "que",
+  "start": 425.42,
+  "end": 425.5
+ },
+ {
+  "text": "Dieu",
+  "start": 425.5,
+  "end": 425.7
+ },
+ {
+  "text": "nous",
+  "start": 425.7,
+  "end": 425.8
+ },
+ {
+  "text": "donne",
+  "start": 425.8,
+  "end": 426.08
+ },
+ {
+  "text": "toutes",
+  "start": 426.08,
+  "end": 426.28
+ },
+ {
+  "text": "choses",
+  "start": 426.28,
+  "end": 426.58
+ },
+ {
+  "text": "pour",
+  "start": 426.58,
+  "end": 426.84
+ },
+ {
+  "text": "que",
+  "start": 426.84,
+  "end": 426.96
+ },
+ {
+  "text": "nous",
+  "start": 426.96,
+  "end": 427.1
+ },
+ {
+  "text": "en",
+  "start": 427.1,
+  "end": 427.24
+ },
+ {
+  "text": "jouissions.",
+  "start": 427.24,
+  "end": 427.5
+ },
+ {
+  "text": "Profiter",
+  "start": 428.4,
+  "end": 428.8
+ },
+ {
+  "text": "de",
+  "start": 428.8,
+  "end": 428.92
+ },
+ {
+  "text": "ce",
+  "start": 428.92,
+  "end": 429.02
+ },
+ {
+  "text": "que",
+  "start": 429.02,
+  "end": 429.12
+ },
+ {
+  "text": "tu",
+  "start": 429.12,
+  "end": 429.18
+ },
+ {
+  "text": "gagnes",
+  "start": 429.18,
+  "end": 429.44
+ },
+ {
+  "text": "n'est",
+  "start": 429.44,
+  "end": 429.66
+ },
+ {
+  "text": "pas",
+  "start": 429.66,
+  "end": 429.78
+ },
+ {
+  "text": "un",
+  "start": 429.78,
+  "end": 429.92
+ },
+ {
+  "text": "péché,",
+  "start": 429.92,
+  "end": 430.14
+ },
+ {
+  "text": "quand",
+  "start": 430.22,
+  "end": 430.74
+ },
+ {
+  "text": "on",
+  "start": 430.74,
+  "end": 430.9
+ },
+ {
+  "text": "le",
+  "start": 430.9,
+  "end": 431.02
+ },
+ {
+  "text": "fait",
+  "start": 431.02,
+  "end": 431.12
+ },
+ {
+  "text": "avec",
+  "start": 431.12,
+  "end": 431.28
+ },
+ {
+  "text": "reconnaissance.",
+  "start": 431.28,
+  "end": 431.9
+ },
+ {
+  "text": "Des",
+  "start": 432.66,
+  "end": 433.06
+ },
+ {
+  "text": "richesses",
+  "start": 433.06,
+  "end": 433.46
+ },
+ {
+  "text": "incertaines.",
+  "start": 433.46,
+  "end": 434.3
+ },
+ {
+  "text": "La",
+  "start": 434.58,
+  "end": 434.98
+ },
+ {
+  "text": "bourse",
+  "start": 434.98,
+  "end": 435.28
+ },
+ {
+  "text": "monte",
+  "start": 435.28,
+  "end": 435.58
+ },
+ {
+  "text": "et",
+  "start": 435.58,
+  "end": 435.7
+ },
+ {
+  "text": "descend,",
+  "start": 435.7,
+  "end": 435.9
+ },
+ {
+  "text": "un",
+  "start": 436.04,
+  "end": 436.4
+ },
+ {
+  "text": "emploi",
+  "start": 436.4,
+  "end": 436.76
+ },
+ {
+  "text": "peut",
+  "start": 436.76,
+  "end": 436.88
+ },
+ {
+  "text": "disparaître.",
+  "start": 436.88,
+  "end": 437.42
+ },
+ {
+  "text": "L'espérance",
+  "start": 437.66,
+  "end": 438.44
+ },
+ {
+  "text": "ne",
+  "start": 438.44,
+  "end": 438.56
+ },
+ {
+  "text": "peut",
+  "start": 438.56,
+  "end": 438.7
+ },
+ {
+  "text": "pas",
+  "start": 438.7,
+  "end": 438.88
+ },
+ {
+  "text": "reposer",
+  "start": 438.88,
+  "end": 439.3
+ },
+ {
+  "text": "là-dessus.",
+  "start": 439.3,
+  "end": 439.6
+ },
+ {
+  "text": "Et",
+  "start": 440.08,
+  "end": 440.48
+ },
+ {
+  "text": "la",
+  "start": 440.48,
+  "end": 440.6
+ },
+ {
+  "text": "générosité",
+  "start": 440.6,
+  "end": 441.26
+ },
+ {
+  "text": "est",
+  "start": 441.26,
+  "end": 441.36
+ },
+ {
+  "text": "le",
+  "start": 441.36,
+  "end": 441.46
+ },
+ {
+  "text": "meilleur",
+  "start": 441.46,
+  "end": 441.82
+ },
+ {
+  "text": "antidote.",
+  "start": 441.82,
+  "end": 442.36
+ },
+ {
+  "text": "Quand",
+  "start": 442.84,
+  "end": 443.24
+ },
+ {
+  "text": "tu",
+  "start": 443.24,
+  "end": 443.4
+ },
+ {
+  "text": "donnes,",
+  "start": 443.4,
+  "end": 443.74
+ },
+ {
+  "text": "tu",
+  "start": 443.76,
+  "end": 444.08
+ },
+ {
+  "text": "rappelles",
+  "start": 444.08,
+  "end": 444.52
+ },
+ {
+  "text": "à",
+  "start": 444.52,
+  "end": 444.58
+ },
+ {
+  "text": "ton",
+  "start": 444.58,
+  "end": 444.68
+ },
+ {
+  "text": "cœur",
+  "start": 444.68,
+  "end": 444.88
+ },
+ {
+  "text": "que",
+  "start": 444.88,
+  "end": 445.06
+ },
+ {
+  "text": "l'argent",
+  "start": 445.06,
+  "end": 445.32
+ },
+ {
+  "text": "est",
+  "start": 445.32,
+  "end": 445.48
+ },
+ {
+  "text": "un",
+  "start": 445.48,
+  "end": 445.62
+ },
+ {
+  "text": "outil,",
+  "start": 445.62,
+  "end": 445.98
+ },
+ {
+  "text": "pas",
+  "start": 446.0,
+  "end": 446.6
+ },
+ {
+  "text": "un",
+  "start": 446.6,
+  "end": 446.78
+ },
+ {
+  "text": "maître.",
+  "start": 446.78,
+  "end": 447.04
+ },
+ {
+  "text": "Troisième",
+  "start": 447.7,
+  "end": 448.2
+ },
+ {
+  "text": "question",
+  "start": 448.2,
+  "end": 448.48
+ },
+ {
+  "text": "à",
+  "start": 448.48,
+  "end": 448.66
+ },
+ {
+  "text": "retenir,",
+  "start": 448.66,
+  "end": 449.0
+ },
+ {
+  "text": "est-ce",
+  "start": 449.12,
+  "end": 449.74
+ },
+ {
+  "text": "que",
+  "start": 449.74,
+  "end": 449.78
+ },
+ {
+  "text": "je",
+  "start": 449.78,
+  "end": 449.94
+ },
+ {
+  "text": "partage",
+  "start": 449.94,
+  "end": 450.6
+ },
+ {
+  "text": "ce",
+  "start": 450.6,
+  "end": 450.8
+ },
+ {
+  "text": "que",
+  "start": 450.8,
+  "end": 450.96
+ },
+ {
+  "text": "je",
+  "start": 450.96,
+  "end": 451.08
+ },
+ {
+  "text": "reçois?",
+  "start": 451.08,
+  "end": 451.66
+ },
+ {
+  "text": "Passons",
+  "start": 452.13,
+  "end": 452.38
+ },
+ {
+  "text": "à",
+  "start": 452.38,
+  "end": 452.46
+ },
+ {
+  "text": "la",
+  "start": 452.46,
+  "end": 452.52
+ },
+ {
+  "text": "pratique,",
+  "start": 452.52,
+  "end": 452.78
+ },
+ {
+  "text": "avec",
+  "start": 452.9,
+  "end": 453.2
+ },
+ {
+  "text": "cinq",
+  "start": 453.2,
+  "end": 453.54
+ },
+ {
+  "text": "garde-fous,",
+  "start": 453.54,
+  "end": 454.16
+ },
+ {
+  "text": "pour",
+  "start": 454.24,
+  "end": 454.52
+ },
+ {
+  "text": "t'enrichir",
+  "start": 454.52,
+  "end": 455.12
+ },
+ {
+  "text": "sans",
+  "start": 455.12,
+  "end": 455.38
+ },
+ {
+  "text": "perdre",
+  "start": 455.38,
+  "end": 455.64
+ },
+ {
+  "text": "la",
+  "start": 455.64,
+  "end": 455.76
+ },
+ {
+  "text": "foi.",
+  "start": 455.76,
+  "end": 455.9
+ },
+ {
+  "text": "Premier",
+  "start": 456.52,
+  "end": 457.02
+ },
+ {
+  "text": "garde-fou,",
+  "start": 457.02,
+  "end": 457.44
+ },
+ {
+  "text": "donne",
+  "start": 457.52,
+  "end": 458.1
+ },
+ {
+  "text": "en",
+  "start": 458.1,
+  "end": 458.52
+ },
+ {
+  "text": "premier.",
+  "start": 458.52,
+  "end": 458.94
+ },
+ {
+  "text": "Avant",
+  "start": 459.36,
+  "end": 459.86
+ },
+ {
+  "text": "de",
+  "start": 459.86,
+  "end": 460.02
+ },
+ {
+  "text": "dépenser,",
+  "start": 460.02,
+  "end": 460.44
+ },
+ {
+  "text": "avant",
+  "start": 460.52,
+  "end": 461.02
+ },
+ {
+  "text": "même",
+  "start": 461.02,
+  "end": 461.26
+ },
+ {
+  "text": "d'épargner,",
+  "start": 461.26,
+  "end": 461.78
+ },
+ {
+  "text": "décide",
+  "start": 461.9,
+  "end": 462.76
+ },
+ {
+  "text": "de",
+  "start": 462.76,
+  "end": 462.94
+ },
+ {
+  "text": "ce",
+  "start": 462.94,
+  "end": 463.04
+ },
+ {
+  "text": "que",
+  "start": 463.04,
+  "end": 463.14
+ },
+ {
+  "text": "tu",
+  "start": 463.14,
+  "end": 463.22
+ },
+ {
+  "text": "donnes.",
+  "start": 463.22,
+  "end": 463.48
+ },
+ {
+  "text": "Les",
+  "start": 463.76,
+  "end": 464.26
+ },
+ {
+  "text": "proverbes",
+  "start": 464.26,
+  "end": 464.62
+ },
+ {
+  "text": "disent",
+  "start": 464.62,
+  "end": 464.82
+ },
+ {
+  "text": "« ",
+  "start": 464.82,
+  "end": 465.06
+ },
+ {
+  "text": "Honore",
+  "start": 465.06,
+  "end": 465.68
+ },
+ {
+  "text": "l'éternel",
+  "start": 465.68,
+  "end": 466.22
+ },
+ {
+  "text": "avec",
+  "start": 466.22,
+  "end": 466.4
+ },
+ {
+  "text": "tes",
+  "start": 466.4,
+  "end": 466.56
+ },
+ {
+  "text": "biens",
+  "start": 466.56,
+  "end": 466.8
+ },
+ {
+  "text": "et",
+  "start": 466.8,
+  "end": 467.16
+ },
+ {
+  "text": "avec",
+  "start": 467.16,
+  "end": 467.36
+ },
+ {
+  "text": "les",
+  "start": 467.36,
+  "end": 467.52
+ },
+ {
+  "text": "prémices",
+  "start": 467.52,
+  "end": 467.98
+ },
+ {
+  "text": "de",
+  "start": 467.98,
+  "end": 468.3
+ },
+ {
+  "text": "tout",
+  "start": 468.3,
+  "end": 468.48
+ },
+ {
+  "text": "ton",
+  "start": 468.48,
+  "end": 468.72
+ },
+ {
+  "text": "revenu",
+  "start": 468.72,
+  "end": 469.08
+ },
+ {
+  "text": "».",
+  "start": 469.08,
+  "end": 469.26
+ },
+ {
+  "text": "Le",
+  "start": 469.65,
+  "end": 469.9
+ },
+ {
+  "text": "montant",
+  "start": 469.9,
+  "end": 470.22
+ },
+ {
+  "text": "dépend",
+  "start": 470.22,
+  "end": 470.38
+ },
+ {
+  "text": "de",
+  "start": 470.38,
+  "end": 470.64
+ },
+ {
+  "text": "ta",
+  "start": 470.64,
+  "end": 470.72
+ },
+ {
+  "text": "conviction",
+  "start": 470.72,
+  "end": 471.06
+ },
+ {
+  "text": "et",
+  "start": 471.06,
+  "end": 471.4
+ },
+ {
+  "text": "de",
+  "start": 471.4,
+  "end": 471.52
+ },
+ {
+  "text": "ta",
+  "start": 471.52,
+  "end": 471.66
+ },
+ {
+  "text": "situation,",
+  "start": 471.66,
+  "end": 472.06
+ },
+ {
+  "text": "mais",
+  "start": 472.24,
+  "end": 472.84
+ },
+ {
+  "text": "le",
+  "start": 472.84,
+  "end": 472.98
+ },
+ {
+  "text": "principe",
+  "start": 472.98,
+  "end": 473.38
+ },
+ {
+  "text": "est",
+  "start": 473.38,
+  "end": 473.72
+ },
+ {
+  "text": "de",
+  "start": 473.72,
+  "end": 473.84
+ },
+ {
+  "text": "commencer",
+  "start": 473.84,
+  "end": 474.24
+ },
+ {
+  "text": "par",
+  "start": 474.24,
+  "end": 474.5
+ },
+ {
+  "text": "là.",
+  "start": 474.5,
+  "end": 474.66
+ },
+ {
+  "text": "Donner",
+  "start": 475.26,
+  "end": 475.5
+ },
+ {
+  "text": "en",
+  "start": 475.5,
+  "end": 475.58
+ },
+ {
+  "text": "premier",
+  "start": 475.58,
+  "end": 475.88
+ },
+ {
+  "text": "change",
+  "start": 475.88,
+  "end": 476.12
+ },
+ {
+  "text": "ton",
+  "start": 476.12,
+  "end": 476.4
+ },
+ {
+  "text": "rapport",
+  "start": 476.4,
+  "end": 476.6
+ },
+ {
+  "text": "à",
+  "start": 476.6,
+  "end": 476.78
+ },
+ {
+  "text": "l'argent.",
+  "start": 476.78,
+  "end": 477.0
+ },
+ {
+  "text": "Tu",
+  "start": 477.14,
+  "end": 477.62
+ },
+ {
+  "text": "cesses",
+  "start": 477.62,
+  "end": 477.96
+ },
+ {
+  "text": "de",
+  "start": 477.96,
+  "end": 478.04
+ },
+ {
+  "text": "donner",
+  "start": 478.04,
+  "end": 478.26
+ },
+ {
+  "text": "ce",
+  "start": 478.26,
+  "end": 478.4
+ },
+ {
+  "text": "qui",
+  "start": 478.4,
+  "end": 478.46
+ },
+ {
+  "text": "reste,",
+  "start": 478.46,
+  "end": 478.7
+ },
+ {
+  "text": "tu",
+  "start": 478.84,
+  "end": 479.22
+ },
+ {
+  "text": "donnes",
+  "start": 479.22,
+  "end": 479.46
+ },
+ {
+  "text": "d'abord",
+  "start": 479.46,
+  "end": 479.72
+ },
+ {
+  "text": "ce",
+  "start": 479.72,
+  "end": 479.9
+ },
+ {
+  "text": "qui",
+  "start": 479.9,
+  "end": 480.04
+ },
+ {
+  "text": "compte.",
+  "start": 480.04,
+  "end": 480.3
+ },
+ {
+  "text": "Deuxième",
+  "start": 480.96,
+  "end": 481.44
+ },
+ {
+  "text": "garde-fou,",
+  "start": 481.44,
+  "end": 481.86
+ },
+ {
+  "text": "gagne",
+  "start": 481.96,
+  "end": 482.64
+ },
+ {
+  "text": "honnêtement.",
+  "start": 482.64,
+  "end": 483.4
+ },
+ {
+  "text": "Fuis",
+  "start": 483.84,
+  "end": 484.32
+ },
+ {
+  "text": "les",
+  "start": 484.32,
+  "end": 484.58
+ },
+ {
+  "text": "promesses",
+  "start": 484.58,
+  "end": 484.98
+ },
+ {
+  "text": "d'argent",
+  "start": 484.98,
+  "end": 485.24
+ },
+ {
+  "text": "faciles,",
+  "start": 485.24,
+  "end": 485.7
+ },
+ {
+  "text": "les",
+  "start": 485.76,
+  "end": 486.14
+ },
+ {
+  "text": "raccourcis",
+  "start": 486.14,
+  "end": 486.64
+ },
+ {
+  "text": "douteux,",
+  "start": 486.64,
+  "end": 487.04
+ },
+ {
+  "text": "les",
+  "start": 487.06,
+  "end": 487.54
+ },
+ {
+  "text": "petites",
+  "start": 487.54,
+  "end": 487.82
+ },
+ {
+  "text": "tromperies.",
+  "start": 487.82,
+  "end": 488.32
+ },
+ {
+  "text": "Une",
+  "start": 488.6,
+  "end": 489.08
+ },
+ {
+  "text": "richesse",
+  "start": 489.08,
+  "end": 489.52
+ },
+ {
+  "text": "acquise",
+  "start": 489.52,
+  "end": 489.82
+ },
+ {
+  "text": "de",
+  "start": 489.82,
+  "end": 489.96
+ },
+ {
+  "text": "travers",
+  "start": 489.96,
+  "end": 490.2
+ },
+ {
+  "text": "détruit",
+  "start": 490.2,
+  "end": 490.66
+ },
+ {
+  "text": "la",
+  "start": 490.66,
+  "end": 490.78
+ },
+ {
+  "text": "paix.",
+  "start": 490.78,
+  "end": 490.96
+ },
+ {
+  "text": "Avant",
+  "start": 491.4,
+  "end": 491.88
+ },
+ {
+  "text": "de",
+  "start": 491.88,
+  "end": 492.02
+ },
+ {
+  "text": "te",
+  "start": 492.02,
+  "end": 492.12
+ },
+ {
+  "text": "lancer",
+  "start": 492.12,
+  "end": 492.42
+ },
+ {
+  "text": "dans",
+  "start": 492.42,
+  "end": 492.54
+ },
+ {
+  "text": "une",
+  "start": 492.54,
+  "end": 492.66
+ },
+ {
+  "text": "opportunité,",
+  "start": 492.66,
+  "end": 493.28
+ },
+ {
+  "text": "demande-toi,",
+  "start": 493.38,
+  "end": 494.16
+ },
+ {
+  "text": "pourrais-je",
+  "start": 494.24,
+  "end": 494.94
+ },
+ {
+  "text": "l'expliquer",
+  "start": 494.94,
+  "end": 495.42
+ },
+ {
+  "text": "à",
+  "start": 495.42,
+  "end": 495.54
+ },
+ {
+  "text": "voix",
+  "start": 495.54,
+  "end": 495.64
+ },
+ {
+  "text": "haute,",
+  "start": 495.64,
+  "end": 495.96
+ },
+ {
+  "text": "devant",
+  "start": 495.98,
+  "end": 496.42
+ },
+ {
+  "text": "mon",
+  "start": 496.42,
+  "end": 496.56
+ },
+ {
+  "text": "église,",
+  "start": 496.56,
+  "end": 496.98
+ },
+ {
+  "text": "sans",
+  "start": 497.0,
+  "end": 497.36
+ },
+ {
+  "text": "gêne?",
+  "start": 497.36,
+  "end": 497.86
+ },
+ {
+  "text": "Troisième",
+  "start": 498.4,
+  "end": 498.88
+ },
+ {
+  "text": "garde-fou,",
+  "start": 498.88,
+  "end": 499.38
+ },
+ {
+  "text": "fixe",
+  "start": 499.42,
+  "end": 500.2
+ },
+ {
+  "text": "ton",
+  "start": 500.2,
+  "end": 500.42
+ },
+ {
+  "text": "assez.",
+  "start": 500.42,
+  "end": 500.92
+ },
+ {
+  "text": "Fixe",
+  "start": 501.46,
+  "end": 501.94
+ },
+ {
+  "text": "ton",
+  "start": 501.94,
+  "end": 502.14
+ },
+ {
+  "text": "assez.",
+  "start": 502.14,
+  "end": 502.36
+ },
+ {
+  "text": "Assez.",
+  "start": 502.36,
+  "end": 502.46
+ },
+ {
+  "text": "Décide",
+  "start": 503.28,
+  "end": 503.72
+ },
+ {
+  "text": "à",
+  "start": 503.72,
+  "end": 503.88
+ },
+ {
+  "text": "l'avance",
+  "start": 503.88,
+  "end": 504.44
+ },
+ {
+  "text": "quel",
+  "start": 504.44,
+  "end": 504.76
+ },
+ {
+  "text": "niveau",
+  "start": 504.76,
+  "end": 505.14
+ },
+ {
+  "text": "de",
+  "start": 505.14,
+  "end": 505.36
+ },
+ {
+  "text": "vie",
+  "start": 505.36,
+  "end": 505.6
+ },
+ {
+  "text": "te",
+  "start": 505.6,
+  "end": 505.84
+ },
+ {
+  "text": "suffit.",
+  "start": 505.84,
+  "end": 506.46
+ },
+ {
+  "text": "Quand",
+  "start": 506.64,
+  "end": 507.08
+ },
+ {
+  "text": "ton",
+  "start": 507.08,
+  "end": 507.2
+ },
+ {
+  "text": "revenu",
+  "start": 507.2,
+  "end": 507.54
+ },
+ {
+  "text": "monte,",
+  "start": 507.54,
+  "end": 507.74
+ },
+ {
+  "text": "laisse",
+  "start": 507.9,
+  "end": 508.44
+ },
+ {
+  "text": "la",
+  "start": 508.44,
+  "end": 508.58
+ },
+ {
+  "text": "part",
+  "start": 508.58,
+  "end": 508.76
+ },
+ {
+  "text": "supplémentaire",
+  "start": 508.76,
+  "end": 509.54
+ },
+ {
+  "text": "servir",
+  "start": 509.54,
+  "end": 509.88
+ },
+ {
+  "text": "à",
+  "start": 509.88,
+  "end": 510.2
+ },
+ {
+  "text": "épargner,",
+  "start": 510.2,
+  "end": 510.72
+ },
+ {
+  "text": "à",
+  "start": 510.86,
+  "end": 511.08
+ },
+ {
+  "text": "donner",
+  "start": 511.08,
+  "end": 511.46
+ },
+ {
+  "text": "et",
+  "start": 511.46,
+  "end": 511.76
+ },
+ {
+  "text": "à",
+  "start": 511.76,
+  "end": 511.9
+ },
+ {
+  "text": "aider.",
+  "start": 511.9,
+  "end": 512.16
+ },
+ {
+  "text": "Cela",
+  "start": 512.48,
+  "end": 512.92
+ },
+ {
+  "text": "te",
+  "start": 512.92,
+  "end": 513.06
+ },
+ {
+  "text": "protège",
+  "start": 513.06,
+  "end": 513.44
+ },
+ {
+  "text": "d'un",
+  "start": 513.44,
+  "end": 513.62
+ },
+ {
+  "text": "piège",
+  "start": 513.62,
+  "end": 513.84
+ },
+ {
+  "text": "classique,",
+  "start": 513.84,
+  "end": 514.52
+ },
+ {
+  "text": "gagner",
+  "start": 514.58,
+  "end": 515.12
+ },
+ {
+  "text": "de",
+  "start": 515.12,
+  "end": 515.26
+ },
+ {
+  "text": "plus",
+  "start": 515.26,
+  "end": 515.48
+ },
+ {
+  "text": "en",
+  "start": 515.48,
+  "end": 515.62
+ },
+ {
+  "text": "plus",
+  "start": 515.62,
+  "end": 515.8
+ },
+ {
+  "text": "et",
+  "start": 515.8,
+  "end": 516.16
+ },
+ {
+  "text": "ne",
+  "start": 516.16,
+  "end": 516.4
+ },
+ {
+  "text": "jamais",
+  "start": 516.4,
+  "end": 516.9
+ },
+ {
+  "text": "en",
+  "start": 516.9,
+  "end": 517.04
+ },
+ {
+  "text": "avoir",
+  "start": 517.04,
+  "end": 517.24
+ },
+ {
+  "text": "assez.",
+  "start": 517.24,
+  "end": 517.5
+ },
+ {
+  "text": "Quatrième",
+  "start": 518.38,
+  "end": 518.82
+ },
+ {
+  "text": "garde-fou,",
+  "start": 518.82,
+  "end": 519.24
+ },
+ {
+  "text": "protège",
+  "start": 519.32,
+  "end": 520.06
+ },
+ {
+  "text": "tes",
+  "start": 520.06,
+  "end": 520.28
+ },
+ {
+  "text": "priorités.",
+  "start": 520.28,
+  "end": 521.2
+ },
+ {
+  "text": "Ta",
+  "start": 521.3,
+  "end": 521.74
+ },
+ {
+  "text": "famille,",
+  "start": 521.74,
+  "end": 522.06
+ },
+ {
+  "text": "ton",
+  "start": 522.22,
+  "end": 522.44
+ },
+ {
+  "text": "temps",
+  "start": 522.44,
+  "end": 522.62
+ },
+ {
+  "text": "avec",
+  "start": 522.62,
+  "end": 522.82
+ },
+ {
+  "text": "Dieu,",
+  "start": 522.82,
+  "end": 523.04
+ },
+ {
+  "text": "ton",
+  "start": 523.12,
+  "end": 523.3
+ },
+ {
+  "text": "repos.",
+  "start": 523.3,
+  "end": 523.72
+ },
+ {
+  "text": "Si",
+  "start": 523.86,
+  "end": 524.3
+ },
+ {
+  "text": "ton",
+  "start": 524.3,
+  "end": 524.48
+ },
+ {
+  "text": "projet",
+  "start": 524.48,
+  "end": 524.8
+ },
+ {
+  "text": "t'éloigne",
+  "start": 524.8,
+  "end": 525.18
+ },
+ {
+  "text": "de",
+  "start": 525.18,
+  "end": 525.3
+ },
+ {
+  "text": "ta",
+  "start": 525.3,
+  "end": 525.4
+ },
+ {
+  "text": "famille",
+  "start": 525.4,
+  "end": 525.68
+ },
+ {
+  "text": "ou",
+  "start": 525.68,
+  "end": 525.82
+ },
+ {
+  "text": "de",
+  "start": 525.82,
+  "end": 525.9
+ },
+ {
+  "text": "ta",
+  "start": 525.9,
+  "end": 526.02
+ },
+ {
+  "text": "prière,",
+  "start": 526.02,
+  "end": 526.36
+ },
+ {
+  "text": "tu",
+  "start": 526.46,
+  "end": 526.7
+ },
+ {
+  "text": "le",
+  "start": 526.7,
+  "end": 526.8
+ },
+ {
+  "text": "paies",
+  "start": 526.8,
+  "end": 527.06
+ },
+ {
+  "text": "trop",
+  "start": 527.06,
+  "end": 527.34
+ },
+ {
+  "text": "cher.",
+  "start": 527.34,
+  "end": 527.72
+ },
+ {
+  "text": "Un",
+  "start": 528.1,
+  "end": 528.54
+ },
+ {
+  "text": "jour",
+  "start": 528.54,
+  "end": 528.7
+ },
+ {
+  "text": "de",
+  "start": 528.7,
+  "end": 528.8
+ },
+ {
+  "text": "repos,",
+  "start": 528.8,
+  "end": 529.18
+ },
+ {
+  "text": "un",
+  "start": 529.22,
+  "end": 529.52
+ },
+ {
+  "text": "temps",
+  "start": 529.52,
+  "end": 529.66
+ },
+ {
+  "text": "de",
+  "start": 529.66,
+  "end": 529.76
+ },
+ {
+  "text": "prière,",
+  "start": 529.76,
+  "end": 530.1
+ },
+ {
+  "text": "cela",
+  "start": 530.14,
+  "end": 530.46
+ },
+ {
+  "text": "ne",
+  "start": 530.46,
+  "end": 530.64
+ },
+ {
+  "text": "se",
+  "start": 530.64,
+  "end": 530.84
+ },
+ {
+  "text": "négocie",
+  "start": 530.84,
+  "end": 531.38
+ },
+ {
+  "text": "pas.",
+  "start": 531.38,
+  "end": 531.54
+ },
+ {
+  "text": "Cinquième",
+  "start": 532.36,
+  "end": 532.74
+ },
+ {
+  "text": "garde-fou,",
+  "start": 532.74,
+  "end": 533.12
+ },
+ {
+  "text": "entoure-toi.",
+  "start": 533.2,
+  "end": 534.14
+ },
+ {
+  "text": "Parle",
+  "start": 534.62,
+  "end": 535.1
+ },
+ {
+  "text": "de",
+  "start": 535.1,
+  "end": 535.2
+ },
+ {
+  "text": "tes",
+  "start": 535.2,
+  "end": 535.32
+ },
+ {
+  "text": "finances",
+  "start": 535.32,
+  "end": 535.56
+ },
+ {
+  "text": "avec",
+  "start": 535.56,
+  "end": 535.82
+ },
+ {
+  "text": "une",
+  "start": 535.82,
+  "end": 535.96
+ },
+ {
+  "text": "personne",
+  "start": 535.96,
+  "end": 536.22
+ },
+ {
+  "text": "de",
+  "start": 536.22,
+  "end": 536.4
+ },
+ {
+  "text": "confiance.",
+  "start": 536.4,
+  "end": 536.64
+ },
+ {
+  "text": "Ton",
+  "start": 536.92,
+  "end": 537.32
+ },
+ {
+  "text": "conjoint,",
+  "start": 537.32,
+  "end": 537.78
+ },
+ {
+  "text": "un",
+  "start": 537.82,
+  "end": 538.18
+ },
+ {
+  "text": "frère",
+  "start": 538.18,
+  "end": 538.52
+ },
+ {
+  "text": "ou",
+  "start": 538.52,
+  "end": 538.64
+ },
+ {
+  "text": "une",
+  "start": 538.64,
+  "end": 538.74
+ },
+ {
+  "text": "sœur",
+  "start": 538.74,
+  "end": 539.04
+ },
+ {
+  "text": "mûre",
+  "start": 539.04,
+  "end": 539.28
+ },
+ {
+  "text": "dans",
+  "start": 539.28,
+  "end": 539.42
+ },
+ {
+  "text": "la",
+  "start": 539.42,
+  "end": 539.5
+ },
+ {
+  "text": "foi.",
+  "start": 539.5,
+  "end": 539.7
+ },
+ {
+  "text": "Quelqu'un",
+  "start": 539.9,
+  "end": 540.48
+ },
+ {
+  "text": "qui",
+  "start": 540.48,
+  "end": 540.56
+ },
+ {
+  "text": "peut",
+  "start": 540.56,
+  "end": 540.74
+ },
+ {
+  "text": "te",
+  "start": 540.74,
+  "end": 540.84
+ },
+ {
+  "text": "dire",
+  "start": 540.84,
+  "end": 541.1
+ },
+ {
+  "text": "la",
+  "start": 541.1,
+  "end": 541.28
+ },
+ {
+  "text": "vérité.",
+  "start": 541.28,
+  "end": 541.78
+ },
+ {
+  "text": "Les",
+  "start": 541.92,
+  "end": 542.38
+ },
+ {
+  "text": "proverbes",
+  "start": 542.38,
+  "end": 542.74
+ },
+ {
+  "text": "le",
+  "start": 542.74,
+  "end": 542.82
+ },
+ {
+  "text": "disent,",
+  "start": 542.82,
+  "end": 542.98
+ },
+ {
+  "text": "le",
+  "start": 543.14,
+  "end": 543.44
+ },
+ {
+  "text": "salut",
+  "start": 543.44,
+  "end": 543.8
+ },
+ {
+  "text": "est",
+  "start": 543.8,
+  "end": 544.06
+ },
+ {
+  "text": "dans",
+  "start": 544.06,
+  "end": 544.2
+ },
+ {
+  "text": "le",
+  "start": 544.2,
+  "end": 544.28
+ },
+ {
+  "text": "grand",
+  "start": 544.28,
+  "end": 544.54
+ },
+ {
+  "text": "nombre",
+  "start": 544.54,
+  "end": 544.84
+ },
+ {
+  "text": "des",
+  "start": 544.84,
+  "end": 545.0
+ },
+ {
+  "text": "conseillers.",
+  "start": 545.0,
+  "end": 545.44
+ },
+ {
+  "text": "Prenons",
+  "start": 546.06,
+  "end": 546.54
+ },
+ {
+  "text": "un",
+  "start": 546.54,
+  "end": 546.66
+ },
+ {
+  "text": "exemple",
+  "start": 546.66,
+  "end": 546.94
+ },
+ {
+  "text": "concret.",
+  "start": 546.94,
+  "end": 547.32
+ },
+ {
+  "text": "Élise",
+  "start": 547.96,
+  "end": 548.44
+ },
+ {
+  "text": "lance",
+  "start": 548.44,
+  "end": 548.68
+ },
+ {
+  "text": "une",
+  "start": 548.68,
+  "end": 548.92
+ },
+ {
+  "text": "petite",
+  "start": 548.92,
+  "end": 549.32
+ },
+ {
+  "text": "entreprise",
+  "start": 549.32,
+  "end": 549.82
+ },
+ {
+  "text": "de",
+  "start": 549.82,
+  "end": 549.94
+ },
+ {
+  "text": "pâtisserie.",
+  "start": 549.94,
+  "end": 550.36
+ },
+ {
+  "text": "Au",
+  "start": 550.54,
+  "end": 551.0
+ },
+ {
+  "text": "bout",
+  "start": 551.0,
+  "end": 551.14
+ },
+ {
+  "text": "de",
+  "start": 551.14,
+  "end": 551.24
+ },
+ {
+  "text": "deux",
+  "start": 551.24,
+  "end": 551.4
+ },
+ {
+  "text": "ans,",
+  "start": 551.4,
+  "end": 551.58
+ },
+ {
+  "text": "ses",
+  "start": 551.68,
+  "end": 551.94
+ },
+ {
+  "text": "revenus",
+  "start": 551.94,
+  "end": 552.28
+ },
+ {
+  "text": "ont",
+  "start": 552.28,
+  "end": 552.36
+ },
+ {
+  "text": "triplé.",
+  "start": 552.36,
+  "end": 552.74
+ },
+ {
+  "text": "Elle",
+  "start": 552.94,
+  "end": 553.42
+ },
+ {
+  "text": "est",
+  "start": 553.42,
+  "end": 553.52
+ },
+ {
+  "text": "tentée",
+  "start": 553.52,
+  "end": 553.8
+ },
+ {
+  "text": "de",
+  "start": 553.8,
+  "end": 553.9
+ },
+ {
+  "text": "travailler",
+  "start": 553.9,
+  "end": 554.16
+ },
+ {
+  "text": "70",
+  "start": 554.16,
+  "end": 554.56
+ },
+ {
+  "text": "heures",
+  "start": 554.56,
+  "end": 554.9
+ },
+ {
+  "text": "par",
+  "start": 554.9,
+  "end": 555.08
+ },
+ {
+  "text": "semaine,",
+  "start": 555.08,
+  "end": 555.38
+ },
+ {
+  "text": "de",
+  "start": 555.52,
+  "end": 555.7
+ },
+ {
+  "text": "sauter",
+  "start": 555.7,
+  "end": 555.98
+ },
+ {
+  "text": "les",
+  "start": 555.98,
+  "end": 556.16
+ },
+ {
+  "text": "rencontres",
+  "start": 556.16,
+  "end": 556.54
+ },
+ {
+  "text": "de",
+  "start": 556.54,
+  "end": 556.64
+ },
+ {
+  "text": "son",
+  "start": 556.64,
+  "end": 556.76
+ },
+ {
+  "text": "église",
+  "start": 556.76,
+  "end": 557.06
+ },
+ {
+  "text": "et",
+  "start": 557.06,
+  "end": 557.38
+ },
+ {
+  "text": "de",
+  "start": 557.38,
+  "end": 557.52
+ },
+ {
+  "text": "changer",
+  "start": 557.52,
+  "end": 557.82
+ },
+ {
+  "text": "de",
+  "start": 557.82,
+  "end": 557.96
+ },
+ {
+  "text": "voiture.",
+  "start": 557.96,
+  "end": 558.14
+ },
+ {
+  "text": "Alors,",
+  "start": 558.44,
+  "end": 558.92
+ },
+ {
+  "text": "elle",
+  "start": 559.08,
+  "end": 559.42
+ },
+ {
+  "text": "applique",
+  "start": 559.42,
+  "end": 559.76
+ },
+ {
+  "text": "les",
+  "start": 559.76,
+  "end": 559.88
+ },
+ {
+  "text": "cinq",
+  "start": 559.88,
+  "end": 560.16
+ },
+ {
+  "text": "gardes-fous.",
+  "start": 560.16,
+  "end": 560.66
+ },
+ {
+  "text": "Elle",
+  "start": 560.66,
+  "end": 561.5
+ },
+ {
+  "text": "décide",
+  "start": 561.5,
+  "end": 561.88
+ },
+ {
+  "text": "à",
+  "start": 561.88,
+  "end": 561.98
+ },
+ {
+  "text": "l'avance",
+  "start": 561.98,
+  "end": 562.28
+ },
+ {
+  "text": "une",
+  "start": 562.28,
+  "end": 562.46
+ },
+ {
+  "text": "part",
+  "start": 562.46,
+  "end": 562.7
+ },
+ {
+  "text": "de",
+  "start": 562.7,
+  "end": 562.92
+ },
+ {
+  "text": "ses",
+  "start": 562.92,
+  "end": 562.98
+ },
+ {
+  "text": "revenus",
+  "start": 562.98,
+  "end": 563.36
+ },
+ {
+  "text": "à",
+  "start": 563.36,
+  "end": 563.5
+ },
+ {
+  "text": "donner.",
+  "start": 563.5,
+  "end": 563.74
+ },
+ {
+  "text": "Elle",
+  "start": 563.88,
+  "end": 564.32
+ },
+ {
+  "text": "refuse",
+  "start": 564.32,
+  "end": 564.58
+ },
+ {
+  "text": "une",
+  "start": 564.58,
+  "end": 564.78
+ },
+ {
+  "text": "offre",
+  "start": 564.78,
+  "end": 565.04
+ },
+ {
+  "text": "trop",
+  "start": 565.04,
+  "end": 565.24
+ },
+ {
+  "text": "belle",
+  "start": 565.24,
+  "end": 565.44
+ },
+ {
+  "text": "pour",
+  "start": 565.44,
+  "end": 565.6
+ },
+ {
+  "text": "être",
+  "start": 565.6,
+  "end": 565.74
+ },
+ {
+  "text": "honnête.",
+  "start": 565.74,
+  "end": 566.0
+ },
+ {
+  "text": "Elle",
+  "start": 566.24,
+  "end": 566.68
+ },
+ {
+  "text": "fixe",
+  "start": 566.68,
+  "end": 567.04
+ },
+ {
+  "text": "son",
+  "start": 567.04,
+  "end": 567.2
+ },
+ {
+  "text": "AC.",
+  "start": 567.2,
+  "end": 567.54
+ },
+ {
+  "text": "Et",
+  "start": 567.84,
+  "end": 568.28
+ },
+ {
+  "text": "le",
+  "start": 568.28,
+  "end": 568.36
+ },
+ {
+  "text": "reste",
+  "start": 568.36,
+  "end": 568.64
+ },
+ {
+  "text": "sert",
+  "start": 568.64,
+  "end": 568.84
+ },
+ {
+  "text": "à",
+  "start": 568.84,
+  "end": 568.98
+ },
+ {
+  "text": "épargner",
+  "start": 568.98,
+  "end": 569.32
+ },
+ {
+  "text": "et",
+  "start": 569.32,
+  "end": 569.6
+ },
+ {
+  "text": "à",
+  "start": 569.6,
+  "end": 569.74
+ },
+ {
+  "text": "aider.",
+  "start": 569.74,
+  "end": 569.9
+ },
+ {
+  "text": "Elle",
+  "start": 570.36,
+  "end": 570.8
+ },
+ {
+  "text": "garde",
+  "start": 570.8,
+  "end": 571.02
+ },
+ {
+  "text": "son",
+  "start": 571.02,
+  "end": 571.14
+ },
+ {
+  "text": "dimanche,",
+  "start": 571.14,
+  "end": 571.5
+ },
+ {
+  "text": "sans",
+  "start": 571.54,
+  "end": 571.76
+ },
+ {
+  "text": "exception.",
+  "start": 571.76,
+  "end": 572.1
+ },
+ {
+  "text": "Et",
+  "start": 572.46,
+  "end": 572.9
+ },
+ {
+  "text": "chaque",
+  "start": 572.9,
+  "end": 573.1
+ },
+ {
+  "text": "trimestre,",
+  "start": 573.1,
+  "end": 573.66
+ },
+ {
+  "text": "une",
+  "start": 573.74,
+  "end": 573.86
+ },
+ {
+  "text": "amie",
+  "start": 573.86,
+  "end": 574.02
+ },
+ {
+  "text": "de",
+  "start": 574.02,
+  "end": 574.12
+ },
+ {
+  "text": "confiance",
+  "start": 574.12,
+  "end": 574.4
+ },
+ {
+  "text": "regarde",
+  "start": 574.4,
+  "end": 574.76
+ },
+ {
+  "text": "ses",
+  "start": 574.76,
+  "end": 574.96
+ },
+ {
+  "text": "comptes",
+  "start": 574.96,
+  "end": 575.18
+ },
+ {
+  "text": "avec",
+  "start": 575.18,
+  "end": 575.3
+ },
+ {
+  "text": "elle.",
+  "start": 575.3,
+  "end": 575.52
+ },
+ {
+  "text": "Son",
+  "start": 576.2,
+  "end": 576.64
+ },
+ {
+  "text": "entreprise",
+  "start": 576.64,
+  "end": 577.08
+ },
+ {
+  "text": "grandit.",
+  "start": 577.08,
+  "end": 577.62
+ },
+ {
+  "text": "Mais",
+  "start": 577.8,
+  "end": 578.24
+ },
+ {
+  "text": "Élise",
+  "start": 578.24,
+  "end": 578.5
+ },
+ {
+  "text": "ne",
+  "start": 578.5,
+  "end": 578.64
+ },
+ {
+  "text": "sait",
+  "start": 578.64,
+  "end": 578.78
+ },
+ {
+  "text": "pas",
+  "start": 578.78,
+  "end": 578.9
+ },
+ {
+  "text": "de",
+  "start": 578.9,
+  "end": 578.98
+ },
+ {
+  "text": "quoi",
+  "start": 578.98,
+  "end": 579.14
+ },
+ {
+  "text": "demain",
+  "start": 579.14,
+  "end": 579.36
+ },
+ {
+  "text": "sera",
+  "start": 579.36,
+  "end": 579.58
+ },
+ {
+  "text": "fait.",
+  "start": 579.58,
+  "end": 579.8
+ },
+ {
+  "text": "Elle",
+  "start": 579.9,
+  "end": 580.34
+ },
+ {
+  "text": "sait",
+  "start": 580.34,
+  "end": 580.54
+ },
+ {
+  "text": "seulement",
+  "start": 580.54,
+  "end": 580.9
+ },
+ {
+  "text": "ce",
+  "start": 580.9,
+  "end": 581.1
+ },
+ {
+  "text": "qu'elle",
+  "start": 581.1,
+  "end": 581.26
+ },
+ {
+  "text": "protège.",
+  "start": 581.26,
+  "end": 581.7
+ },
+ {
+  "text": "Son",
+  "start": 581.84,
+  "end": 582.28
+ },
+ {
+  "text": "cœur.",
+  "start": 582.28,
+  "end": 582.48
+ },
+ {
+  "text": "Ceci",
+  "start": 583.42,
+  "end": 583.86
+ },
+ {
+  "text": "est",
+  "start": 583.86,
+  "end": 583.98
+ },
+ {
+  "text": "un",
+  "start": 583.98,
+  "end": 584.1
+ },
+ {
+  "text": "exemple",
+  "start": 584.1,
+  "end": 584.4
+ },
+ {
+  "text": "et",
+  "start": 584.4,
+  "end": 584.76
+ },
+ {
+  "text": "il",
+  "start": 584.76,
+  "end": 584.9
+ },
+ {
+  "text": "ne",
+  "start": 584.9,
+  "end": 584.92
+ },
+ {
+  "text": "garantit",
+  "start": 584.92,
+  "end": 585.3
+ },
+ {
+  "text": "aucun",
+  "start": 585.3,
+  "end": 585.6
+ },
+ {
+  "text": "résultat.",
+  "start": 585.6,
+  "end": 586.16
+ },
+ {
+  "text": "Mais",
+  "start": 586.28,
+  "end": 586.72
+ },
+ {
+  "text": "le",
+  "start": 586.72,
+  "end": 586.8
+ },
+ {
+  "text": "principe",
+  "start": 586.8,
+  "end": 587.1
+ },
+ {
+  "text": "peut",
+  "start": 587.1,
+  "end": 587.26
+ },
+ {
+  "text": "s'appliquer",
+  "start": 587.26,
+  "end": 587.7
+ },
+ {
+  "text": "à",
+  "start": 587.7,
+  "end": 587.9
+ },
+ {
+  "text": "chacun.",
+  "start": 587.9,
+  "end": 588.3
+ },
+ {
+  "text": "Retenons",
+  "start": 589.2,
+  "end": 589.64
+ },
+ {
+  "text": "l'essentiel.",
+  "start": 589.64,
+  "end": 590.12
+ },
+ {
+  "text": "La",
+  "start": 590.66,
+  "end": 590.88
+ },
+ {
+  "text": "Bible",
+  "start": 590.88,
+  "end": 591.08
+ },
+ {
+  "text": "n'interdit",
+  "start": 591.08,
+  "end": 591.72
+ },
+ {
+  "text": "pas",
+  "start": 591.72,
+  "end": 591.82
+ },
+ {
+  "text": "la",
+  "start": 591.82,
+  "end": 591.94
+ },
+ {
+  "text": "richesse,",
+  "start": 591.94,
+  "end": 592.34
+ },
+ {
+  "text": "elle",
+  "start": 592.44,
+  "end": 592.8
+ },
+ {
+  "text": "met",
+  "start": 592.8,
+  "end": 592.94
+ },
+ {
+  "text": "en",
+  "start": 592.94,
+  "end": 593.08
+ },
+ {
+  "text": "garde",
+  "start": 593.08,
+  "end": 593.32
+ },
+ {
+  "text": "contre",
+  "start": 593.32,
+  "end": 593.54
+ },
+ {
+  "text": "l'amour",
+  "start": 593.54,
+  "end": 593.94
+ },
+ {
+  "text": "de",
+  "start": 593.94,
+  "end": 594.16
+ },
+ {
+  "text": "l'argent,",
+  "start": 594.16,
+  "end": 594.4
+ },
+ {
+  "text": "l'orgueil,",
+  "start": 594.56,
+  "end": 595.48
+ },
+ {
+  "text": "la",
+  "start": 595.58,
+  "end": 596.04
+ },
+ {
+  "text": "fausse",
+  "start": 596.04,
+  "end": 596.38
+ },
+ {
+  "text": "sécurité",
+  "start": 596.38,
+  "end": 596.7
+ },
+ {
+  "text": "et",
+  "start": 596.7,
+  "end": 597.42
+ },
+ {
+  "text": "l'oubli",
+  "start": 597.42,
+  "end": 597.8
+ },
+ {
+  "text": "de",
+  "start": 597.8,
+  "end": 597.98
+ },
+ {
+  "text": "Dieu.",
+  "start": 597.98,
+  "end": 598.2
+ },
+ {
+  "text": "Pour",
+  "start": 598.94,
+  "end": 599.14
+ },
+ {
+  "text": "garder",
+  "start": 599.14,
+  "end": 599.4
+ },
+ {
+  "text": "ta",
+  "start": 599.4,
+  "end": 599.54
+ },
+ {
+  "text": "foi",
+  "start": 599.54,
+  "end": 599.72
+ },
+ {
+  "text": "à",
+  "start": 599.72,
+  "end": 599.9
+ },
+ {
+  "text": "chaque",
+  "start": 599.9,
+  "end": 600.14
+ },
+ {
+  "text": "niveau",
+  "start": 600.14,
+  "end": 600.44
+ },
+ {
+  "text": "de",
+  "start": 600.44,
+  "end": 600.6
+ },
+ {
+  "text": "revenu,",
+  "start": 600.6,
+  "end": 600.92
+ },
+ {
+  "text": "pose-toi",
+  "start": 600.94,
+  "end": 601.54
+ },
+ {
+  "text": "trois",
+  "start": 601.54,
+  "end": 601.72
+ },
+ {
+  "text": "questions.",
+  "start": 601.72,
+  "end": 602.06
+ },
+ {
+  "text": "1.",
+  "start": 602.76,
+  "end": 603.16
+ },
+ {
+  "text": "Est-ce",
+  "start": 603.36,
+  "end": 603.88
+ },
+ {
+  "text": "que",
+  "start": 603.88,
+  "end": 603.94
+ },
+ {
+  "text": "je",
+  "start": 603.94,
+  "end": 604.12
+ },
+ {
+  "text": "possède",
+  "start": 604.12,
+  "end": 604.54
+ },
+ {
+  "text": "mon",
+  "start": 604.54,
+  "end": 604.66
+ },
+ {
+  "text": "argent",
+  "start": 604.66,
+  "end": 604.94
+ },
+ {
+  "text": "ou",
+  "start": 604.94,
+  "end": 605.3
+ },
+ {
+  "text": "est-ce",
+  "start": 605.3,
+  "end": 605.52
+ },
+ {
+  "text": "qu'il",
+  "start": 605.52,
+  "end": 605.6
+ },
+ {
+  "text": "me",
+  "start": 605.6,
+  "end": 605.7
+ },
+ {
+  "text": "possède?",
+  "start": 605.7,
+  "end": 606.32
+ },
+ {
+  "text": "2.",
+  "start": 606.76,
+  "end": 607.16
+ },
+ {
+  "text": "Est-ce",
+  "start": 607.32,
+  "end": 607.8
+ },
+ {
+  "text": "que",
+  "start": 607.8,
+  "end": 607.84
+ },
+ {
+  "text": "je",
+  "start": 607.84,
+  "end": 607.98
+ },
+ {
+  "text": "remercie",
+  "start": 607.98,
+  "end": 608.36
+ },
+ {
+  "text": "Dieu",
+  "start": 608.36,
+  "end": 608.54
+ },
+ {
+  "text": "pour",
+  "start": 608.54,
+  "end": 608.72
+ },
+ {
+  "text": "ce",
+  "start": 608.72,
+  "end": 608.82
+ },
+ {
+  "text": "que",
+  "start": 608.82,
+  "end": 608.92
+ },
+ {
+  "text": "je",
+  "start": 608.92,
+  "end": 608.98
+ },
+ {
+  "text": "gagne?",
+  "start": 608.98,
+  "end": 609.4
+ },
+ {
+  "text": "3.",
+  "start": 609.92,
+  "end": 610.12
+ },
+ {
+  "text": "Est-ce",
+  "start": 610.3,
+  "end": 610.82
+ },
+ {
+  "text": "que",
+  "start": 610.82,
+  "end": 610.9
+ },
+ {
+  "text": "je",
+  "start": 610.9,
+  "end": 611.04
+ },
+ {
+  "text": "partage",
+  "start": 611.04,
+  "end": 611.64
+ },
+ {
+  "text": "ce",
+  "start": 611.64,
+  "end": 611.82
+ },
+ {
+  "text": "que",
+  "start": 611.82,
+  "end": 611.94
+ },
+ {
+  "text": "je",
+  "start": 611.94,
+  "end": 612.02
+ },
+ {
+  "text": "reçois?",
+  "start": 612.02,
+  "end": 612.52
+ },
+ {
+  "text": "Et",
+  "start": 612.52,
+  "end": 612.92
+ },
+ {
+  "text": "applique",
+  "start": 612.92,
+  "end": 613.6
+ },
+ {
+  "text": "les",
+  "start": 613.6,
+  "end": 613.7
+ },
+ {
+  "text": "cinq",
+  "start": 613.7,
+  "end": 614.0
+ },
+ {
+  "text": "gardes-fous.",
+  "start": 614.0,
+  "end": 614.58
+ },
+ {
+  "text": "Donner",
+  "start": 615.04,
+  "end": 615.4
+ },
+ {
+  "text": "en",
+  "start": 615.4,
+  "end": 615.48
+ },
+ {
+  "text": "premier,",
+  "start": 615.48,
+  "end": 615.7
+ },
+ {
+  "text": "gagner",
+  "start": 615.86,
+  "end": 616.48
+ },
+ {
+  "text": "honnêtement,",
+  "start": 616.48,
+  "end": 617.28
+ },
+ {
+  "text": "fixer",
+  "start": 617.32,
+  "end": 618.02
+ },
+ {
+  "text": "ton",
+  "start": 618.02,
+  "end": 618.16
+ },
+ {
+  "text": "« ",
+  "start": 618.16,
+  "end": 618.24
+ },
+ {
+  "text": "assez",
+  "start": 618.24,
+  "end": 618.66
+ },
+ {
+  "text": "»,",
+  "start": 618.66,
+  "end": 618.9
+ },
+ {
+  "text": "protéger",
+  "start": 618.9,
+  "end": 619.64
+ },
+ {
+  "text": "tes",
+  "start": 619.64,
+  "end": 619.82
+ },
+ {
+  "text": "priorités",
+  "start": 619.82,
+  "end": 620.4
+ },
+ {
+  "text": "et",
+  "start": 620.4,
+  "end": 620.84
+ },
+ {
+  "text": "t'entourer.",
+  "start": 620.84,
+  "end": 621.38
+ },
+ {
+  "text": "Cette",
+  "start": 621.96,
+  "end": 622.32
+ },
+ {
+  "text": "semaine,",
+  "start": 622.32,
+  "end": 622.68
+ },
+ {
+  "text": "choisis",
+  "start": 622.74,
+  "end": 623.1
+ },
+ {
+  "text": "un",
+  "start": 623.1,
+  "end": 623.4
+ },
+ {
+  "text": "seul",
+  "start": 623.4,
+  "end": 623.64
+ },
+ {
+  "text": "garde-fou",
+  "start": 623.64,
+  "end": 624.08
+ },
+ {
+  "text": "et",
+  "start": 624.08,
+  "end": 624.28
+ },
+ {
+  "text": "écris-le",
+  "start": 624.28,
+  "end": 624.8
+ },
+ {
+  "text": "sur",
+  "start": 624.8,
+  "end": 624.96
+ },
+ {
+  "text": "une",
+  "start": 624.96,
+  "end": 625.08
+ },
+ {
+  "text": "feuille.",
+  "start": 625.08,
+  "end": 625.34
+ },
+ {
+  "text": "Ta",
+  "start": 625.58,
+  "end": 625.94
+ },
+ {
+  "text": "foi",
+  "start": 625.94,
+  "end": 626.18
+ },
+ {
+  "text": "n'est",
+  "start": 626.18,
+  "end": 626.42
+ },
+ {
+  "text": "pas",
+  "start": 626.42,
+  "end": 626.6
+ },
+ {
+  "text": "à",
+  "start": 626.6,
+  "end": 626.76
+ },
+ {
+  "text": "vendre",
+  "start": 626.76,
+  "end": 627.14
+ },
+ {
+  "text": "et",
+  "start": 627.14,
+  "end": 627.24
+ },
+ {
+  "text": "elle",
+  "start": 627.24,
+  "end": 627.4
+ },
+ {
+  "text": "ne",
+  "start": 627.4,
+  "end": 627.5
+ },
+ {
+  "text": "dépend",
+  "start": 627.5,
+  "end": 627.78
+ },
+ {
+  "text": "pas",
+  "start": 627.78,
+  "end": 628.06
+ },
+ {
+  "text": "de",
+  "start": 628.06,
+  "end": 628.2
+ },
+ {
+  "text": "ton",
+  "start": 628.2,
+  "end": 628.3
+ },
+ {
+  "text": "salaire.",
+  "start": 628.3,
+  "end": 628.76
+ },
+ {
+  "text": "Et",
+  "start": 629.2,
+  "end": 629.56
+ },
+ {
+  "text": "toi,",
+  "start": 629.56,
+  "end": 629.74
+ },
+ {
+  "text": "quel",
+  "start": 629.86,
+  "end": 630.3
+ },
+ {
+  "text": "est",
+  "start": 630.3,
+  "end": 630.44
+ },
+ {
+  "text": "le",
+  "start": 630.44,
+  "end": 630.52
+ },
+ {
+  "text": "garde-fou",
+  "start": 630.52,
+  "end": 630.96
+ },
+ {
+  "text": "qui",
+  "start": 630.96,
+  "end": 631.06
+ },
+ {
+  "text": "te",
+  "start": 631.06,
+  "end": 631.2
+ },
+ {
+  "text": "manque",
+  "start": 631.2,
+  "end": 631.4
+ },
+ {
+  "text": "le",
+  "start": 631.4,
+  "end": 631.54
+ },
+ {
+  "text": "plus",
+  "start": 631.54,
+  "end": 631.74
+ },
+ {
+  "text": "aujourd'hui?",
+  "start": 631.74,
+  "end": 632.32
+ },
+ {
+  "text": "Dis-le-moi",
+  "start": 632.32,
+  "end": 633.02
+ },
+ {
+  "text": "en",
+  "start": 633.02,
+  "end": 633.12
+ },
+ {
+  "text": "commentaire.",
+  "start": 633.12,
+  "end": 633.52
+ },
+ {
+  "text": "Ton",
+  "start": 633.58,
+  "end": 633.94
+ },
+ {
+  "text": "expérience",
+  "start": 633.94,
+  "end": 634.42
+ },
+ {
+  "text": "peut",
+  "start": 634.42,
+  "end": 634.56
+ },
+ {
+  "text": "aider",
+  "start": 634.56,
+  "end": 634.74
+ },
+ {
+  "text": "quelqu'un",
+  "start": 634.74,
+  "end": 635.12
+ },
+ {
+  "text": "d'autre.",
+  "start": 635.12,
+  "end": 635.3
+ },
+ {
+  "text": "Et",
+  "start": 635.56,
+  "end": 635.88
+ },
+ {
+  "text": "si",
+  "start": 635.88,
+  "end": 636.02
+ },
+ {
+  "text": "cette",
+  "start": 636.02,
+  "end": 636.2
+ },
+ {
+  "text": "vidéo",
+  "start": 636.2,
+  "end": 636.46
+ },
+ {
+  "text": "t'a",
+  "start": 636.46,
+  "end": 636.68
+ },
+ {
+  "text": "fait",
+  "start": 636.68,
+  "end": 636.78
+ },
+ {
+  "text": "du",
+  "start": 636.78,
+  "end": 636.86
+ },
+ {
+  "text": "bien,",
+  "start": 636.86,
+  "end": 637.08
+ },
+ {
+  "text": "abonne-toi",
+  "start": 637.12,
+  "end": 637.86
+ },
+ {
+  "text": "pour",
+  "start": 637.86,
+  "end": 638.02
+ },
+ {
+  "text": "la",
+  "start": 638.02,
+  "end": 638.12
+ },
+ {
+  "text": "suite.",
+  "start": 638.12,
+  "end": 638.3
+ }
+]
