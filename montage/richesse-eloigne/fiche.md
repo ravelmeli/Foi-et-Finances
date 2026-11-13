@@ -1,6 +1,6 @@
 # Fiche vidéo — La richesse peut-elle éloigner de Dieu ?
 
-Format : **Short 9:16**, ~97 s. Statut : décisions prises par Claude. Script : `narration.txt` (290 mots). Voix : générée par l'utilisateur (Gemini TTS, voix Koda, style « Promote »). Style : `ressources/fiche-style-definitive.md` (bonhommes bâtons, repères chrétiens, euros).
+Format : **Short 9:16**, ~88 s. Statut : décisions prises par Claude. Script : `narration.txt` (263 mots). Voix : générée par l'utilisateur (Gemini TTS, voix Koda, style « Promote »). Style : `ressources/fiche-style-definitive.md` (bonhommes bâtons, repères chrétiens, euros).
 Lot de 4 Shorts (règle de `CLAUDE.md`). Acquis appliqués : mots géants, compteur, pièces, séquence « verset » identique (sous-titres coupés, espaces insécables), boucle ouverte refermée, fin qui revient sur la première image, voix vérifiée par transcription, rien sous y ≈ 1400.
 
 ## 1. Sujet
