@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « La richesse peut-elle éloigner de Dieu ? »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. Aucun visage de Dieu ou de Jésus.
+
+## PLANCHE (6 éléments)
+Ordre de découpe : `riche-triste-sac`, `chameau-aiguille`, `porte-etroite-sac`, `baton-mains-ouvertes-pieces`, `coeur-coffre-cadenas`, `baton-leger-lumiere`.
+
+Utilisation : `riche-triste-sac` → accroche et le récit ; `chameau-aiguille` → verset 25 ; `porte-etroite-sac` → « ce qui retient » ; `coeur-coffre-cadenas` → signes d'alerte ; `baton-mains-ouvertes-pieces` → donner et lâcher ; `baton-leger-lumiere` → l'espoir (verset 27) et fin de boucle.
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, a wealthy stick figure of the same style wearing a fine long robe with a decorative belt, walking away slowly with a heavy bulging leather coin bag on his back, head down and a sad drooping face, seen slightly from behind; top middle, a cute funny camel standing in front of a gigantic sewing needle whose eye is a big oval hole, the camel looking at the hole with big surprised eyes, simple friendly cartoon style; top right, a narrow wooden door standing open with a big bulging leather coin bag stuck in the doorway, a few golden euro-style coins spilling, a small stick figure standing at the side looking at it; bottom left, a stick figure standing with both open hands held forward and golden euro-style coins gently falling from his hands, a relieved gentle smile, a tiny simple cross pendant on a thin black cord around the neck, a few small green leaves around; bottom middle, a red heart locked inside a small treasure chest with a big padlock, the chest slightly open with golden euro-style coins around the heart, a tight cramped feeling; bottom right, a light cheerful stick figure with arms slightly raised and a gentle smile, looking up toward a soft green glow in the sky, a few small green leaves floating around him, tiny simple cross pendant on a thin black cord around the neck, a small open door behind him. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).
