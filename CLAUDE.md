@@ -3,6 +3,7 @@
 ## Formats
 - **« Sujet short »** → vidéo **9:16** (1080 × 1920), 1 à 1 min 30 environ.
 - **« Sujet long »** → vidéo **16:9** (1920 × 1080), durée demandée par l'utilisateur.
+- **Shorts par lots de 4 :** l'utilisateur envoie **4 sujets short à la fois**. Pour chaque lot : 4 dossiers `montage/<projet>/` (fiche, script, prompt de planche) livrés **en une seule réponse** (4 scripts + 4 planches), puis, à réception des audios et des planches (dans n'importe quel ordre, à apparier par le contenu), montage et rendu des 4, puis les 4 `titre-description-tags.md`. Les sujets longs restent traités un par un.
 
 ## Méthode
 - Une fiche par sujet (`montage/<projet>/fiche.md`, modèle `ressources/modele-fiche-video.md`), avant le script. Claude répond lui-même aux questions de la fiche (verset, adresse, durée, fin).
