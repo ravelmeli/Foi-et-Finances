@@ -54,7 +54,7 @@ def verse_block(stn, ref_txt, t_ref, verse_html, t_text, marks, size=54, ref_y=1
     blur_in(v, t_text - 0.1, 20)
     for k, mt in enumerate(marks):
         tween(f"#{v} .m{k} i", "scaleX: 0", 'scaleX: 1, duration: 0.45, ease: "power3.out"', mt)
-    ref(stn, 70, ref_y, (ref_label or ref_txt.upper()) + " · LSG 1910", t_ref + 0.3)
+    ref(stn, 70, ref_y, (ref_label or ref_txt.upper()) + " · LSG 1910", t_text + 0.3)
 
 
 W_PX = 1080 - 2 * 70 - 60
@@ -91,7 +91,7 @@ hit(12.2, 0.7)
 cam(13.6, S4)
 headline(S4, 280, ["L'homme", "[prudent]"], 13.7, kicker="Livre des Proverbes", hl_t=19.2, size=110)
 verse = ("«&nbsp;L'homme simple " + m(0, "croit tout ce qu'on dit") + ", mais " + m(1, "l'homme prudent est attentif à ses pas") + ".&nbsp;»")
-verse_block(S4, "Proverbes 14.15", 15.4, verse, 16.9, [W("croit", 16.0), W("prudent", 16.0)], size=56, ref_label="PROVERBES 14.15")
+verse_block(S4, "Proverbes 14.15", 15.4, verse, 16.9, [W("croit", 16.0), W("prudent", 16.0)], size=50, ref_label="PROVERBES 14.15")
 sticker(S4, "livre-croix-ouvert", 60, 1110, 380, 14.0, rot=-3)
 sticker(S4, "croix-verte", 580, 1090, 190, 18.0, rot=4)
 hit(21.0, 1.0)

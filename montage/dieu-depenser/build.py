@@ -54,7 +54,7 @@ def verse_block(stn, ref_txt, t_ref, verse_html, t_text, marks, size=54, ref_y=1
     blur_in(v, t_text - 0.1, 20)
     for k, mt in enumerate(marks):
         tween(f"#{v} .m{k} i", "scaleX: 0", 'scaleX: 1, duration: 0.45, ease: "power3.out"', mt)
-    ref(stn, 70, ref_y, (ref_label or ref_txt.upper()) + " · LSG 1910", t_ref + 0.3)
+    ref(stn, 70, ref_y, (ref_label or ref_txt.upper()) + " · LSG 1910", t_text + 0.3)
 
 
 W_PX = 1080 - 2 * 70 - 60
