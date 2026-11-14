@@ -1,0 +1,1242 @@
+[
+ {
+  "text": "Gagner",
+  "start": 0.0,
+  "end": 0.7
+ },
+ {
+  "text": "de",
+  "start": 0.7,
+  "end": 0.84
+ },
+ {
+  "text": "l'argent,",
+  "start": 0.84,
+  "end": 1.16
+ },
+ {
+  "text": "à",
+  "start": 1.32,
+  "end": 1.78
+ },
+ {
+  "text": "n'importe",
+  "start": 1.78,
+  "end": 2.36
+ },
+ {
+  "text": "quel",
+  "start": 2.36,
+  "end": 2.7
+ },
+ {
+  "text": "prix,",
+  "start": 2.7,
+  "end": 2.96
+ },
+ {
+  "text": "reste",
+  "start": 3.1,
+  "end": 4.02
+ },
+ {
+  "text": "jusqu'au",
+  "start": 4.02,
+  "end": 4.56
+ },
+ {
+  "text": "bout",
+  "start": 4.56,
+  "end": 4.68
+ },
+ {
+  "text": "la",
+  "start": 4.68,
+  "end": 5.14
+ },
+ {
+  "text": "deuxième",
+  "start": 5.14,
+  "end": 5.54
+ },
+ {
+  "text": "raison",
+  "start": 5.54,
+  "end": 5.84
+ },
+ {
+  "text": "pour",
+  "start": 5.84,
+  "end": 6.06
+ },
+ {
+  "text": "laquelle",
+  "start": 6.06,
+  "end": 6.3
+ },
+ {
+  "text": "l'honnêteté",
+  "start": 6.3,
+  "end": 6.92
+ },
+ {
+  "text": "vaut",
+  "start": 6.92,
+  "end": 7.24
+ },
+ {
+  "text": "le",
+  "start": 7.24,
+  "end": 7.32
+ },
+ {
+  "text": "coup,",
+  "start": 7.32,
+  "end": 7.46
+ },
+ {
+  "text": "ne",
+  "start": 7.56,
+  "end": 7.98
+ },
+ {
+  "text": "soit",
+  "start": 7.98,
+  "end": 8.2
+ },
+ {
+  "text": "pas",
+  "start": 8.2,
+  "end": 8.44
+ },
+ {
+  "text": "sur",
+  "start": 8.44,
+  "end": 8.6
+ },
+ {
+  "text": "ton",
+  "start": 8.6,
+  "end": 8.74
+ },
+ {
+  "text": "compte",
+  "start": 8.74,
+  "end": 8.92
+ },
+ {
+  "text": "en",
+  "start": 8.92,
+  "end": 9.06
+ },
+ {
+  "text": "banque.",
+  "start": 9.06,
+  "end": 9.36
+ },
+ {
+  "text": "Lettre",
+  "start": 10.02,
+  "end": 10.5
+ },
+ {
+  "text": "aux",
+  "start": 10.5,
+  "end": 10.62
+ },
+ {
+  "text": "Éphésiens,",
+  "start": 10.62,
+  "end": 11.14
+ },
+ {
+  "text": "chapitre",
+  "start": 11.2,
+  "end": 11.62
+ },
+ {
+  "text": "4,",
+  "start": 11.62,
+  "end": 11.86
+ },
+ {
+  "text": "verset",
+  "start": 12.02,
+  "end": 12.34
+ },
+ {
+  "text": "28.",
+  "start": 12.34,
+  "end": 12.6
+ },
+ {
+  "text": "Que",
+  "start": 13.18,
+  "end": 13.66
+ },
+ {
+  "text": "celui",
+  "start": 13.66,
+  "end": 13.9
+ },
+ {
+  "text": "qui",
+  "start": 13.9,
+  "end": 14.1
+ },
+ {
+  "text": "dérobait",
+  "start": 14.1,
+  "end": 14.56
+ },
+ {
+  "text": "ne",
+  "start": 14.56,
+  "end": 14.84
+ },
+ {
+  "text": "dérobe",
+  "start": 14.84,
+  "end": 15.22
+ },
+ {
+  "text": "plus,",
+  "start": 15.22,
+  "end": 15.38
+ },
+ {
+  "text": "mais",
+  "start": 15.52,
+  "end": 16.0
+ },
+ {
+  "text": "plutôt",
+  "start": 16.0,
+  "end": 16.24
+ },
+ {
+  "text": "qu'il",
+  "start": 16.24,
+  "end": 16.46
+ },
+ {
+  "text": "travaille,",
+  "start": 16.46,
+  "end": 16.84
+ },
+ {
+  "text": "faisant",
+  "start": 17.1,
+  "end": 17.62
+ },
+ {
+  "text": "de",
+  "start": 17.62,
+  "end": 17.72
+ },
+ {
+  "text": "ses",
+  "start": 17.72,
+  "end": 17.82
+ },
+ {
+  "text": "mains",
+  "start": 17.82,
+  "end": 17.98
+ },
+ {
+  "text": "ce",
+  "start": 17.98,
+  "end": 18.1
+ },
+ {
+  "text": "qui",
+  "start": 18.1,
+  "end": 18.22
+ },
+ {
+  "text": "est",
+  "start": 18.22,
+  "end": 18.32
+ },
+ {
+  "text": "bien,",
+  "start": 18.32,
+  "end": 18.56
+ },
+ {
+  "text": "afin",
+  "start": 18.66,
+  "end": 19.12
+ },
+ {
+  "text": "d'avoir",
+  "start": 19.12,
+  "end": 19.4
+ },
+ {
+  "text": "de",
+  "start": 19.4,
+  "end": 19.56
+ },
+ {
+  "text": "quoi",
+  "start": 19.56,
+  "end": 19.72
+ },
+ {
+  "text": "donner",
+  "start": 19.72,
+  "end": 20.08
+ },
+ {
+  "text": "à",
+  "start": 20.08,
+  "end": 20.32
+ },
+ {
+  "text": "celui",
+  "start": 20.32,
+  "end": 20.66
+ },
+ {
+  "text": "qui",
+  "start": 20.66,
+  "end": 20.88
+ },
+ {
+  "text": "est",
+  "start": 20.88,
+  "end": 20.98
+ },
+ {
+  "text": "dans",
+  "start": 20.98,
+  "end": 21.1
+ },
+ {
+  "text": "le",
+  "start": 21.1,
+  "end": 21.16
+ },
+ {
+  "text": "besoin.",
+  "start": 21.16,
+  "end": 21.42
+ },
+ {
+  "text": "Ce",
+  "start": 22.28,
+  "end": 22.76
+ },
+ {
+  "text": "verset",
+  "start": 22.76,
+  "end": 23.18
+ },
+ {
+  "text": "donne",
+  "start": 23.18,
+  "end": 23.36
+ },
+ {
+  "text": "un",
+  "start": 23.36,
+  "end": 23.46
+ },
+ {
+  "text": "principe",
+  "start": 23.46,
+  "end": 23.74
+ },
+ {
+  "text": "en",
+  "start": 23.74,
+  "end": 24.0
+ },
+ {
+  "text": "trois",
+  "start": 24.0,
+  "end": 24.26
+ },
+ {
+  "text": "temps.",
+  "start": 24.26,
+  "end": 24.46
+ },
+ {
+  "text": "Arrête",
+  "start": 25.0,
+  "end": 25.48
+ },
+ {
+  "text": "de",
+  "start": 25.48,
+  "end": 25.56
+ },
+ {
+  "text": "prendre,",
+  "start": 25.56,
+  "end": 25.76
+ },
+ {
+  "text": "travaille",
+  "start": 26.0,
+  "end": 26.6
+ },
+ {
+  "text": "honnêtement",
+  "start": 26.6,
+  "end": 27.12
+ },
+ {
+  "text": "et",
+  "start": 27.12,
+  "end": 27.6
+ },
+ {
+  "text": "donne.",
+  "start": 27.6,
+  "end": 27.96
+ },
+ {
+  "text": "Voici",
+  "start": 28.74,
+  "end": 29.18
+ },
+ {
+  "text": "ce",
+  "start": 29.18,
+  "end": 29.32
+ },
+ {
+  "text": "que",
+  "start": 29.32,
+  "end": 29.4
+ },
+ {
+  "text": "cela",
+  "start": 29.4,
+  "end": 29.54
+ },
+ {
+  "text": "change",
+  "start": 29.54,
+  "end": 29.8
+ },
+ {
+  "text": "pour",
+  "start": 29.8,
+  "end": 29.98
+ },
+ {
+  "text": "ton",
+  "start": 29.98,
+  "end": 30.14
+ },
+ {
+  "text": "argent.",
+  "start": 30.14,
+  "end": 30.36
+ },
+ {
+  "text": "1.",
+  "start": 31.06,
+  "end": 31.5
+ },
+ {
+  "text": "L'argent",
+  "start": 31.7,
+  "end": 32.34
+ },
+ {
+  "text": "honnête",
+  "start": 32.34,
+  "end": 32.68
+ },
+ {
+  "text": "se",
+  "start": 32.68,
+  "end": 32.8
+ },
+ {
+  "text": "gagne",
+  "start": 32.8,
+  "end": 33.18
+ },
+ {
+  "text": "sans",
+  "start": 33.18,
+  "end": 33.58
+ },
+ {
+  "text": "tromperie.",
+  "start": 33.58,
+  "end": 34.08
+ },
+ {
+  "text": "Pas",
+  "start": 34.4,
+  "end": 34.84
+ },
+ {
+  "text": "de",
+  "start": 34.84,
+  "end": 34.94
+ },
+ {
+  "text": "mensonge",
+  "start": 34.94,
+  "end": 35.3
+ },
+ {
+  "text": "sur",
+  "start": 35.3,
+  "end": 35.42
+ },
+ {
+  "text": "un",
+  "start": 35.42,
+  "end": 35.58
+ },
+ {
+  "text": "prix,",
+  "start": 35.58,
+  "end": 35.74
+ },
+ {
+  "text": "pas",
+  "start": 35.84,
+  "end": 36.2
+ },
+ {
+  "text": "de",
+  "start": 36.2,
+  "end": 36.34
+ },
+ {
+  "text": "revenu",
+  "start": 36.34,
+  "end": 36.58
+ },
+ {
+  "text": "caché,",
+  "start": 36.58,
+  "end": 36.94
+ },
+ {
+  "text": "pas",
+  "start": 36.96,
+  "end": 37.3
+ },
+ {
+  "text": "de",
+  "start": 37.3,
+  "end": 37.44
+ },
+ {
+  "text": "promesses",
+  "start": 37.44,
+  "end": 37.72
+ },
+ {
+  "text": "exagérées",
+  "start": 37.72,
+  "end": 38.18
+ },
+ {
+  "text": "à",
+  "start": 38.18,
+  "end": 38.3
+ },
+ {
+  "text": "un",
+  "start": 38.3,
+  "end": 38.34
+ },
+ {
+  "text": "client.",
+  "start": 38.34,
+  "end": 38.58
+ },
+ {
+  "text": "2.",
+  "start": 39.32,
+  "end": 39.76
+ },
+ {
+  "text": "L'argent",
+  "start": 39.86,
+  "end": 40.54
+ },
+ {
+  "text": "honnête",
+  "start": 40.54,
+  "end": 40.84
+ },
+ {
+  "text": "te",
+  "start": 40.84,
+  "end": 41.06
+ },
+ {
+  "text": "laisse",
+  "start": 41.06,
+  "end": 41.3
+ },
+ {
+  "text": "en",
+  "start": 41.3,
+  "end": 41.7
+ },
+ {
+  "text": "paix.",
+  "start": 41.7,
+  "end": 42.04
+ },
+ {
+  "text": "Tu",
+  "start": 42.42,
+  "end": 42.86
+ },
+ {
+  "text": "n'as",
+  "start": 42.86,
+  "end": 43.04
+ },
+ {
+  "text": "pas",
+  "start": 43.04,
+  "end": 43.12
+ },
+ {
+  "text": "peur",
+  "start": 43.12,
+  "end": 43.28
+ },
+ {
+  "text": "d'un",
+  "start": 43.28,
+  "end": 43.42
+ },
+ {
+  "text": "contrôle,",
+  "start": 43.42,
+  "end": 43.72
+ },
+ {
+  "text": "d'une",
+  "start": 43.94,
+  "end": 44.28
+ },
+ {
+  "text": "conversation,",
+  "start": 44.28,
+  "end": 44.64
+ },
+ {
+  "text": "ni",
+  "start": 44.84,
+  "end": 45.14
+ },
+ {
+  "text": "de",
+  "start": 45.14,
+  "end": 45.22
+ },
+ {
+  "text": "ton",
+  "start": 45.22,
+  "end": 45.36
+ },
+ {
+  "text": "propre",
+  "start": 45.36,
+  "end": 45.62
+ },
+ {
+  "text": "regard.",
+  "start": 45.62,
+  "end": 45.9
+ },
+ {
+  "text": "C'est",
+  "start": 46.24,
+  "end": 46.9
+ },
+ {
+  "text": "la",
+  "start": 46.9,
+  "end": 47.14
+ },
+ {
+  "text": "raison",
+  "start": 47.14,
+  "end": 47.38
+ },
+ {
+  "text": "qui",
+  "start": 47.38,
+  "end": 47.54
+ },
+ {
+  "text": "ne",
+  "start": 47.54,
+  "end": 47.62
+ },
+ {
+  "text": "se",
+  "start": 47.62,
+  "end": 47.78
+ },
+ {
+  "text": "voit",
+  "start": 47.78,
+  "end": 47.94
+ },
+ {
+  "text": "pas",
+  "start": 47.94,
+  "end": 48.08
+ },
+ {
+  "text": "sur",
+  "start": 48.08,
+  "end": 48.24
+ },
+ {
+  "text": "ton",
+  "start": 48.24,
+  "end": 48.38
+ },
+ {
+  "text": "compte.",
+  "start": 48.38,
+  "end": 48.62
+ },
+ {
+  "text": "3.",
+  "start": 49.5,
+  "end": 49.94
+ },
+ {
+  "text": "L'argent",
+  "start": 50.1,
+  "end": 50.74
+ },
+ {
+  "text": "honnête",
+  "start": 50.74,
+  "end": 51.04
+ },
+ {
+  "text": "te",
+  "start": 51.04,
+  "end": 51.28
+ },
+ {
+  "text": "permet",
+  "start": 51.28,
+  "end": 51.54
+ },
+ {
+  "text": "de",
+  "start": 51.54,
+  "end": 51.72
+ },
+ {
+  "text": "donner,",
+  "start": 51.72,
+  "end": 52.0
+ },
+ {
+  "text": "avec",
+  "start": 52.12,
+  "end": 52.68
+ },
+ {
+  "text": "un",
+  "start": 52.68,
+  "end": 52.82
+ },
+ {
+  "text": "cœur",
+  "start": 52.82,
+  "end": 53.02
+ },
+ {
+  "text": "libre.",
+  "start": 53.02,
+  "end": 53.54
+ },
+ {
+  "text": "Attention,",
+  "start": 55.04,
+  "end": 55.48
+ },
+ {
+  "text": "honnête",
+  "start": 55.48,
+  "end": 55.92
+ },
+ {
+  "text": "ne",
+  "start": 55.92,
+  "end": 56.12
+ },
+ {
+  "text": "veut",
+  "start": 56.12,
+  "end": 56.26
+ },
+ {
+  "text": "pas",
+  "start": 56.26,
+  "end": 56.44
+ },
+ {
+  "text": "dire",
+  "start": 56.44,
+  "end": 56.6
+ },
+ {
+  "text": "facile.",
+  "start": 56.6,
+  "end": 56.9
+ },
+ {
+  "text": "Un",
+  "start": 56.9,
+  "end": 57.66
+ },
+ {
+  "text": "travail",
+  "start": 57.66,
+  "end": 57.94
+ },
+ {
+  "text": "honnête",
+  "start": 57.94,
+  "end": 58.24
+ },
+ {
+  "text": "peut",
+  "start": 58.24,
+  "end": 58.38
+ },
+ {
+  "text": "être",
+  "start": 58.38,
+  "end": 58.56
+ },
+ {
+  "text": "modeste,",
+  "start": 58.56,
+  "end": 59.08
+ },
+ {
+  "text": "long,",
+  "start": 59.16,
+  "end": 59.6
+ },
+ {
+  "text": "mal",
+  "start": 59.76,
+  "end": 60.26
+ },
+ {
+  "text": "payé.",
+  "start": 60.26,
+  "end": 60.58
+ },
+ {
+  "text": "Et",
+  "start": 61.0,
+  "end": 61.44
+ },
+ {
+  "text": "honnête",
+  "start": 61.44,
+  "end": 61.98
+ },
+ {
+  "text": "ne",
+  "start": 61.98,
+  "end": 62.14
+ },
+ {
+  "text": "veut",
+  "start": 62.14,
+  "end": 62.3
+ },
+ {
+  "text": "pas",
+  "start": 62.3,
+  "end": 62.5
+ },
+ {
+  "text": "dire",
+  "start": 62.5,
+  "end": 62.68
+ },
+ {
+  "text": "parfait.",
+  "start": 62.68,
+  "end": 63.02
+ },
+ {
+  "text": "Si",
+  "start": 63.34,
+  "end": 63.78
+ },
+ {
+  "text": "tu",
+  "start": 63.78,
+  "end": 63.9
+ },
+ {
+  "text": "as",
+  "start": 63.9,
+  "end": 64.0
+ },
+ {
+  "text": "mal",
+  "start": 64.0,
+  "end": 64.12
+ },
+ {
+  "text": "agi,",
+  "start": 64.12,
+  "end": 64.38
+ },
+ {
+  "text": "tu",
+  "start": 64.4,
+  "end": 64.78
+ },
+ {
+  "text": "peux",
+  "start": 64.78,
+  "end": 64.96
+ },
+ {
+  "text": "réparer,",
+  "start": 64.96,
+  "end": 65.38
+ },
+ {
+  "text": "rembourser,",
+  "start": 65.4,
+  "end": 66.38
+ },
+ {
+  "text": "corriger,",
+  "start": 66.4,
+  "end": 67.0
+ },
+ {
+  "text": "demander",
+  "start": 67.14,
+  "end": 67.58
+ },
+ {
+  "text": "pardon",
+  "start": 67.58,
+  "end": 67.92
+ },
+ {
+  "text": "et",
+  "start": 67.92,
+  "end": 68.38
+ },
+ {
+  "text": "recommencer.",
+  "start": 68.38,
+  "end": 68.94
+ },
+ {
+  "text": "Ce",
+  "start": 69.74,
+  "end": 70.18
+ },
+ {
+  "text": "principe",
+  "start": 70.18,
+  "end": 70.52
+ },
+ {
+  "text": "ne",
+  "start": 70.52,
+  "end": 70.8
+ },
+ {
+  "text": "promet",
+  "start": 70.8,
+  "end": 71.08
+ },
+ {
+  "text": "pas",
+  "start": 71.08,
+  "end": 71.3
+ },
+ {
+  "text": "un",
+  "start": 71.3,
+  "end": 71.48
+ },
+ {
+  "text": "meilleur",
+  "start": 71.48,
+  "end": 71.8
+ },
+ {
+  "text": "salaire,",
+  "start": 71.8,
+  "end": 72.28
+ },
+ {
+  "text": "il",
+  "start": 72.34,
+  "end": 72.76
+ },
+ {
+  "text": "protège",
+  "start": 72.76,
+  "end": 73.3
+ },
+ {
+  "text": "ton",
+  "start": 73.3,
+  "end": 73.48
+ },
+ {
+  "text": "cœur.",
+  "start": 73.48,
+  "end": 73.7
+ },
+ {
+  "text": "Alors",
+  "start": 74.4,
+  "end": 74.84
+ },
+ {
+  "text": "cette",
+  "start": 74.84,
+  "end": 75.06
+ },
+ {
+  "text": "semaine,",
+  "start": 75.06,
+  "end": 75.36
+ },
+ {
+  "text": "passe",
+  "start": 75.48,
+  "end": 75.9
+ },
+ {
+  "text": "en",
+  "start": 75.9,
+  "end": 76.02
+ },
+ {
+  "text": "revue",
+  "start": 76.02,
+  "end": 76.3
+ },
+ {
+  "text": "tes",
+  "start": 76.3,
+  "end": 76.38
+ },
+ {
+  "text": "sources",
+  "start": 76.38,
+  "end": 76.58
+ },
+ {
+  "text": "de",
+  "start": 76.58,
+  "end": 76.76
+ },
+ {
+  "text": "revenus.",
+  "start": 76.76,
+  "end": 77.06
+ },
+ {
+  "text": "Y",
+  "start": 77.32,
+  "end": 77.72
+ },
+ {
+  "text": "en",
+  "start": 77.72,
+  "end": 77.82
+ },
+ {
+  "text": "a-t-il",
+  "start": 77.82,
+  "end": 78.12
+ },
+ {
+  "text": "une",
+  "start": 78.12,
+  "end": 78.32
+ },
+ {
+  "text": "qui",
+  "start": 78.32,
+  "end": 78.48
+ },
+ {
+  "text": "te",
+  "start": 78.48,
+  "end": 78.62
+ },
+ {
+  "text": "met",
+  "start": 78.62,
+  "end": 78.76
+ },
+ {
+  "text": "mal",
+  "start": 78.76,
+  "end": 78.94
+ },
+ {
+  "text": "à",
+  "start": 78.94,
+  "end": 79.06
+ },
+ {
+  "text": "l'aise?",
+  "start": 79.06,
+  "end": 79.38
+ },
+ {
+  "text": "Si",
+  "start": 79.86,
+  "end": 80.08
+ },
+ {
+  "text": "oui,",
+  "start": 80.08,
+  "end": 80.28
+ },
+ {
+  "text": "corrige-la.",
+  "start": 80.4,
+  "end": 81.1
+ },
+ {
+  "text": "Quelle",
+  "start": 81.84,
+  "end": 82.28
+ },
+ {
+  "text": "habitude",
+  "start": 82.28,
+  "end": 82.62
+ },
+ {
+  "text": "d'honnêteté",
+  "start": 82.62,
+  "end": 83.06
+ },
+ {
+  "text": "vas-tu",
+  "start": 83.06,
+  "end": 83.3
+ },
+ {
+  "text": "renforcer",
+  "start": 83.3,
+  "end": 83.8
+ },
+ {
+  "text": "cette",
+  "start": 83.8,
+  "end": 84.08
+ },
+ {
+  "text": "semaine?",
+  "start": 84.08,
+  "end": 84.64
+ },
+ {
+  "text": "Dis-lui",
+  "start": 84.64,
+  "end": 85.32
+ },
+ {
+  "text": "en",
+  "start": 85.32,
+  "end": 85.4
+ },
+ {
+  "text": "commentaire",
+  "start": 85.4,
+  "end": 85.88
+ },
+ {
+  "text": "et",
+  "start": 85.88,
+  "end": 86.1
+ },
+ {
+  "text": "abonne-toi.",
+  "start": 86.1,
+  "end": 86.5
+ },
+ {
+  "text": "Et",
+  "start": 87.06,
+  "end": 87.5
+ },
+ {
+  "text": "souviens-toi,",
+  "start": 87.5,
+  "end": 87.94
+ },
+ {
+  "text": "l'argent",
+  "start": 88.04,
+  "end": 88.8
+ },
+ {
+  "text": "honnête",
+  "start": 88.8,
+  "end": 89.22
+ },
+ {
+  "text": "n'a",
+  "start": 89.22,
+  "end": 89.62
+ },
+ {
+  "text": "pas",
+  "start": 89.62,
+  "end": 89.76
+ },
+ {
+  "text": "besoin",
+  "start": 89.76,
+  "end": 89.98
+ },
+ {
+  "text": "de",
+  "start": 89.98,
+  "end": 90.16
+ },
+ {
+  "text": "se",
+  "start": 90.16,
+  "end": 90.18
+ },
+ {
+  "text": "cacher.",
+  "start": 90.18,
+  "end": 90.46
+ }
+]
