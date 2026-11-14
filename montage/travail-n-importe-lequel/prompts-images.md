@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « Faut-il accepter n'importe quel travail pour gagner plus ? »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. Aucun visage de Dieu ou de Jésus.
+
+## PLANCHE (6 éléments)
+Ordre de découpe : `baton-tablier-fier`, `baton-refuse-offre`, `balance-famille-argent`, `liste-cinq-cases`, `baton-marche-etape`, `baton-dort-paix`.
+
+Utilisation : `baton-tablier-fier` → accroche et dignité du travail ; `baton-refuse-offre` → la limite (verset) ; `liste-cinq-cases` → les cinq questions ; `balance-famille-argent` → famille et santé ; `baton-marche-etape` → travail temporaire (étape) ; `baton-dort-paix` → conscience tranquille et fin de boucle.
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, a proud smiling stick figure wearing a simple work apron and holding a broom and a bucket, standing tall with his chest out, a few small sparkles of clean floor around him, dignified humble work; top middle, a stick figure standing firm and calm, pushing away with one open hand a shiny envelope offered by a mysterious hand coming out of a dark doorway, the envelope glowing suspiciously, a tiny simple cross pendant on a thin black cord around the neck; top right, a two-pan scale where the left pan holds a big bulging money bag and goes up because it is lighter, and the right pan holds a small house with a red heart and goes down because it is heavier, a green leaf on the pillar; bottom left, a clipboard with five large empty check boxes in a column and a pencil, a small question mark floating above it, no writing; bottom middle, a stick figure carrying a small suitcase and stepping up onto a single stair step, with a green arrow pointing to the next higher step, hopeful and determined face; bottom right, a stick figure sleeping peacefully in a simple bed under a blanket, a small crescent moon and a few stars in the window, a small heart floating above him, a tiny green plant on the bedside table. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).
