@@ -1,6 +1,6 @@
 # Fiche vidéo longue — Comment prendre de sages décisions financières selon la Bible
 
-Format : **16:9** (sujet long), ~10 min avec la carte de fin. Statut : décisions prises par Claude. Script : `narration.txt` (~1800 mots).
+Format : **16:9** (sujet long), ~8 min avec la carte de fin. Statut : décisions prises par Claude. Script : `narration.txt` (~1510 mots).
 Voix fournie par l'utilisateur (Gemini TTS, Koda) ; vérification par transcription, silences raccourcis.
 
 ## 1. Sujet
