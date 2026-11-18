@@ -29,12 +29,12 @@ Chapitres :
 0:55 Passage 1 : confier ton cœur à Dieu (Proverbes 3:5-6)
 1:50 Passage 2 : demander la sagesse (Jacques 1:5)
 2:25 Passage 3 : les conseillers (Proverbes 15:22)
-3:17 Passage 4 : l'homme prudent (Proverbes 14:15)
-3:53 Passage 5 : la précipitation (Proverbes 19:2)
+3:16 Passage 4 : l'homme prudent (Proverbes 14:15)
+3:52 Passage 5 : la précipitation (Proverbes 19:2)
 4:26 Les cinq étapes avant de décider
 5:57 Quatre signaux d'alerte
 6:55 Un exemple concret : Nadia et Samir
-7:49 L'essentiel à retenir
+7:48 L'essentiel à retenir
 8:21 Ton action cette semaine
 
 Passages bibliques abordés : Proverbes 3:5-6, Jacques 1:5, Proverbes 15:22, Proverbes 14:15 et Proverbes 19:2 (Louis Segond 1910).
