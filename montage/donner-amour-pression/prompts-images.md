@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « Donner par amour ou par pression religieuse ? »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. Aucun visage de Dieu ou de Jésus. Aucune marque, aucun logo.
+
+## PLANCHE (6 éléments)
+Ordre de découpe : `baton-donne-pression`, `baton-donne-joie`, `balance-coeur-chaine`, `baton-donne-cache`, `liste-trois-cases`, `baton-libre-calme`.
+
+Utilisation : `baton-donne-pression` → accroche (le poids) ; `baton-donne-joie` → verset (avec joie) ; `balance-coeur-chaine` → contrainte contre liberté ; `baton-donne-cache` → question 1 (si personne ne le savait) ; `liste-trois-cases` → le test ; `baton-libre-calme` → fin (libre, sans pression).
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, a stick figure looking tense and sweating, holding out a plain envelope with one hand while a big heavy stone block with a chain is tied to the other arm, a pointing finger shape coming from the corner above him, a pressured feeling; top middle, a stick figure smiling warmly with closed happy eyes, gently handing a plain envelope with a small red heart on it, small sparkles around, a tiny simple cross pendant on a thin black cord around the neck; top right, a two-pan scale where the left pan holds a big red heart and goes down because it is heavier, and the right pan holds a heavy iron chain and goes up because it is lighter, a green leaf on the pillar; bottom left, a stick figure dropping a plain folded envelope quietly into a small open box, with a tiny closed eye symbol above him to show that nobody is watching, a gentle feeling; bottom middle, a clipboard with three large empty check boxes in a column and a pencil, a small question mark floating above it, no writing; bottom right, a stick figure standing relaxed with one palm raised in a calm gentle stop gesture and a peaceful smile, a few small green leaves around him, a tiny simple cross pendant on a thin black cord around the neck. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).

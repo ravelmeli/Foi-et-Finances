@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « Peut-on faire confiance à tous les investissements chrétiens ? »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. Aucun visage de Dieu ou de Jésus. Aucune marque, aucun logo.
+
+## PLANCHE (6 éléments)
+Ordre de découpe : `panneau-croix-brillant`, `loup-peau-mouton`, `drapeau-rouge-garanti`, `baton-loupe-documents`, `baton-conseiller-pro`, `baton-recule-prudent`.
+
+Utilisation : `panneau-croix-brillant` → accroche (un mot ne garantit rien) ; `loup-peau-mouton` → les arnaques qui visent les croyants ; `drapeau-rouge-garanti` → les signaux d’alerte ; `baton-loupe-documents` → examiner (verset, questions) ; `baton-conseiller-pro` → avis indépendant ; `baton-recule-prudent` → fin (reculer devant un signal).
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, a shiny billboard sign with a bright golden cross symbol and a big smiling star badge on top of a cheerful frame, slightly too glossy and too perfect, a subtle suspicious feeling; top middle, a gray wolf wearing a fluffy white sheep costume that is slipping off at the ear, smiling a bit too widely, standing near a few real sheep on green grass, the classic wolf in sheep's clothing idea, no text; top right, a bright red flag planted on a mound of earth next to a big shiny golden arrow pointing upward that has a tiny crack in it, a warning feeling; bottom left, a stick figure holding a magnifying glass over a stack of papers with a green check mark stamp on one of them, a careful curious face; bottom middle, two stick figures sitting at a desk, one of them wearing simple round glasses and holding a clean folder, calmly explaining to the other who listens with a clipboard, a trustworthy independent advisor feeling, a tiny simple cross pendant on the listener's thin black cord around the neck; bottom right, a stick figure stepping backwards with both palms raised in a careful stop gesture and a thoughtful face, a small red warning triangle shape floating in front of him, a tiny simple cross pendant on a thin black cord around the neck. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).
