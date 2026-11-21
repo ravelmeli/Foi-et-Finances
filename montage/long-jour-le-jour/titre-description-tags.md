@@ -26,16 +26,16 @@ Dans cette vidéo, tu découvriras :
 
 Chapitres :
 0:00 Tu vis de chèque en chèque ?
-1:18 Passage 1 : la réserve du sage (Proverbes 21:20)
-2:10 Passage 2 : la fourmi (Proverbes 6:6-8)
-3:00 Passage 3 : connaître l'état de ton troupeau (Proverbes 27:23-24)
-4:06 Passage 4 : l'action concrète (Proverbes 14:23)
-5:07 Passage 5 : ne pas vivre dans l'angoisse (Matthieu 6:34)
-5:46 Les cinq étapes et le coussin en trois paliers
-7:05 Quatre pièges à éviter
-7:40 Un exemple concret : Julie
-8:33 L'essentiel à retenir
-9:02 Ton action cette semaine
+1:16 Passage 1 : la réserve du sage (Proverbes 21:20)
+2:11 Passage 2 : la fourmi (Proverbes 6:6-8)
+3:02 Passage 3 : connaître l'état de ton troupeau (Proverbes 27:23-24)
+4:05 Passage 4 : l'action concrète (Proverbes 14:23)
+5:00 Passage 5 : ne pas vivre dans l'angoisse (Matthieu 6:34)
+5:40 Les cinq étapes et le coussin en trois paliers
+6:59 Quatre pièges à éviter
+7:37 Un exemple concret : Julie
+8:30 L'essentiel à retenir
+8:57 Ton action cette semaine
 
 Passages bibliques abordés : Proverbes 21:20, Proverbes 6:6-8, Proverbes 27:23-24, Proverbes 14:23 et Matthieu 6:34 (Louis Segond 1910).
 
