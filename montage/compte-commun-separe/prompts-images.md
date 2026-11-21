@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « Compte séparé ou compte commun : quelle sagesse ? »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. Aucun visage de Dieu ou de Jésus. Aucune marque, aucun logo.
+
+## PLANCHE (6 éléments)
+Ordre de découpe : `couple-un-compte`, `couple-deux-poches`, `couple-deux-comptes`, `couple-secret-cache`, `couple-controle-wallet`, `couple-chemin-ensemble`.
+
+Utilisation : `couple-un-compte` → formule 1 ; `couple-deux-poches` → formule 2 ; `couple-deux-comptes` → formule 3 ; `couple-secret-cache` → danger : le secret ; `couple-controle-wallet` → danger : le contrôle ; `couple-chemin-ensemble` → verset, question qui tranche et fin (unité).
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, two stick figures standing side by side smiling and together holding one big clear glass jar full of golden coins with a small red heart on it, a warm united feeling; top middle, two stick figures standing side by side, in front of them one medium shared glass jar with golden coins and a small red heart, and next to each of them a very small personal jar with a single coin, a balanced friendly feeling; top right, two stick figures each with their own glass jar of coins, with two thin green arrows going from each personal jar into a small shared jar in the middle that has a small red heart, a cooperative feeling; bottom left, two stick figures where one of them hides a plain bank card behind his back with a nervous face while the other looks at him with a worried face and a small question mark, a distrustful feeling; bottom middle, two stick figures where one of them holds a small leather wallet high above his head out of reach of the other who jumps and reaches up with a sad face, a controlling feeling; bottom right, two stick figures walking side by side on a path holding hands in the same direction toward a small friendly sun, a tiny simple cross pendant on a thin black cord around each neck, a few small green leaves around them. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).

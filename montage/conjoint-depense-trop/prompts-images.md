@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « Que faire quand son conjoint dépense trop ? »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. Aucun visage de Dieu ou de Jésus. Aucune marque, aucun logo.
+
+## PLANCHE (6 éléments)
+Ordre de découpe : `couple-sacs-tension`, `baton-parole-douce`, `couple-table-calme`, `enveloppes-plaisir`, `couple-meme-cote`, `couple-conseiller`.
+
+Utilisation : `couple-sacs-tension` → accroche ; `baton-parole-douce` → verset (réponse douce) ; `couple-table-calme` → choisir le bon moment et parler des faits ; `enveloppes-plaisir` → cadre : somme plaisir ; `couple-meme-cote` → une équipe face à l’argent ; `couple-conseiller` → demander de l’aide.
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, two stick figures in a tense moment, one holding several colorful shopping bags with a guilty face and the other holding a long paper receipt with a frustrated face, a few small tension marks between them, a worried feeling; top middle, a stick figure with a calm open palm gesture and a gentle smile, a soft round speech bubble with a small red heart next to his mouth, a tiny simple cross pendant on a thin black cord around the neck, a gentle feeling; top right, two stick figures sitting calmly at a small round table with an open notebook and a pen between them and two cups of tea, listening to each other with soft faces, a calm feeling; bottom left, two small plain envelopes side by side each with a small red heart on it and a single golden coin peeking out, like a personal spending allowance for each person, a friendly feeling; bottom middle, two stick figures standing side by side on the same side, both facing a big gray cloud-shaped obstacle with a question mark on it, shoulder to shoulder, a teamwork feeling; bottom right, a couple of two stick figures sitting across a desk from a third stick figure wearing simple round glasses who holds a clipboard and listens kindly, a supportive advisor feeling. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).
