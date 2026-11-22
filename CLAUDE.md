@@ -23,3 +23,8 @@
 
 ## Déclenchement
 - **Ne jamais démarrer une production de sa propre initiative.** L'utilisateur **précise à chaque fois quoi produire** (« on produit les Shorts » ou « on produit une vidéo longue »). Claude répond alors en **envoyant les sujets correspondants** (4 sujets pour un lot de Shorts, 1 sujet pour une vidéo longue, choisis dans les banques `ressources/sujets-shorts.md` / `ressources/sujets-longs.md` selon les règles ci-dessus) avec une justification courte, puis démarre la production (fiche, script, prompts de planches).
+
+## Cycle des vidéos longues (2 sujets de la banque, puis 1 sujet d'actualité)
+- Cycle répété : **vidéo longue n° 1 et n° 2 = sujets piochés dans `ressources/sujets-longs.md`** (potentiel de viralité maximal) ; **vidéo longue n° 3 = sujet le plus actuel du moment**, trouvé par **recherche sur internet** (Google Trends et actualité, via l'outil de recherche web ; vérifier plusieurs sources) et **qui cadre avec la chaîne** (finances personnelles chrétiennes : argent, budget, dettes, don, épargne, couple, travail…). Claude **envoie ce sujet à l'utilisateur avec la justification** (ce qui le rend actuel, sources, angle chrétien) puis démarre. Ensuite le cycle **recommence** (2 de la banque, 1 d'actualité).
+- Le **compteur du cycle** est tenu à jour en tête de `ressources/sujets-longs.md` (colonne « origine » : banque / actualité).
+- Vérifier la sensibilité du sujet d'actualité : pas de polémique politique ou partisane, pas de conseil d'investissement, pas de promesse ; angle biblique prudent.
