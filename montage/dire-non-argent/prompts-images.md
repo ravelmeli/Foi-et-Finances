@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « Comment dire non aux demandes d'argent »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. Aucun visage de Dieu ou de Jésus. Aucune marque, aucun logo.
+
+## PLANCHE (6 éléments)
+Ordre de découpe : `baton-mains-tendues`, `baton-prend-temps`, `balance-famille-demande`, `baton-non-doux`, `baton-aide-autrement`, `baton-paix-coeur`.
+
+Utilisation : `baton-mains-tendues` → accroche (les demandes) ; `baton-prend-temps` → réflexe 1 (prendre du temps) ; `balance-famille-demande` → réflexe 2 (priorités) ; `baton-non-doux` → verset et réflexe 3 (non clair et doux) ; `baton-aide-autrement` → réflexe 4 ; `baton-paix-coeur` → fin (sans culpabilité).
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, a stick figure standing with a nervous face, surrounded by several open hands reaching toward him from the edges of the frame, each hand holding out a small plain envelope, a pressured feeling; top middle, a stick figure with one hand on his chin thinking calmly, a small round wall clock floating beside him and a tiny thought bubble with a green check mark, a pause-to-think feeling; top right, a two-pan scale where the left pan holds a small house with a red heart and a loaf of bread and goes down because it is heavier, and the right pan holds a single plain envelope and goes up because it is lighter, a green leaf on the pillar; bottom left, a stick figure with a gentle smile and a calm open palm raised in a soft stop gesture, a tiny simple cross pendant on a thin black cord around the neck, a small soft red heart floating beside the palm, a kind but firm feeling; bottom middle, a stick figure handing a paper bag with bread and a phone showing a friendly call symbol toward another stick figure, a warm smile, small hearts floating, an alternative way to help feeling; bottom right, a stick figure standing relaxed with closed eyes and a peaceful smile, a few small green leaves floating around him and a small sun in the corner, a tiny simple cross pendant on a thin black cord around the neck. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).

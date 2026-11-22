@@ -1,0 +1,14 @@
+# Prompt Nano Banana — Short « Dieu peut-il restaurer une situation financière détruite ? »
+
+Même bloc de style et même bonhomme bâton que les autres vidéos. Aucun mot « Bible » dans le prompt. Aucun visage de Dieu ou de Jésus. Aucune marque, aucun logo.
+
+## PLANCHE (6 éléments)
+Ordre de découpe : `baton-ruines-finances`, `champ-sauterelles`, `champ-renaissant`, `baton-liste-situation`, `main-releve-baton`, `mur-reconstruit-briques`.
+
+Utilisation : `baton-ruines-finances` → accroche ; `champ-sauterelles` → verset (années dévorées) ; `champ-renaissant` → espérance (un champ peut refleurir) ; `baton-liste-situation` → étape 1 (regarder en face) ; `main-releve-baton` → étape 4 (demander de l’aide) ; `mur-reconstruit-briques` → étape 5 (petits pas) et fin.
+
+```
+Clean minimalist hand-drawn 2D illustration in a clear-line stickman explainer style, thick clean black outlines, flat soft colors, light pastel blue and soft green accents, warm golden coins, plenty of white space. Pure white background, 2048 x 2048 square. Six separate elements arranged in a 3 x 2 grid with generous spacing, each one isolated with no overlap and no background behind it. The stick figures all share the same look: a simple stick figure character with a large perfectly round white head outlined in thick black, minimal face with two small dot eyes, simple eyebrows and a small expressive mouth, thin black line body and limbs, small white rounded feet, no hair. Top left, a stick figure sitting on the ground in front of a broken open piggy bank with scattered small coins and a few crumpled papers, a sad slumped face with closed eyes, a small gray cloud above him, a discouraged feeling; top middle, a golden wheat field with bare stripped stalks and several small cartoon grasshoppers on the stalks, a gray sky, a damaged harvest feeling; top right, a lush green field with young green sprouts and a few golden wheat stalks growing back under a warm soft sun and a small rainbow, a hopeful renewed feeling; bottom left, a stick figure sitting at a small table writing in a notebook with a calm focused face, a pencil in hand and a clipboard beside him, a few small coins and a small calculator on the table, an honest evaluation feeling; bottom middle, a large open helping hand coming from the side reaching down to lift a small stick figure up by the arm, the stick figure with a grateful face and a tiny simple cross pendant on a thin black cord around the neck, a supportive feeling; bottom right, a half-built stone wall with a few neat light-colored bricks and a trowel, a small sapling at its foot, a stick figure setting the next brick with a determined smile, a slow rebuilding feeling. No text, no letters, no numbers, no writing, no dollar signs, no logos, no watermark, no shadows on the background, no photorealism.
+```
+
+Envoyer la planche (PNG ou JPG, fond blanc opaque).
