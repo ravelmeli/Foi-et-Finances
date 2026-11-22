@@ -12,3 +12,7 @@
 - Voix : Gemini TTS, voix Koda (Short : style « Promote » ; long : « Narration »). Ne jamais mettre de consigne de style dans le texte envoyé (elle peut être lue à voix haute) ; vérifier chaque morceau par transcription.
 - Packaging : `titre-description-tags.md` dans le format de l'utilisateur, avec le disclaimer (`ressources/disclaimer.md`, version courte pour les Shorts, version complète adaptée pour les vidéos longues) ; chapitres horodatés pour les vidéos longues.
 - Toujours commit + push sur la branche de travail.
+
+## Banque de sujets longs
+- L'utilisateur fournit un **document de sujets longs** (à ranger dans `ressources/sujets-longs.md`, avec une colonne « statut » : à faire / fait). À **chaque nouvelle vidéo longue**, Claude **pioche dans ce document** : il choisit le sujet **à plus fort potentiel de viralité** parmi ceux restants (curiosité, enjeu émotionnel fort, question que les gens se posent vraiment, bénéfice concret, angle chrétien distinctif, titre cliquable), l'**envoie à l'utilisateur avec une justification courte** et démarre (fiche, script, prompts de planches) ; il passe ensuite le sujet en « fait ».
+- **Alerter l'utilisateur quand le stock s'épuise** : dès qu'il reste **3 sujets ou moins**, le dire clairement à chaque livraison (et proposer de nouveaux sujets) ; à 0, le dire avant de continuer.
