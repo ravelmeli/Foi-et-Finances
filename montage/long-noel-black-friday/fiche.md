@@ -27,3 +27,6 @@ Voix fournie par l'utilisateur (Gemini TTS, Koda) ; vérification par transcript
 
 ## 5. Packaging
 Titres (avec « Black Friday » et « Noël »), description avec chapitres, disclaimer complet adapté, tags ; exemple de Camille et Hugo = illustration.
+
+## 6. Musique (non versionnée : fichier > 100 Mo)
+`python3 -I kit-style-02/outils/gen_musique_libre.py montage/long-noel-black-friday/assets/audio/music.wav 600 --tonalite F --bpm 76 --graine 61` (déterministe, à relancer avant un nouveau rendu).
