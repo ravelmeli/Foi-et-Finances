@@ -2,6 +2,9 @@
 
 > **Compteur du cycle (2 banque + 1 actualité)** : cycle 1 = « dîme » (banque, audio en attente), « 7 erreurs » (banque, fait) puis **actualité : « Vie chère et hiver » (`montage/long-vie-chere-hiver/`, en cours)**. Hors cycle déjà fait : « Black Friday et Noël » (actualité). **Prochain cycle : 2 sujets de la banque, puis 1 sujet d'actualité.**
 
+> **Cycle en cours :** dîme (banque, n° 1) → 7 erreurs (banque, n° 2, rendue) → **inflation et pouvoir d'achat (actualité, n° 3, en cours : `montage/long-inflation-prix/`)**. Ensuite, le cycle recommence : 2 sujets de la banque, puis 1 sujet d'actualité.
+
+
 
 Source : `Idees_de_Sujet_Long_Foi_et_Finances.md` (l'en-tête annonce 25 idées, **le document n'en contient que 13**).
 Règle : à chaque vidéo longue, choisir le sujet restant au plus fort potentiel de viralité ; alerter l'utilisateur quand il reste 3 sujets ou moins.
