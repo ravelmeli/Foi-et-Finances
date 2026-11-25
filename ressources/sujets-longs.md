@@ -1,6 +1,6 @@
 # Banque de sujets longs — Foi et Finances
 
-> **Compteur du cycle (2 banque + 1 actualité)** : n° 1 du cycle = « dîme » (banque, en cours). **Exception décidée par l'utilisateur :** une vidéo d'actualité « Black Friday et Noël sans dettes » (`montage/long-noel-black-friday/`) est produite **hors cycle**. Ensuite on reprend : n° 2 = banque, puis n° 3 = **sujet d'actualité** (recherche web), puis on recommence.
+> **Compteur du cycle (2 banque + 1 actualité)** : n° 1 du cycle = « dîme » (banque, en cours). **Exception décidée par l'utilisateur :** une vidéo d'actualité « Black Friday et Noël sans dettes » (`montage/long-noel-black-friday/`) est produite **hors cycle**. Ensuite on reprend : **n° 2 = « 7 erreurs » (banque, en cours)**, puis n° 3 = **sujet d'actualité** (recherche web), puis on recommence.
 
 
 Source : `Idees_de_Sujet_Long_Foi_et_Finances.md` (l'en-tête annonce 25 idées, **le document n'en contient que 13**).
@@ -17,7 +17,7 @@ Règle : à chaque vidéo longue, choisir le sujet restant au plus fort potentie
 | 7 | Comment vivre en dessous de ses moyens selon la Bible | How To Live Below Your Means According To The Bible | à faire |  |
 | 8 | Ce que la Bible dit sur les riches et les pauvres | What The Bible Says About Rich And Poor People | à faire |  |
 | 9 | Comment gérer l'argent dans le mariage selon la Bible | How To Manage Money In Marriage According To The Bible | à faire |  |
-| 10 | 7 erreurs financières que les chrétiens doivent arrêter de faire | 7 Financial Mistakes Christians Must Stop Making | à faire |  |
+| 10 | 7 erreurs financières que les chrétiens doivent arrêter de faire | 7 Financial Mistakes Christians Must Stop Making | en cours (n° 2 du cycle) | `montage/long-7-erreurs-chretiens/` |
 | 11 | Comment augmenter ses revenus sans compromettre ses valeurs | How To Increase Your Income Without Compromising Your Values | à faire |  |
 | 12 | Le chemin biblique de la pauvreté à la stabilité financière | The Biblical Path From Poverty To Financial Stability | à faire |  |
 | 13 | Comment utiliser l'argent sans se laisser maîtriser par lui | How To Use Money Without Letting Money Use You | à faire |  |
