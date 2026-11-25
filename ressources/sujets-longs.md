@@ -1,6 +1,6 @@
 # Banque de sujets longs — Foi et Finances
 
-> **Compteur du cycle (2 banque + 1 actualité)** : n° 1 du cycle = « dîme » (banque, en cours). **Exception décidée par l'utilisateur :** une vidéo d'actualité « Black Friday et Noël sans dettes » (`montage/long-noel-black-friday/`) est produite **hors cycle**. Ensuite on reprend : **n° 2 = « 7 erreurs » (banque, en cours)**, puis n° 3 = **sujet d'actualité** (recherche web), puis on recommence.
+> **Compteur du cycle (2 banque + 1 actualité)** : cycle 1 = « dîme » (banque, audio en attente), « 7 erreurs » (banque, fait) puis **actualité : « Vie chère et hiver » (`montage/long-vie-chere-hiver/`, en cours)**. Hors cycle déjà fait : « Black Friday et Noël » (actualité). **Prochain cycle : 2 sujets de la banque, puis 1 sujet d'actualité.**
 
 
 Source : `Idees_de_Sujet_Long_Foi_et_Finances.md` (l'en-tête annonce 25 idées, **le document n'en contient que 13**).
