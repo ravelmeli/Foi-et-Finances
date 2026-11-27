@@ -16,7 +16,7 @@ Règle : à chaque vidéo longue, choisir le sujet restant au plus fort potentie
 | 3 | La différence biblique entre besoins et envies | The Biblical Difference Between Needs And Wants | à faire |  |
 | 4 | Comment se libérer de la mentalité de pauvreté selon la Bible | How To Break A Poverty Mindset According To The Bible | à faire |  |
 | 5 | Comment investir son argent selon la Bible | How To Invest Money According To The Bible | à faire |  |
-| 6 | Pourquoi Dieu pourrait ne pas bénir vos habitudes financières | Why God May Not Bless Your Financial Habits | en cours (n° 1 du cycle 2) | `montage/long-benediction-habitudes/` |
+| 6 | Pourquoi Dieu pourrait ne pas bénir vos habitudes financières | Why God May Not Bless Your Financial Habits | fait (n° 1 du cycle 2) | `montage/long-benediction-habitudes/` |
 | 7 | Comment vivre en dessous de ses moyens selon la Bible | How To Live Below Your Means According To The Bible | à faire |  |
 | 8 | Ce que la Bible dit sur les riches et les pauvres | What The Bible Says About Rich And Poor People | à faire |  |
 | 9 | Comment gérer l'argent dans le mariage selon la Bible | How To Manage Money In Marriage According To The Bible | à faire |  |
